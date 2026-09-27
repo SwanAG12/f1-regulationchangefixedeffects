@@ -1,0 +1,321 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+VER,1,Red Bull Racing,1.0,1.0,SOFT,4.0,1,False,False,,31.4,47.4,38.0,938.7,0.7,339,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,1.0,1.0,SOFT,4.0,1,False,False,,31.4,47.4,38.0,938.7,0.7,339,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,1.0,1.0,SOFT,7.0,1,False,False,,31.4,47.4,38.0,938.7,0.7,339,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,1.0,1.0,SOFT,4.0,1,False,False,,31.4,47.1,38.0,938.7,0.9,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,1.0,1.0,SOFT,4.0,1,False,False,,31.4,47.1,38.0,938.7,0.9,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,1.0,1.0,SOFT,7.0,1,False,False,,31.4,47.1,38.0,938.7,0.9,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,1.0,1.0,SOFT,1.0,1,False,False,,31.4,47.1,38.0,938.7,0.9,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,1.0,1.0,SOFT,4.0,1,False,False,,31.4,47.1,38.0,938.7,0.9,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,2.0,1.0,SOFT,5.0,1,True,False,66.054,31.4,47.1,38.0,938.7,0.9,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,1.0,1.0,SOFT,3.0,1,False,False,,31.4,47.1,38.0,938.7,0.9,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,2.0,1.0,SOFT,5.0,1,True,False,66.201,31.4,47.1,38.0,938.7,0.9,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,1.0,1.0,SOFT,4.0,1,False,False,,31.4,47.1,38.0,938.7,0.9,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,2.0,1.0,SOFT,8.0,1,True,False,66.853,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,1.0,1.0,SOFT,4.0,1,False,False,,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,2.0,1.0,SOFT,5.0,1,True,False,67.029,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,2.0,1.0,SOFT,5.0,1,True,False,66.829,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,1.0,1.0,SOFT,1.0,1,False,False,,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,1.0,1.0,SOFT,1.0,1,False,False,,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,2.0,1.0,SOFT,8.0,1,True,False,66.452,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAR,2,Williams,1.0,1.0,SOFT,1.0,1,False,False,,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,2.0,1.0,SOFT,2.0,1,True,False,66.303,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,2.0,1.0,SOFT,5.0,1,True,False,65.941,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,2.0,1.0,SOFT,4.0,1,True,False,65.901,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+BOT,77,Kick Sauber,1.0,1.0,SOFT,1.0,1,False,False,,31.4,47.2,38.0,938.7,1.2,4,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,2.0,1.0,SOFT,5.0,1,True,False,65.91,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ZHO,24,Kick Sauber,1.0,1.0,SOFT,1.0,1,False,False,,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,2.0,1.0,SOFT,5.0,1,True,False,65.918,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,3.0,1.0,SOFT,6.0,1,False,False,88.721,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,3.0,1.0,SOFT,6.0,1,False,False,102.089,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,2.0,1.0,SOFT,2.0,1,True,False,65.929,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,3.0,1.0,SOFT,9.0,1,False,False,84.781,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,2.0,1.0,SOFT,2.0,1,True,False,66.225,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAR,2,Williams,2.0,1.0,SOFT,2.0,1,True,False,66.586,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,3.0,1.0,SOFT,6.0,1,False,False,91.042,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,3.0,1.0,SOFT,6.0,1,False,False,87.693,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,66.269,31.4,47.9,38.0,938.6,1.2,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,66.165,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+BOT,77,Kick Sauber,2.0,1.0,SOFT,2.0,1,True,False,66.509,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,3.0,1.0,SOFT,3.0,1,False,False,89.775,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ZHO,24,Kick Sauber,2.0,1.0,SOFT,2.0,1,True,False,66.464,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,3.0,1.0,SOFT,6.0,1,False,False,88.913,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,3.0,1.0,SOFT,5.0,1,False,False,85.585,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,3.0,1.0,SOFT,9.0,1,False,False,110.675,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,3.0,1.0,SOFT,6.0,1,False,False,87.768,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,3.0,1.0,SOFT,6.0,1,False,False,89.838,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,3.0,1.0,SOFT,3.0,1,False,False,82.756,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAR,2,Williams,3.0,1.0,SOFT,3.0,1,False,False,78.784,31.5,47.8,38.0,938.6,1.4,265,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,3.0,1.0,SOFT,3.0,1,False,False,101.883,31.5,47.6,37.0,938.6,1.5,326,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,90.875,31.5,47.6,37.0,938.6,1.5,326,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,1.0,1.0,SOFT,4.0,1,False,False,,31.5,47.6,37.0,938.6,1.5,326,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,1.0,1.0,SOFT,4.0,1,False,False,,31.5,47.6,37.0,938.6,1.5,326,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+BOT,77,Kick Sauber,3.0,1.0,SOFT,3.0,1,False,False,91.568,31.5,47.6,37.0,938.6,1.5,326,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ZHO,24,Kick Sauber,3.0,1.0,SOFT,3.0,1,False,False,90.047,31.5,47.6,37.0,938.6,1.5,326,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,110.792,31.5,47.6,37.0,938.6,1.5,326,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,2.0,1.0,SOFT,5.0,1,True,False,65.946,31.5,47.4,36.0,938.6,1.3,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,2.0,1.0,SOFT,5.0,1,True,False,65.614,31.5,47.4,36.0,938.6,1.3,273,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,4.0,2.0,SOFT,4.0,1,False,False,,31.5,46.2,37.0,938.8,1.3,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,4.0,2.0,SOFT,1.0,1,False,False,,31.5,46.2,37.0,938.8,1.3,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,4.0,2.0,SOFT,1.0,1,False,False,,31.5,46.2,37.0,938.8,1.3,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,4.0,2.0,SOFT,1.0,1,False,False,,31.5,46.2,37.0,938.8,1.3,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,4.0,2.0,SOFT,1.0,1,False,False,,31.5,46.2,37.0,938.8,1.3,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,4.0,2.0,SOFT,1.0,1,False,False,,31.5,46.2,37.0,938.8,1.3,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,4.0,2.0,SOFT,1.0,1,False,False,,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,3.0,1.0,SOFT,6.0,1,False,False,91.11,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,5.0,2.0,SOFT,5.0,1,True,False,65.336,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,4.0,2.0,SOFT,1.0,1,False,False,,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,5.0,2.0,SOFT,2.0,1,True,False,65.646,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,3.0,1.0,SOFT,6.0,1,False,False,109.35,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,5.0,2.0,SOFT,2.0,1,True,False,65.263,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,4.0,2.0,SOFT,1.0,1,False,False,,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,4.0,2.0,SOFT,4.0,1,False,False,,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,5.0,2.0,SOFT,2.0,1,True,False,65.924,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,4.0,2.0,SOFT,1.0,1,False,False,,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,5.0,2.0,SOFT,2.0,1,True,False,65.509,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAR,2,Williams,4.0,2.0,SOFT,1.0,1,False,False,,31.5,45.7,38.0,938.7,1.3,251,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,5.0,2.0,SOFT,2.0,1,True,False,65.836,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,4.0,2.0,SOFT,4.0,1,False,False,,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,4.0,2.0,SOFT,1.0,1,False,False,,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,5.0,2.0,SOFT,2.0,1,True,False,65.661,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,5.0,2.0,SOFT,2.0,1,True,False,65.956,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,4.0,2.0,SOFT,1.0,1,False,False,,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+BOT,77,Kick Sauber,4.0,2.0,SOFT,1.0,1,False,False,,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ZHO,24,Kick Sauber,4.0,2.0,SOFT,1.0,1,False,False,,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,5.0,2.0,SOFT,2.0,1,True,False,65.682,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,6.0,2.0,SOFT,6.0,1,False,False,83.976,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,5.0,2.0,SOFT,5.0,1,True,False,66.068,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,4.0,2.0,SOFT,1.0,1,False,False,,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,5.0,2.0,SOFT,2.0,1,True,False,65.823,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,6.0,2.0,SOFT,3.0,1,False,False,91.603,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAR,2,Williams,5.0,2.0,SOFT,2.0,1,True,False,66.123,31.3,45.8,37.0,938.7,1.5,323,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,5.0,2.0,SOFT,5.0,1,True,False,65.827,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,6.0,2.0,SOFT,3.0,1,False,False,90.569,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,6.0,2.0,SOFT,3.0,1,False,False,116.635,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,6.0,2.0,SOFT,3.0,1,False,False,86.026,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,5.0,2.0,SOFT,2.0,1,True,True,65.725,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,5.0,2.0,SOFT,2.0,1,True,False,65.311,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,6.0,2.0,SOFT,3.0,1,False,False,87.395,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+BOT,77,Kick Sauber,5.0,2.0,SOFT,2.0,1,True,False,65.847,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ZHO,24,Kick Sauber,5.0,2.0,SOFT,2.0,1,True,False,66.136,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,6.0,2.0,SOFT,3.0,1,False,False,91.803,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,5.0,2.0,SOFT,2.0,1,True,False,65.45,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,6.0,2.0,SOFT,3.0,1,False,False,82.676,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,6.0,2.0,SOFT,6.0,1,False,False,79.975,31.3,45.9,38.0,938.7,2.1,329,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,6.0,2.0,SOFT,3.0,1,False,False,109.156,31.3,46.3,38.0,938.6,1.0,341,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,6.0,2.0,SOFT,3.0,1,False,False,85.169,31.3,46.3,38.0,938.6,1.0,341,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAR,2,Williams,6.0,2.0,SOFT,3.0,1,False,False,86.5,31.3,46.3,38.0,938.6,1.0,341,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,6.0,2.0,SOFT,6.0,1,False,False,77.193,31.3,46.3,38.0,938.6,1.0,341,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,6.0,2.0,SOFT,3.0,1,False,False,81.845,31.3,46.3,38.0,938.6,1.0,341,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ZHO,24,Kick Sauber,6.0,2.0,SOFT,3.0,1,False,False,79.233,31.3,46.3,38.0,938.6,1.0,341,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,6.0,2.0,SOFT,3.0,1,False,False,90.399,31.3,46.3,38.0,938.6,1.0,341,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+BOT,77,Kick Sauber,6.0,2.0,SOFT,3.0,1,False,False,101.799,31.2,46.4,38.0,938.6,1.2,13,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,6.0,2.0,SOFT,3.0,1,False,False,96.284,31.2,46.4,38.0,938.6,1.2,13,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,7.0,3.0,SOFT,4.0,1,False,False,117.009,31.4,45.8,38.0,938.6,0.9,263,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,7.0,3.0,SOFT,1.0,1,False,False,,31.4,45.8,38.0,938.6,0.9,263,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,4.0,2.0,SOFT,1.0,1,False,False,,31.4,45.8,38.0,938.6,0.9,263,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,4.0,2.0,SOFT,3.0,1,False,False,,31.4,45.8,38.0,938.6,0.9,263,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,8.0,3.0,SOFT,5.0,1,True,False,65.602,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ZHO,24,Kick Sauber,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,8.0,3.0,SOFT,2.0,1,True,False,65.598,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,5.0,2.0,SOFT,2.0,1,True,False,65.541,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,5.0,2.0,SOFT,4.0,1,True,False,65.585,31.4,46.2,39.0,938.5,1.6,317,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,8.0,3.0,SOFT,2.0,1,True,False,65.574,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,8.0,3.0,SOFT,2.0,1,True,False,65.596,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,8.0,3.0,SOFT,2.0,1,True,False,65.508,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,8.0,3.0,SOFT,2.0,1,True,False,65.569,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ZHO,24,Kick Sauber,8.0,3.0,SOFT,2.0,1,True,False,66.061,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAR,2,Williams,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,8.0,3.0,SOFT,2.0,1,True,False,65.563,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+BOT,77,Kick Sauber,7.0,3.0,SOFT,1.0,1,False,False,,31.4,46.8,39.0,938.6,1.6,165,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,8.0,3.0,SOFT,2.0,1,True,False,65.736,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,9.0,3.0,SOFT,3.0,1,False,False,92.79,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,9.0,3.0,SOFT,6.0,1,False,False,105.839,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,6.0,2.0,SOFT,3.0,1,False,False,93.25,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,6.0,2.0,SOFT,5.0,1,False,False,91.785,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,8.0,3.0,SOFT,2.0,1,True,False,65.819,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,8.0,3.0,SOFT,2.0,1,True,False,65.656,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,8.0,3.0,SOFT,2.0,1,False,False,87.967,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,9.0,3.0,SOFT,3.0,1,False,False,84.315,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,9.0,3.0,SOFT,3.0,1,False,False,97.863,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,9.0,3.0,SOFT,3.0,1,False,False,82.525,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAR,2,Williams,8.0,3.0,SOFT,2.0,1,True,False,65.856,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,65.587,31.4,46.8,39.0,938.5,0.7,335,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+BOT,77,Kick Sauber,8.0,3.0,SOFT,2.0,1,True,False,65.894,31.3,46.9,38.0,938.6,0.9,8,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,9.0,3.0,SOFT,3.0,1,False,False,94.026,31.3,46.9,38.0,938.6,0.9,8,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ZHO,24,Kick Sauber,9.0,3.0,SOFT,3.0,1,False,False,93.697,31.3,46.9,38.0,938.6,0.9,8,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,9.0,3.0,SOFT,3.0,1,False,False,90.669,31.3,46.9,38.0,938.6,0.9,8,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,9.0,3.0,SOFT,3.0,1,False,False,114.898,31.4,46.1,37.0,938.6,1.2,281,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,9.0,3.0,SOFT,3.0,1,False,False,94.126,31.4,46.1,37.0,938.6,1.2,281,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,9.0,3.0,SOFT,3.0,1,False,False,94.014,31.4,46.1,37.0,938.6,1.2,281,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAR,2,Williams,9.0,3.0,SOFT,3.0,1,False,False,93.964,31.4,46.1,37.0,938.6,1.2,281,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,9.0,3.0,SOFT,3.0,1,False,False,91.937,31.4,46.1,37.0,938.6,1.2,281,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+BOT,77,Kick Sauber,9.0,3.0,SOFT,3.0,1,False,False,91.148,31.4,46.1,37.0,938.6,1.2,281,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.0,38.0,938.5,1.1,311,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.0,38.0,938.5,1.1,311,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,7.0,3.0,SOFT,4.0,1,False,False,,31.3,46.0,37.0,938.6,2.3,312,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,9.0,4.0,SOFT,4.0,1,False,False,,31.3,46.0,37.0,938.6,2.3,312,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,11.0,4.0,SOFT,2.0,1,True,False,65.582,31.3,46.0,37.0,938.6,2.3,312,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,11.0,4.0,SOFT,2.0,1,True,False,65.657,31.3,46.0,37.0,938.6,2.3,312,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,8.0,3.0,SOFT,5.0,1,True,False,65.745,31.3,46.0,37.0,938.5,1.3,307,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,10.0,4.0,SOFT,5.0,1,True,False,65.532,31.3,46.0,37.0,938.5,1.3,307,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,12.0,4.0,SOFT,3.0,1,False,False,85.919,31.3,45.7,37.0,938.4,1.1,304,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,9.0,3.0,SOFT,6.0,1,False,False,86.297,31.3,45.7,37.0,938.4,1.1,304,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,11.0,4.0,SOFT,6.0,1,False,False,79.227,31.3,45.7,37.0,938.4,1.1,304,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,12.0,4.0,SOFT,3.0,1,False,False,110.059,31.3,45.7,37.0,938.4,1.1,304,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,7.0,3.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.9,31,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.9,31,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,7.0,3.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.9,31,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,7.0,3.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.9,31,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.9,31,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,7.0,3.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.9,31,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,64.577,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,11.0,4.0,SOFT,2.0,1,True,False,65.412,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,8.0,3.0,SOFT,2.0,1,True,False,65.244,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,8.0,3.0,SOFT,2.0,1,True,False,65.068,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,11.0,4.0,SOFT,2.0,1,True,False,65.334,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,8.0,3.0,SOFT,2.0,1,True,False,65.07,31.3,46.4,37.0,938.5,1.5,308,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,13.0,5.0,SOFT,1.0,1,False,False,,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,11.0,4.0,SOFT,2.0,1,True,False,65.639,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,11.0,4.0,SOFT,2.0,1,True,False,65.103,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,11.0,4.0,SOFT,2.0,1,True,False,65.491,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,11.0,4.0,SOFT,2.0,1,True,False,65.192,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,9.0,3.0,SOFT,3.0,1,False,False,88.274,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,10.0,4.0,SOFT,1.0,1,False,False,,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,12.0,4.0,SOFT,3.0,1,False,False,86.653,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,13.0,5.0,SOFT,1.0,1,False,False,,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,9.0,3.0,SOFT,3.0,1,False,False,83.99,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,11.0,4.0,SOFT,2.0,1,True,False,65.532,31.3,46.6,38.0,938.4,1.6,303,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,12.0,5.0,SOFT,3.0,1,False,False,,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,14.0,5.0,SOFT,2.0,1,True,False,65.319,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,12.0,4.0,SOFT,3.0,1,False,False,89.695,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,9.0,3.0,SOFT,3.0,1,False,False,87.504,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,12.0,4.0,SOFT,3.0,1,False,False,84.009,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,9.0,3.0,SOFT,3.0,1,False,False,117.085,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,12.0,4.0,SOFT,3.0,1,False,False,85.649,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,11.0,4.0,SOFT,2.0,1,True,False,65.016,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,12.0,4.0,SOFT,3.0,1,False,False,79.059,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,14.0,5.0,SOFT,2.0,1,True,False,65.359,31.3,46.6,37.0,938.4,1.5,3,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,12.0,4.0,SOFT,3.0,1,False,False,88.555,31.3,46.7,37.0,938.4,1.1,349,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,13.0,5.0,SOFT,4.0,1,True,False,65.104,31.3,46.7,37.0,938.4,1.1,349,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,12.0,4.0,SOFT,3.0,1,False,False,79.613,31.3,46.7,37.0,938.4,1.1,349,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,15.0,5.0,SOFT,3.0,1,False,False,84.263,31.3,46.7,37.0,938.4,1.1,349,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,15.0,5.0,SOFT,3.0,1,False,False,83.506,31.4,46.7,38.0,938.5,1.1,337,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,14.0,5.0,SOFT,5.0,1,False,False,79.452,31.4,46.7,38.0,938.5,1.1,337,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,12.0,4.0,SOFT,3.0,1,False,False,107.513,31.4,46.7,38.0,938.5,1.1,337,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,13.0,5.0,SOFT,1.0,1,False,False,,31.4,45.4,38.0,938.4,0.9,283,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,16.0,6.0,SOFT,1.0,1,False,False,,31.4,45.7,38.0,938.4,0.8,0,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,13.0,5.0,SOFT,1.0,1,False,False,,31.4,45.7,38.0,938.4,0.8,0,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,10.0,4.0,SOFT,1.0,1,False,False,,31.4,45.7,38.0,938.4,0.8,0,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,13.0,5.0,SOFT,1.0,1,False,False,,31.4,45.7,38.0,938.4,0.8,0,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,10.0,4.0,SOFT,1.0,1,False,False,,31.4,45.7,38.0,938.4,0.8,0,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,10.0,4.0,SOFT,1.0,1,False,False,,31.4,45.7,38.0,938.4,0.8,0,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,14.0,5.0,SOFT,2.0,1,True,False,65.144,31.4,45.7,38.0,938.4,0.8,0,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,13.0,5.0,SOFT,1.0,1,False,False,,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,17.0,6.0,SOFT,2.0,1,True,False,65.274,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,13.0,5.0,SOFT,1.0,1,False,False,,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,14.0,5.0,SOFT,2.0,1,True,False,65.526,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,13.0,5.0,SOFT,1.0,1,False,False,,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,11.0,4.0,SOFT,2.0,1,True,False,65.053,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,16.0,6.0,SOFT,1.0,1,False,False,,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,14.0,5.0,SOFT,2.0,1,True,False,65.262,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,15.0,6.0,SOFT,1.0,1,False,False,,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,11.0,4.0,SOFT,2.0,1,True,False,65.016,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,10.0,4.0,SOFT,4.0,1,False,False,,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,13.0,5.0,SOFT,4.0,1,False,False,,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,11.0,4.0,SOFT,2.0,1,True,False,64.469,31.3,45.7,37.0,938.4,1.3,15,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,14.0,5.0,SOFT,2.0,1,True,False,65.347,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,14.0,5.0,SOFT,2.0,1,True,False,65.758,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,14.0,5.0,SOFT,2.0,1,True,False,65.289,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,15.0,5.0,SOFT,3.0,1,False,False,90.74,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,17.0,6.0,SOFT,2.0,1,True,True,65.335,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,18.0,6.0,SOFT,3.0,1,False,False,91.59,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,16.0,6.0,SOFT,2.0,1,False,False,78.402,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+TSU,22,RB,15.0,5.0,SOFT,3.0,1,False,False,98.776,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,12.0,4.0,SOFT,3.0,1,False,False,95.399,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,15.0,5.0,SOFT,3.0,1,False,False,84.424,31.3,45.8,37.0,938.4,0.9,321,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,14.0,5.0,SOFT,5.0,1,False,False,75.276,31.3,45.9,37.0,938.3,1.0,176,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,11.0,4.0,SOFT,5.0,1,False,False,87.332,31.3,45.9,37.0,938.3,1.0,176,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,12.0,4.0,SOFT,3.0,1,False,False,95.383,31.3,45.9,37.0,938.3,1.0,176,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,12.0,4.0,SOFT,3.0,1,False,False,85.29,31.3,45.9,37.0,938.3,1.0,176,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+MAG,20,Haas F1 Team,15.0,5.0,SOFT,3.0,1,False,False,78.75,31.3,45.9,37.0,938.3,1.0,176,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,15.0,5.0,SOFT,3.0,1,False,False,86.951,31.3,45.9,37.0,938.3,1.0,176,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RIC,3,RB,15.0,5.0,SOFT,3.0,1,False,False,,31.3,45.9,37.0,938.3,1.0,176,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,18.0,6.0,SOFT,3.0,1,False,False,,31.4,45.6,38.0,938.4,1.4,345,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,16.0,6.0,SOFT,4.0,1,False,False,,31.2,45.2,37.0,938.3,1.0,286,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,19.0,7.0,SOFT,4.0,1,False,False,,31.2,45.2,37.0,938.3,1.0,286,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,13.0,5.0,SOFT,1.0,1,False,False,,31.2,45.2,37.0,938.3,1.1,324,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,12.0,5.0,SOFT,1.0,1,False,False,,31.2,45.2,37.0,938.3,1.1,324,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,17.0,6.0,SOFT,5.0,1,True,False,66.004,31.2,45.2,37.0,938.3,1.1,324,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,13.0,5.0,SOFT,1.0,1,False,False,,31.2,45.2,37.0,938.3,1.1,324,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,15.0,6.0,SOFT,1.0,1,False,False,,31.2,45.2,37.0,938.3,1.1,324,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,20.0,7.0,SOFT,5.0,1,True,False,65.94,31.2,45.2,37.0,938.3,1.1,324,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,17.0,7.0,SOFT,3.0,1,False,False,,31.2,45.2,37.0,938.3,1.1,324,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,16.0,6.0,SOFT,4.0,1,False,False,,31.2,45.1,37.0,938.2,0.8,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,14.0,5.0,SOFT,2.0,1,True,False,65.235,31.2,45.1,37.0,938.2,0.8,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,13.0,5.0,SOFT,1.0,1,False,False,,31.2,45.1,37.0,938.2,0.8,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,13.0,5.0,SOFT,2.0,1,True,False,65.048,31.2,45.1,37.0,938.2,0.8,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,13.0,5.0,SOFT,1.0,1,False,False,,31.2,45.1,37.0,938.2,0.8,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,14.0,5.0,SOFT,2.0,1,True,False,64.426,31.2,45.1,37.0,938.2,0.8,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,16.0,6.0,SOFT,2.0,1,True,False,64.787,31.2,45.1,37.0,938.2,0.8,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,18.0,6.0,SOFT,6.0,1,False,False,82.341,31.2,45.1,37.0,938.2,0.8,350,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,18.0,7.0,SOFT,4.0,1,True,False,65.044,31.2,44.7,37.0,938.3,1.1,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,17.0,6.0,SOFT,5.0,1,True,False,65.504,31.2,44.7,37.0,938.3,1.1,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,21.0,7.0,SOFT,6.0,1,False,False,92.174,31.2,44.7,37.0,938.3,1.1,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,14.0,5.0,SOFT,2.0,1,True,False,65.113,31.2,44.7,37.0,938.3,1.1,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,14.0,5.0,SOFT,2.0,1,True,False,64.954,31.2,44.7,37.0,938.3,1.1,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,15.0,5.0,SOFT,3.0,1,False,False,90.553,31.2,44.7,37.0,938.3,1.1,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,14.0,5.0,SOFT,3.0,1,False,False,87.906,31.2,44.7,37.0,938.3,1.1,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,15.0,5.0,SOFT,3.0,1,False,False,81.217,31.3,43.9,37.0,938.2,1.8,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,17.0,6.0,SOFT,3.0,1,False,False,86.929,31.3,43.9,37.0,938.2,1.8,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,19.0,7.0,SOFT,5.0,1,False,False,78.405,31.3,43.9,37.0,938.2,1.8,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,18.0,6.0,SOFT,6.0,1,False,False,88.348,31.3,43.9,37.0,938.2,1.8,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,15.0,5.0,SOFT,3.0,1,False,False,86.372,31.3,43.9,37.0,938.2,1.8,327,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,15.0,5.0,SOFT,3.0,1,False,False,90.22,31.2,43.7,37.0,938.2,1.6,318,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,22.0,8.0,SOFT,4.0,1,False,False,,31.0,44.2,39.0,938.1,1.8,292,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,16.0,6.0,SOFT,1.0,1,False,False,,31.0,44.2,39.0,938.1,1.8,292,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,19.0,7.0,SOFT,1.0,1,False,False,,31.0,44.2,39.0,938.1,1.8,292,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,15.0,6.0,SOFT,1.0,1,False,False,,31.0,44.2,39.0,938.1,1.8,292,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,16.0,6.0,SOFT,1.0,1,False,False,,31.0,44.2,39.0,938.1,1.8,292,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,18.0,7.0,SOFT,1.0,1,False,False,,31.0,44.5,39.0,938.2,1.2,7,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,23.0,8.0,SOFT,5.0,1,True,False,65.883,31.0,44.5,39.0,938.2,1.2,7,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,19.0,7.0,SOFT,4.0,1,False,False,,31.0,44.5,39.0,938.2,1.2,7,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,17.0,6.0,SOFT,2.0,1,True,False,64.314,31.0,44.5,39.0,938.2,1.2,7,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,20.0,8.0,SOFT,1.0,1,False,False,,31.0,44.5,39.0,938.2,1.2,7,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,20.0,7.0,SOFT,2.0,1,True,False,65.385,31.0,44.5,39.0,938.2,1.2,7,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,16.0,6.0,SOFT,1.0,1,False,False,,31.0,44.5,39.0,938.2,1.2,7,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,16.0,6.0,SOFT,2.0,1,True,True,64.786,31.0,44.5,39.0,938.2,1.2,7,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,16.0,6.0,SOFT,1.0,1,False,False,,31.0,44.6,38.0,938.2,1.4,26,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,17.0,6.0,SOFT,2.0,1,True,False,64.851,31.0,44.6,38.0,938.2,1.4,26,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,19.0,7.0,SOFT,2.0,1,True,False,64.718,31.0,44.6,38.0,938.2,1.4,26,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,20.0,7.0,SOFT,5.0,1,True,False,65.202,31.0,44.6,38.0,938.2,1.4,26,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,21.0,8.0,SOFT,2.0,1,True,True,70.75,31.0,44.6,38.0,938.2,1.4,26,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+OCO,31,Alpine,24.0,8.0,SOFT,6.0,1,False,False,,31.0,44.6,38.0,938.2,1.4,26,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,17.0,6.0,SOFT,2.0,1,True,False,64.903,31.0,44.6,38.0,938.2,1.4,26,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,17.0,6.0,SOFT,2.0,1,True,False,64.84,31.0,44.8,38.0,938.2,0.9,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HUL,27,Haas F1 Team,21.0,7.0,SOFT,3.0,1,False,False,,31.0,44.8,38.0,938.2,0.9,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,18.0,6.0,SOFT,3.0,1,False,False,96.13,31.0,44.8,38.0,938.2,0.9,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,17.0,6.0,SOFT,3.0,1,False,False,,31.0,44.8,38.0,938.2,0.9,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+SAI,55,Ferrari,18.0,6.0,SOFT,3.0,1,False,False,,31.0,44.8,38.0,938.2,0.9,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,20.0,7.0,SOFT,3.0,1,False,False,89.618,31.0,44.8,38.0,938.2,0.9,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+PER,11,Red Bull Racing,21.0,7.0,SOFT,6.0,1,False,False,,31.0,44.8,38.0,938.2,1.3,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+HAM,44,Mercedes,18.0,6.0,SOFT,3.0,1,False,False,,31.0,44.8,38.0,938.2,1.3,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,22.0,8.0,SOFT,3.0,1,False,False,,31.0,44.8,38.0,938.2,1.3,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,18.0,6.0,SOFT,3.0,1,False,False,,31.0,44.8,38.0,938.2,1.3,325,False,Austria,2024,11,Austrian Grand Prix,sprint_qualifying,True

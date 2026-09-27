@@ -1,0 +1,325 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+VER,33,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,18.7,27.8,71.1,987.9,0.7,130,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,1.0,1.0,SOFT,1.0,1,False,False,,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+KVY,26,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,76.136,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,75.581,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,75.484,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,76.683,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,2.0,1.0,SOFT,2.0,1,True,False,75.757,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,1,True,True,77.912,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,76.047,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,2.0,1.0,SOFT,2.0,1,True,False,75.87,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,2.0,1.0,SOFT,2.0,1,True,False,76.878,18.6,27.8,71.4,987.8,1.0,112,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,77.701,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,76.509,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,2.0,1.0,SOFT,2.0,1,True,False,76.498,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,2.0,1.0,SOFT,2.0,1,True,False,76.417,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,2.0,1.0,SOFT,2.0,1,True,False,77.443,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,77.621,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+KVY,26,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,77.166,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,1,True,False,77.61,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,76.833,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,1.0,1.0,SOFT,1.0,1,False,False,,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,1.0,1.0,SOFT,1.0,1,False,False,,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,104.699,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,3.0,1.0,SOFT,3.0,1,True,False,105.744,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,3.0,1.0,SOFT,3.0,1,True,False,103.762,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,101.9,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,3.0,1.0,SOFT,3.0,1,True,False,103.976,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,3.0,1.0,SOFT,3.0,1,False,False,102.812,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,3.0,1.0,SOFT,3.0,1,True,False,95.55,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,93.642,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,3.0,1.0,SOFT,3.0,1,True,False,109.901,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,3.0,1.0,SOFT,3.0,1,True,False,113.62,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,3.0,1.0,SOFT,3.0,1,True,False,106.237,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,91.923,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,3.0,1.0,SOFT,3.0,1,True,False,107.858,18.6,27.8,71.4,987.8,1.2,148,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,3.0,1.0,SOFT,3.0,1,True,False,106.305,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+KVY,26,AlphaTauri,3.0,1.0,SOFT,3.0,1,False,False,95.206,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,3.0,1.0,SOFT,3.0,1,False,False,92.397,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,3.0,1.0,SOFT,3.0,1,True,False,105.799,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,2.0,1.0,SOFT,2.0,1,True,False,76.487,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,2.0,1.0,SOFT,2.0,1,True,False,76.736,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,3.0,1.0,SOFT,3.0,1,True,False,104.1,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,4.0,1.0,SOFT,4.0,1,True,False,75.42,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,4.0,1.0,SOFT,4.0,1,True,False,75.673,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,4.0,1.0,SOFT,4.0,1,True,False,76.428,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,4.0,1.0,SOFT,4.0,1,True,False,97.054,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,4.0,1.0,SOFT,4.0,1,True,False,76.177,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,4.0,1.0,SOFT,4.0,1,True,False,76.518,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,4.0,1.0,SOFT,4.0,1,True,False,76.202,18.8,28.0,71.6,987.8,1.3,69,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,4.0,1.0,SOFT,4.0,1,True,False,75.922,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,4.0,1.0,SOFT,4.0,1,True,False,76.217,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,4.0,1.0,SOFT,4.0,1,True,False,76.139,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,4.0,1.0,SOFT,4.0,1,True,False,76.553,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,4.0,1.0,SOFT,4.0,1,True,False,77.263,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,4.0,2.0,SOFT,1.0,1,False,False,119.694,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,4.0,1.0,SOFT,4.0,1,True,False,76.292,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,3.0,1.0,SOFT,3.0,1,True,False,103.533,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,4.0,2.0,SOFT,1.0,1,False,False,108.546,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,5.0,1.0,SOFT,5.0,1,True,False,76.336,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,3.0,1.0,SOFT,3.0,1,True,False,108.28,18.9,28.1,71.8,987.9,2.0,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,5.0,1.0,SOFT,5.0,1,True,False,102.398,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,5.0,1.0,SOFT,5.0,1,False,False,102.096,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,5.0,1.0,SOFT,5.0,1,False,False,92.498,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,5.0,1.0,SOFT,5.0,1,False,False,88.225,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,5.0,1.0,SOFT,5.0,1,True,False,106.595,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,5.0,1.0,SOFT,5.0,1,False,False,93.101,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,5.0,1.0,SOFT,5.0,1,False,False,90.926,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,5.0,1.0,SOFT,5.0,1,True,False,97.869,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,5.0,2.0,SOFT,2.0,1,True,False,86.177,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,5.0,1.0,SOFT,5.0,1,True,False,110.344,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,5.0,1.0,SOFT,5.0,1,True,False,104.854,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,5.0,1.0,SOFT,5.0,1,False,False,100.611,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,4.0,1.0,SOFT,4.0,1,True,False,76.314,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,5.0,1.0,SOFT,5.0,1,False,False,92.271,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,4.0,1.0,SOFT,4.0,1,True,False,76.111,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,6.0,1.0,SOFT,6.0,1,True,False,75.366,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,5.0,2.0,SOFT,2.0,1,True,False,96.822,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,6.0,1.0,SOFT,6.0,1,False,False,95.862,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,6.0,1.0,SOFT,6.0,1,True,False,76.671,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,19.0,27.4,71.4,987.9,1.9,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,6.0,1.0,SOFT,6.0,1,False,False,85.586,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,6.0,1.0,SOFT,6.0,1,True,False,76.155,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,6.0,1.0,SOFT,6.0,1,False,False,84.86,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,6.0,2.0,SOFT,3.0,1,False,False,96.607,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,5.0,1.0,SOFT,5.0,1,False,False,86.881,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,5.0,1.0,SOFT,5.0,1,False,False,91.697,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,6.0,2.0,SOFT,3.0,1,True,False,77.204,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+KVY,26,AlphaTauri,4.0,2.0,SOFT,1.0,1,False,False,,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,7.0,1.0,SOFT,7.0,1,False,False,96.112,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,76.672,19.1,27.4,71.8,987.9,1.5,92,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,76.407,19.0,27.2,72.0,987.9,1.8,91,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,7.0,1.0,SOFT,7.0,1,False,False,97.509,19.0,27.2,72.0,987.9,1.8,91,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,7.0,1.0,SOFT,7.0,1,False,False,90.871,19.0,27.2,72.0,987.9,1.8,91,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+KVY,26,AlphaTauri,5.0,2.0,SOFT,2.0,1,True,False,76.225,19.0,27.2,72.0,987.9,1.8,91,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,7.0,2.0,SOFT,4.0,1,False,False,89.572,19.0,27.2,72.0,987.9,1.8,91,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,7.0,3.0,SOFT,1.0,1,False,False,110.983,19.0,27.2,72.0,987.9,1.8,91,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,90.496,19.0,27.2,72.0,987.9,1.8,91,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,90.273,19.0,27.2,72.0,987.9,1.8,91,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+KVY,26,AlphaTauri,6.0,2.0,SOFT,3.0,1,False,False,88.795,19.0,27.1,71.1,987.8,1.7,108,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,8.0,3.0,SOFT,2.0,1,True,False,76.807,19.0,27.1,71.1,987.8,1.7,108,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,6.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,71.8,987.8,1.4,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,8.0,3.0,SOFT,1.0,1,False,False,110.46,18.8,27.0,71.8,987.8,1.4,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,6.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,71.8,987.8,1.4,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,6.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,71.8,987.8,1.4,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,6.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,71.8,987.8,1.4,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,6.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,71.8,987.8,1.4,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,9.0,3.0,SOFT,3.0,1,False,False,90.9,18.7,27.0,71.7,987.8,1.5,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,7.0,2.0,SOFT,2.0,1,True,False,75.585,18.7,27.0,71.7,987.8,1.5,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,9.0,3.0,SOFT,2.0,1,True,False,76.614,18.7,27.0,71.7,987.8,1.5,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,7.0,2.0,SOFT,2.0,1,True,False,76.105,18.7,27.0,71.7,987.8,1.5,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,7.0,2.0,SOFT,2.0,1,True,False,74.681,18.7,27.0,71.7,987.8,1.5,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,7.0,2.0,SOFT,2.0,1,True,False,75.767,18.7,27.0,71.7,987.8,1.5,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,7.0,2.0,SOFT,2.0,1,True,False,74.895,18.7,27.0,71.7,987.8,1.5,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,7.0,2.0,SOFT,1.0,1,False,False,,18.7,27.0,71.7,987.8,1.5,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,8.0,2.0,SOFT,1.0,1,False,False,,18.7,27.0,71.7,987.8,1.5,114,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,8.0,2.0,SOFT,3.0,1,True,False,106.686,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,10.0,3.0,SOFT,3.0,1,True,False,105.966,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,7.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,8.0,2.0,SOFT,3.0,1,False,False,93.968,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,8.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,10.0,4.0,SOFT,1.0,1,False,False,134.701,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+KVY,26,AlphaTauri,7.0,3.0,SOFT,1.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,8.0,2.0,SOFT,3.0,1,True,False,117.539,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,6.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,8.0,2.0,SOFT,3.0,1,False,False,93.703,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,8.0,2.0,SOFT,3.0,1,True,False,108.574,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,6.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,8.0,2.0,SOFT,8.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,6.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,8.0,2.0,SOFT,2.0,1,True,False,75.455,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,6.0,2.0,SOFT,6.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,9.0,2.0,SOFT,2.0,1,True,False,75.722,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,7.0,2.0,SOFT,1.0,1,False,False,,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,11.0,3.0,SOFT,4.0,1,True,False,77.092,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,9.0,2.0,SOFT,4.0,1,False,False,82.754,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,8.0,2.0,SOFT,2.0,1,True,False,75.444,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,9.0,2.0,SOFT,2.0,1,True,False,75.281,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,11.0,4.0,SOFT,2.0,1,True,False,76.506,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+KVY,26,AlphaTauri,8.0,3.0,SOFT,2.0,1,True,False,76.204,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,7.0,2.0,SOFT,2.0,1,True,False,75.719,18.8,27.0,72.5,987.8,1.7,102,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,8.0,3.0,SOFT,2.0,1,True,False,76.152,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,9.0,2.0,SOFT,4.0,1,False,False,92.149,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,7.0,2.0,SOFT,2.0,1,True,False,75.848,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,9.0,2.0,SOFT,4.0,1,False,False,86.845,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,9.0,2.0,SOFT,9.0,1,True,False,74.907,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,7.0,2.0,SOFT,2.0,1,True,False,75.793,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,7.0,2.0,SOFT,7.0,1,True,False,75.474,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,8.0,3.0,SOFT,2.0,1,False,False,89.962,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,8.0,2.0,SOFT,2.0,1,True,False,75.495,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,9.0,2.0,SOFT,3.0,1,False,False,101.509,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,10.0,2.0,SOFT,3.0,1,False,False,101.805,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,12.0,3.0,SOFT,5.0,1,False,False,94.074,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,9.0,2.0,SOFT,3.0,1,False,False,95.722,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,10.0,2.0,SOFT,3.0,1,False,False,98.562,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,12.0,4.0,SOFT,3.0,1,False,False,95.6,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+KVY,26,AlphaTauri,9.0,3.0,SOFT,3.0,1,False,False,95.583,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,8.0,2.0,SOFT,3.0,1,False,False,93.713,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,9.0,3.0,SOFT,3.0,1,False,False,93.082,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,8.0,2.0,SOFT,3.0,1,False,False,92.552,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,10.0,2.0,SOFT,10.0,1,False,False,89.916,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,8.0,2.0,SOFT,3.0,1,False,False,95.761,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,8.0,2.0,SOFT,8.0,1,False,False,94.352,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,9.0,2.0,SOFT,3.0,1,False,False,90.466,18.8,27.1,73.3,987.8,1.8,101,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,10.0,3.0,SOFT,1.0,1,False,False,,18.5,27.0,73.6,987.8,0.8,192,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,9.0,3.0,MEDIUM,1.0,1,False,False,,18.5,27.0,73.6,987.8,0.8,192,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,9.0,3.0,MEDIUM,1.0,1,False,False,,18.5,27.0,73.6,987.8,0.8,192,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,9.0,3.0,MEDIUM,1.0,1,False,False,,18.5,27.0,73.6,987.8,0.8,192,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,10.0,3.0,SOFT,1.0,1,False,False,,18.4,27.1,73.8,987.9,0.8,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,11.0,3.0,SOFT,1.0,1,False,False,,18.4,27.1,73.8,987.9,0.8,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,9.0,3.0,MEDIUM,1.0,1,False,False,,18.4,27.1,73.8,987.9,0.8,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,11.0,3.0,MEDIUM,1.0,1,False,False,,18.4,27.1,73.8,987.9,0.8,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,11.0,3.0,SOFT,2.0,1,True,False,75.698,18.4,27.1,73.8,987.9,0.8,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,9.0,3.0,MEDIUM,1.0,1,False,False,,18.4,27.1,73.8,987.9,0.8,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,10.0,3.0,SOFT,1.0,1,False,False,,18.4,27.1,73.8,987.9,0.8,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,10.0,3.0,SOFT,1.0,1,False,False,,18.4,27.1,73.8,987.9,0.8,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,9.0,3.0,SOFT,1.0,1,False,False,,18.4,27.1,73.8,987.9,0.8,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,11.0,3.0,SOFT,1.0,1,False,False,,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,10.0,3.0,MEDIUM,2.0,1,True,False,75.296,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,10.0,3.0,SOFT,1.0,1,False,False,,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,10.0,3.0,MEDIUM,2.0,1,True,False,75.394,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,10.0,3.0,MEDIUM,2.0,1,True,False,76.066,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,11.0,3.0,SOFT,2.0,1,True,False,75.203,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,12.0,3.0,SOFT,2.0,1,True,False,75.267,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,10.0,3.0,MEDIUM,2.0,1,True,False,75.661,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,12.0,3.0,MEDIUM,2.0,1,True,False,74.261,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,10.0,3.0,MEDIUM,2.0,1,True,False,74.53,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,11.0,3.0,SOFT,2.0,1,True,False,75.148,18.5,27.3,73.4,987.8,0.9,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,11.0,3.0,SOFT,2.0,1,True,False,75.131,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,10.0,3.0,SOFT,2.0,1,True,False,75.675,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,12.0,3.0,SOFT,2.0,1,True,False,75.715,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,12.0,3.0,SOFT,3.0,1,False,False,104.688,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,11.0,3.0,SOFT,2.0,1,True,False,76.544,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,11.0,3.0,MEDIUM,3.0,1,True,False,102.155,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,11.0,3.0,MEDIUM,3.0,1,False,False,93.276,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,11.0,3.0,MEDIUM,3.0,1,True,False,101.533,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,12.0,3.0,SOFT,3.0,1,False,False,95.223,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,10.0,3.0,SOFT,1.0,1,False,False,,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,13.0,3.0,SOFT,3.0,1,False,False,99.7,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,11.0,3.0,MEDIUM,3.0,1,False,False,96.875,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,13.0,3.0,MEDIUM,3.0,1,False,False,97.06,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,11.0,3.0,MEDIUM,3.0,1,False,False,94.663,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,12.0,3.0,SOFT,3.0,1,False,False,91.107,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,12.0,3.0,SOFT,3.0,1,False,False,98.172,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,11.0,3.0,SOFT,3.0,1,False,False,91.809,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,13.0,3.0,SOFT,3.0,1,False,False,97.152,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,12.0,3.0,MEDIUM,4.0,1,True,False,75.394,18.6,27.3,73.9,987.8,1.6,100,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,12.0,3.0,MEDIUM,4.0,1,True,False,75.511,18.7,27.1,73.0,987.8,1.7,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,12.0,3.0,SOFT,3.0,1,False,False,103.871,18.7,27.1,73.0,987.8,1.7,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,11.0,3.0,SOFT,2.0,1,True,False,75.508,18.7,27.1,73.0,987.8,1.7,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,13.0,3.0,MEDIUM,5.0,1,False,False,87.555,18.7,27.1,73.0,987.8,1.7,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,13.0,3.0,MEDIUM,5.0,1,False,False,89.887,18.7,27.1,73.0,987.8,1.7,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,12.0,3.0,SOFT,3.0,1,False,False,105.875,18.7,26.9,72.9,987.8,1.2,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,13.0,4.0,SOFT,1.0,1,False,False,,18.5,26.7,73.4,987.9,0.6,162,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,14.0,4.0,MEDIUM,1.0,1,False,False,,18.5,26.7,73.4,987.9,0.6,162,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,14.0,4.0,SOFT,1.0,1,False,False,,18.5,26.7,73.4,987.9,0.6,162,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,12.0,4.0,SOFT,1.0,1,False,False,,18.5,26.7,73.4,987.9,0.6,162,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,12.0,4.0,SOFT,1.0,1,False,False,,18.5,26.7,73.4,987.9,0.6,162,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,13.0,4.0,SOFT,1.0,1,False,False,,18.5,26.7,73.4,987.9,0.6,162,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,12.0,4.0,SOFT,1.0,1,False,False,,18.5,26.7,73.4,987.9,0.6,162,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,13.0,4.0,SOFT,1.0,1,False,False,,18.5,26.7,73.4,987.9,0.6,162,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,14.0,4.0,MEDIUM,1.0,1,False,False,,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,13.0,4.0,SOFT,5.0,1,False,False,,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,14.0,4.0,SOFT,1.0,1,False,False,,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,12.0,4.0,SOFT,1.0,1,False,False,,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,13.0,4.0,SOFT,1.0,1,False,False,,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,13.0,4.0,SOFT,5.0,1,False,False,,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,14.0,4.0,SOFT,1.0,1,False,False,,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,14.0,4.0,SOFT,2.0,1,True,False,75.085,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,15.0,4.0,MEDIUM,2.0,1,True,False,78.558,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,15.0,4.0,SOFT,2.0,1,True,False,75.55,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,13.0,4.0,SOFT,2.0,1,True,False,75.69,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,13.0,4.0,SOFT,2.0,1,True,False,75.742,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,13.0,4.0,SOFT,2.0,1,True,False,75.006,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,15.0,4.0,MEDIUM,2.0,1,True,False,75.176,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,14.0,4.0,SOFT,2.0,1,False,False,81.905,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,15.0,4.0,SOFT,2.0,1,True,False,76.782,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,14.0,4.0,SOFT,6.0,1,False,False,84.987,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,13.0,4.0,SOFT,2.0,1,True,False,76.005,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,14.0,4.0,SOFT,2.0,1,True,False,74.976,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,15.0,4.0,SOFT,2.0,1,True,False,77.115,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LAT,6,Williams,14.0,4.0,SOFT,6.0,1,False,False,87.176,18.6,26.7,73.9,987.8,1.1,87,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+GAS,10,AlphaTauri,14.0,4.0,SOFT,2.0,1,False,False,140.805,18.6,26.6,72.6,987.9,1.8,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,15.0,4.0,SOFT,3.0,1,False,False,100.162,18.6,26.6,72.6,987.9,1.8,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,16.0,4.0,MEDIUM,3.0,1,False,False,94.676,18.6,26.6,72.6,987.9,1.8,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,16.0,4.0,SOFT,3.0,1,False,False,100.615,18.6,26.6,72.6,987.9,1.8,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,14.0,4.0,SOFT,3.0,1,False,False,98.057,18.6,26.6,72.6,987.9,1.8,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+OCO,31,Renault,14.0,4.0,SOFT,3.0,1,False,False,103.338,18.6,26.6,72.6,987.9,1.8,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,16.0,4.0,MEDIUM,3.0,1,False,False,87.938,18.6,26.6,72.6,987.9,1.8,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,14.0,4.0,SOFT,3.0,1,False,False,104.07,18.6,26.6,72.6,987.9,1.8,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,16.0,4.0,SOFT,3.0,1,False,False,89.513,18.6,26.6,72.6,987.9,1.8,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,14.0,4.0,SOFT,3.0,1,False,False,92.772,18.6,26.9,72.4,987.7,2.0,115,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,15.0,4.0,SOFT,3.0,1,False,False,94.533,18.6,26.9,72.4,987.7,2.0,115,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,16.0,4.0,SOFT,3.0,1,False,False,101.866,18.6,26.9,72.4,987.7,2.0,115,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,17.0,5.0,SOFT,1.0,1,False,False,,18.6,26.4,71.3,987.7,1.6,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,15.0,5.0,SOFT,4.0,1,False,False,,18.6,26.4,71.3,987.7,1.6,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,17.0,5.0,SOFT,1.0,1,False,False,,18.6,26.4,71.3,987.7,1.6,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,15.0,5.0,SOFT,4.0,1,False,False,,18.6,26.4,71.3,987.7,1.6,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,15.0,5.0,SOFT,1.0,1,False,False,,18.6,26.4,71.3,987.7,1.6,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,16.0,5.0,SOFT,1.0,1,False,False,,18.6,26.4,71.3,987.7,1.6,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,17.0,5.0,SOFT,1.0,1,False,False,,18.6,26.4,71.3,987.7,1.6,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,17.0,5.0,SOFT,1.0,1,False,False,,18.6,26.4,71.3,987.7,1.6,97,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,16.0,5.0,SOFT,1.0,1,False,False,,18.7,26.5,71.6,987.8,1.2,73,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,18.0,5.0,SOFT,2.0,1,True,False,74.671,18.7,26.5,71.6,987.8,1.2,73,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,16.0,5.0,SOFT,5.0,1,True,False,75.281,18.7,26.5,71.6,987.8,1.2,73,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,18.0,5.0,SOFT,2.0,1,True,False,73.613,18.7,26.5,71.6,987.8,1.2,73,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,16.0,5.0,SOFT,5.0,1,True,False,75.575,18.7,26.5,71.6,987.8,1.2,73,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,16.0,5.0,SOFT,2.0,1,True,False,73.924,18.7,26.5,71.6,987.8,1.2,73,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,17.0,5.0,SOFT,2.0,1,True,False,74.966,18.7,26.5,71.6,987.8,1.2,73,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,18.0,5.0,SOFT,2.0,1,True,True,75.088,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,18.0,5.0,SOFT,2.0,1,True,False,75.027,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,17.0,5.0,SOFT,2.0,1,True,False,74.849,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,19.0,5.0,SOFT,3.0,1,False,False,87.218,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,17.0,5.0,SOFT,6.0,1,False,False,91.938,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,19.0,5.0,SOFT,3.0,1,False,False,88.331,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,17.0,5.0,SOFT,6.0,1,False,False,87.78,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,17.0,5.0,SOFT,3.0,1,False,False,91.081,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,18.0,5.0,SOFT,3.0,1,False,False,96.254,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,19.0,5.0,SOFT,3.0,1,False,False,92.034,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,19.0,5.0,SOFT,3.0,1,False,False,98.322,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,18.0,5.0,SOFT,3.0,1,False,False,94.687,18.7,26.5,71.0,987.9,1.8,116,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,18.0,6.0,SOFT,1.0,1,False,False,,18.8,26.0,69.8,987.8,2.0,91,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,18.0,6.0,SOFT,1.0,1,False,False,,18.8,25.9,69.6,987.9,1.8,98,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,20.0,6.0,SOFT,1.0,1,False,False,,18.8,25.9,69.6,987.9,1.8,98,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,20.0,6.0,SOFT,1.0,1,False,False,,18.7,25.7,69.5,987.9,1.7,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,19.0,6.0,SOFT,2.0,1,True,False,74.774,18.7,25.7,69.5,987.9,1.7,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,19.0,6.0,SOFT,2.0,1,True,False,74.817,18.7,25.7,69.5,987.9,1.7,104,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,21.0,6.0,SOFT,2.0,1,True,False,74.377,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,21.0,6.0,SOFT,2.0,1,True,False,74.545,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,20.0,6.0,SOFT,3.0,1,False,False,,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,20.0,6.0,SOFT,1.0,1,False,False,,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,20.0,6.0,SOFT,3.0,1,False,False,,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,18.0,6.0,SOFT,1.0,1,False,False,,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,19.0,6.0,SOFT,4.0,1,False,False,,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,20.0,6.0,SOFT,4.0,1,False,False,,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,22.0,6.0,SOFT,3.0,1,False,False,,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,19.0,6.0,SOFT,4.0,1,False,False,,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,22.0,6.0,SOFT,3.0,1,False,False,,18.8,25.6,70.1,987.9,1.6,99,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,21.0,6.0,SOFT,2.0,1,True,False,73.447,18.6,25.6,70.9,988.0,1.2,86,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,19.0,6.0,SOFT,2.0,1,True,False,73.554,18.6,25.6,70.9,988.0,1.2,86,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,20.0,6.0,SOFT,5.0,1,False,False,,18.6,25.6,70.9,988.0,1.2,86,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,20.0,6.0,SOFT,5.0,1,True,False,74.863,18.8,25.7,70.3,988.0,1.5,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,21.0,6.0,SOFT,5.0,1,False,False,,18.8,25.7,70.3,988.0,1.5,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,22.0,6.0,SOFT,3.0,1,False,False,106.881,18.8,25.7,70.7,987.9,1.8,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,20.0,6.0,SOFT,3.0,1,False,False,104.661,18.8,25.7,70.7,987.9,1.8,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,21.0,6.0,SOFT,6.0,1,False,False,,18.8,25.7,70.7,987.9,1.8,95,False,Hungary,2020,3,Hungarian Grand Prix,conventional,False

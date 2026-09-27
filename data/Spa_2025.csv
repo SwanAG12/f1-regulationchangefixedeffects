@@ -1,0 +1,293 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+GAS,10,Alpine,1.0,1.0,SOFT,4.0,1,False,False,,22.3,37.2,56.0,967.8,1.4,299,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+COL,43,Alpine,1.0,1.0,MEDIUM,1.0,1,False,False,,22.3,37.2,56.0,967.8,1.4,299,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,1.0,1.0,SOFT,8.0,1,False,False,,22.4,36.6,56.0,967.9,1.4,331,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,1.0,1.0,SOFT,1.0,1,False,False,,22.4,36.6,56.0,967.9,1.4,331,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,1.0,1.0,SOFT,4.0,1,False,False,,22.4,36.6,56.0,967.9,1.4,331,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,1.0,1.0,SOFT,5.0,1,False,False,,22.4,36.6,56.0,967.9,1.4,331,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,1.0,1.0,SOFT,4.0,1,False,False,,22.4,36.6,56.0,967.9,1.4,331,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,1.0,1.0,SOFT,4.0,1,False,False,,22.4,36.6,56.0,967.9,1.4,331,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,1.0,1.0,SOFT,4.0,1,False,False,,22.4,36.6,56.0,967.9,1.4,331,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,1.0,1.0,SOFT,4.0,1,False,False,,22.4,36.6,56.0,967.9,1.4,331,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,1.0,1.0,SOFT,4.0,1,False,False,,22.3,36.5,55.0,967.9,1.8,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,1.0,1.0,SOFT,4.0,1,False,False,,22.3,36.5,55.0,967.9,1.8,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,1.0,1.0,SOFT,7.0,1,False,False,,22.3,36.5,55.0,967.9,1.8,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,1.0,1.0,SOFT,1.0,1,False,False,,22.3,36.5,55.0,967.9,1.8,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,1.0,1.0,SOFT,7.0,1,False,False,,22.3,36.5,55.0,967.9,1.8,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,2.0,1.0,SOFT,5.0,1,False,False,114.092,22.3,36.5,55.0,967.9,1.8,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+COL,43,Alpine,2.0,1.0,MEDIUM,2.0,1,False,False,109.646,22.3,36.5,55.0,967.9,1.8,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,2.0,1.0,SOFT,9.0,1,False,False,112.445,22.3,36.5,55.0,967.9,1.8,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,2.0,1.0,SOFT,2.0,1,False,False,111.76,22.3,36.6,55.0,967.9,1.7,28,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,2.0,1.0,SOFT,5.0,1,False,False,115.122,22.3,36.6,55.0,967.9,1.7,28,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,2.0,1.0,SOFT,6.0,1,False,False,115.177,22.3,36.6,55.0,967.9,1.7,28,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,2.0,1.0,SOFT,5.0,1,False,False,109.081,22.3,36.6,55.0,967.9,1.7,28,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,2.0,1.0,SOFT,5.0,1,False,False,116.952,22.3,36.6,55.0,967.9,1.7,28,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,2.0,1.0,SOFT,5.0,1,True,False,102.076,22.3,36.6,55.0,967.9,1.7,28,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,2.0,1.0,SOFT,5.0,1,True,False,101.998,22.3,36.6,55.0,967.9,1.7,28,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,2.0,1.0,SOFT,5.0,1,False,False,111.862,22.3,36.5,55.0,967.9,0.7,97,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,2.0,1.0,SOFT,8.0,1,False,False,110.05,22.3,36.5,55.0,967.9,0.7,97,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,2.0,1.0,SOFT,2.0,1,False,False,108.529,22.3,36.5,55.0,967.9,0.7,97,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,22.3,36.5,55.0,967.9,0.7,97,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,2.0,1.0,SOFT,8.0,1,False,False,110.459,22.3,36.5,55.0,967.9,0.7,97,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,22.3,36.5,55.0,967.9,0.7,97,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,1.0,1.0,SOFT,1.0,1,False,False,,22.3,36.4,56.0,967.9,0.4,8,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,22.3,36.4,56.0,967.9,0.4,8,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,22.3,36.4,56.0,967.9,0.4,8,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,3.0,1.0,SOFT,6.0,1,False,False,123.69,22.3,36.4,56.0,967.9,0.4,8,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,3.0,2.0,SOFT,1.0,1,False,False,,22.3,36.4,56.0,967.9,0.4,8,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,3.0,2.0,SOFT,1.0,1,False,False,148.694,22.3,36.4,56.0,967.9,0.4,8,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,3.0,2.0,SOFT,1.0,1,False,False,,22.3,36.4,56.0,967.9,0.4,8,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,3.0,2.0,SOFT,7.0,1,False,False,,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,102.732,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,3.0,2.0,SOFT,1.0,1,False,False,,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,102.564,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,2.0,2.0,SOFT,1.0,1,False,False,,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,3.0,1.0,SOFT,6.0,1,False,False,,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,3.0,2.0,SOFT,1.0,1,False,False,,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,2.0,1.0,SOFT,2.0,1,True,False,102.851,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,102.066,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,3.0,2.0,SOFT,1.0,1,False,False,,22.3,36.6,57.0,967.9,0.9,266,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,102.381,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,3.0,2.0,SOFT,1.0,1,False,False,,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,3.0,2.0,SOFT,1.0,1,False,False,,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,3.0,2.0,SOFT,4.0,1,False,False,,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+COL,43,Alpine,3.0,2.0,SOFT,1.0,1,False,False,,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,4.0,2.0,SOFT,2.0,1,True,False,101.765,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,3.0,2.0,SOFT,1.0,1,False,False,,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,4.0,2.0,SOFT,2.0,1,True,False,102.683,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,4.0,2.0,SOFT,2.0,1,True,False,101.772,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,4.0,2.0,SOFT,8.0,1,True,False,101.906,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,4.0,2.0,SOFT,2.0,1,True,False,101.691,22.4,37.1,57.0,967.9,1.1,283,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,3.0,2.0,SOFT,2.0,1,True,False,102.164,22.4,37.4,56.0,967.9,0.8,263,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,4.0,2.0,SOFT,2.0,1,True,False,102.5,22.4,37.4,56.0,967.9,0.8,263,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,3.0,1.0,SOFT,3.0,1,False,False,143.801,22.4,37.4,56.0,967.9,0.8,263,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,4.0,2.0,SOFT,2.0,1,True,False,102.136,22.4,37.4,56.0,967.9,0.8,263,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,4.0,2.0,SOFT,2.0,1,True,False,101.635,22.4,37.4,56.0,967.9,0.8,263,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,4.0,2.0,SOFT,2.0,1,True,False,102.192,22.4,37.4,56.0,967.9,0.8,263,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,4.0,2.0,SOFT,5.0,1,True,False,102.479,22.4,37.4,56.0,967.9,0.8,263,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,3.0,1.0,SOFT,3.0,1,False,False,,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+COL,43,Alpine,4.0,2.0,SOFT,2.0,1,True,False,102.545,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,3.0,1.0,SOFT,3.0,1,False,False,140.66,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,4.0,2.0,SOFT,2.0,1,True,False,101.939,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,3.0,1.0,SOFT,3.0,1,False,False,137.914,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,4.0,2.0,SOFT,1.0,1,False,False,,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,5.0,2.0,SOFT,3.0,1,False,False,127.417,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,5.0,2.0,SOFT,9.0,1,False,False,119.802,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,5.0,2.0,SOFT,3.0,1,False,False,128.4,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,5.0,2.0,SOFT,3.0,1,False,False,137.817,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,3.0,1.0,SOFT,3.0,1,False,False,,22.4,37.7,56.0,967.9,0.7,354,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,4.0,2.0,SOFT,1.0,1,False,False,,22.6,38.2,54.0,967.8,0.7,293,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,4.0,2.0,SOFT,3.0,1,False,False,134.026,22.6,38.2,54.0,967.8,0.7,293,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,5.0,2.0,SOFT,3.0,1,False,False,123.298,22.6,38.2,54.0,967.8,0.7,293,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,5.0,2.0,SOFT,3.0,1,False,False,114.89,22.6,38.2,54.0,967.8,0.7,293,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,5.0,2.0,SOFT,3.0,1,False,False,,22.6,38.2,54.0,967.8,0.7,293,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,5.0,2.0,SOFT,3.0,1,False,False,135.754,22.6,38.2,54.0,967.8,0.7,293,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,5.0,2.0,SOFT,3.0,1,False,False,131.446,22.6,38.2,54.0,967.8,0.7,293,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,5.0,2.0,SOFT,6.0,1,False,False,121.764,22.6,38.2,54.0,967.8,0.7,293,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,5.0,2.0,SOFT,2.0,1,True,False,101.01,22.6,38.3,54.0,967.8,1.2,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,5.0,2.0,SOFT,3.0,1,False,False,138.255,22.6,38.3,54.0,967.8,1.2,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+COL,43,Alpine,5.0,2.0,SOFT,3.0,1,False,False,,22.6,38.3,54.0,967.8,1.2,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,5.0,2.0,SOFT,2.0,1,True,False,101.201,22.6,38.3,54.0,967.8,1.2,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,6.0,2.0,SOFT,3.0,1,True,False,143.697,22.6,37.9,53.0,967.8,2.6,251,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,4.0,2.0,SOFT,1.0,1,False,False,,22.6,37.9,53.0,967.8,2.6,251,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,4.0,2.0,SOFT,1.0,1,False,False,,22.6,37.9,53.0,967.8,2.6,251,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,4.0,2.0,SOFT,1.0,1,False,False,,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,6.0,2.0,SOFT,3.0,1,True,False,132.855,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,6.0,3.0,SOFT,1.0,1,False,False,,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,6.0,3.0,SOFT,1.0,1,False,False,,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,6.0,3.0,SOFT,1.0,1,False,False,,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,4.0,2.0,SOFT,1.0,1,False,False,,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,5.0,3.0,SOFT,1.0,1,False,False,,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,4.0,2.0,SOFT,1.0,1,False,False,,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,6.0,3.0,SOFT,1.0,1,False,False,,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,6.0,3.0,SOFT,1.0,1,False,False,,22.7,38.1,56.0,967.7,1.3,348,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,6.0,3.0,SOFT,1.0,1,False,False,,22.8,38.0,53.0,967.7,2.0,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,6.0,3.0,SOFT,1.0,1,False,False,,22.8,38.0,53.0,967.7,2.0,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,5.0,2.0,SOFT,2.0,1,True,False,101.334,22.8,38.0,53.0,967.7,2.0,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,6.0,3.0,SOFT,4.0,1,False,False,,22.8,38.0,53.0,967.7,2.0,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,5.0,2.0,SOFT,2.0,1,True,False,102.139,22.8,38.0,53.0,967.7,2.0,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,5.0,2.0,SOFT,2.0,1,True,False,101.784,22.8,38.0,53.0,967.7,2.0,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,6.0,3.0,SOFT,1.0,1,False,False,,22.8,38.0,53.0,967.7,2.0,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,7.0,3.0,SOFT,2.0,1,True,False,102.502,22.8,38.0,53.0,967.7,2.0,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,7.0,3.0,SOFT,2.0,1,True,False,102.385,22.8,38.0,53.0,967.7,2.0,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,6.0,3.0,SOFT,1.0,1,False,False,,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,7.0,3.0,SOFT,2.0,1,True,False,101.748,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,6.0,3.0,SOFT,1.0,1,False,False,,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,7.0,2.0,SOFT,4.0,1,False,False,,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,5.0,2.0,SOFT,2.0,1,True,False,101.908,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+COL,43,Alpine,6.0,3.0,SOFT,1.0,1,False,False,,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,6.0,3.0,SOFT,2.0,1,True,False,101.572,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,7.0,2.0,SOFT,4.0,1,True,False,145.727,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,5.0,2.0,SOFT,2.0,1,True,False,101.84,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,7.0,3.0,SOFT,2.0,1,True,False,101.617,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,7.0,3.0,SOFT,2.0,1,True,False,101.844,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,7.0,3.0,SOFT,2.0,1,True,False,101.893,23.0,37.9,54.0,967.9,1.3,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,7.0,3.0,SOFT,2.0,1,True,False,101.884,23.0,37.8,52.0,967.8,2.0,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,7.0,3.0,SOFT,5.0,1,False,False,115.413,23.0,37.8,52.0,967.8,2.0,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,7.0,3.0,SOFT,2.0,1,True,False,101.8,23.0,37.8,52.0,967.8,2.0,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,6.0,2.0,SOFT,3.0,1,False,False,139.918,23.0,37.8,52.0,967.8,2.0,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,7.0,3.0,SOFT,2.0,1,True,True,101.664,23.0,37.8,52.0,967.8,2.0,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,6.0,2.0,SOFT,3.0,1,False,False,135.184,23.0,37.8,52.0,967.8,2.0,337,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+COL,43,Alpine,7.0,3.0,SOFT,2.0,1,True,False,102.022,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,8.0,2.0,SOFT,5.0,1,False,False,110.07,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,6.0,2.0,SOFT,3.0,1,False,False,151.199,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,8.0,2.0,SOFT,5.0,1,True,False,101.393,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,8.0,3.0,SOFT,3.0,1,False,False,142.574,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,8.0,3.0,SOFT,3.0,1,False,False,141.962,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,7.0,3.0,SOFT,2.0,1,False,False,146.425,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,8.0,3.0,SOFT,3.0,1,False,False,146.874,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,7.0,3.0,SOFT,3.0,1,False,False,135.118,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,6.0,2.0,SOFT,3.0,1,False,False,141.12,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,8.0,3.0,SOFT,3.0,1,False,False,138.554,23.1,37.4,52.0,967.8,2.2,328,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,8.0,3.0,SOFT,3.0,1,False,False,139.915,23.0,37.3,52.0,967.8,1.9,346,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,8.0,3.0,SOFT,3.0,1,False,False,133.509,23.0,37.3,52.0,967.8,1.9,346,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,8.0,3.0,SOFT,3.0,1,False,False,133.766,23.0,37.3,52.0,967.8,1.9,346,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,6.0,2.0,SOFT,3.0,1,False,False,180.704,23.0,37.3,52.0,967.8,1.9,346,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,8.0,3.0,SOFT,3.0,1,False,False,144.984,23.0,37.3,52.0,967.8,1.9,346,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+COL,43,Alpine,8.0,3.0,SOFT,3.0,1,False,False,144.386,22.9,37.3,53.0,967.7,1.8,300,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,9.0,2.0,SOFT,6.0,1,False,False,141.205,22.9,37.3,53.0,967.7,1.8,300,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,8.0,3.0,SOFT,3.0,1,False,False,175.58,22.9,37.3,53.0,967.7,1.8,300,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,7.0,3.0,SOFT,1.0,1,False,False,,22.4,36.2,55.0,967.8,0.9,0,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,9.0,4.0,SOFT,1.0,1,False,False,,22.4,36.6,55.0,967.7,0.3,315,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,7.0,3.0,SOFT,1.0,1,False,False,,22.4,36.6,55.0,967.7,0.3,315,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,7.0,3.0,SOFT,1.0,1,False,False,,22.4,36.6,55.0,967.7,0.3,315,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,8.0,4.0,SOFT,3.0,1,False,False,,22.4,36.6,55.0,967.7,0.3,315,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,10.0,3.0,SOFT,1.0,1,False,False,,22.4,36.6,55.0,967.7,0.3,315,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,9.0,3.0,SOFT,1.0,1,False,False,,22.4,36.6,55.0,967.7,0.3,315,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,9.0,4.0,SOFT,1.0,1,False,False,,22.4,36.6,55.0,967.7,0.3,315,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,9.0,4.0,SOFT,1.0,1,False,False,,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,9.0,4.0,SOFT,1.0,1,False,False,,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,9.0,4.0,SOFT,1.0,1,False,False,,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,100.951,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,8.0,4.0,SOFT,1.0,1,False,False,,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,10.0,4.0,SOFT,2.0,1,True,False,101.675,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,8.0,4.0,SOFT,1.0,1,False,False,,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,101.245,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,9.0,4.0,SOFT,1.0,1,False,False,,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,7.0,3.0,SOFT,1.0,1,False,False,,22.4,36.6,54.0,967.8,1.3,349,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,8.0,3.0,SOFT,2.0,1,True,False,101.379,22.5,35.9,54.0,967.8,2.1,29,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,9.0,4.0,SOFT,4.0,1,True,False,102.029,22.5,35.9,54.0,967.8,2.1,29,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,11.0,3.0,SOFT,2.0,1,True,False,100.626,22.5,35.9,54.0,967.8,2.1,29,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,10.0,3.0,SOFT,2.0,1,True,False,100.715,22.5,35.9,54.0,967.8,2.1,29,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,10.0,4.0,SOFT,2.0,1,True,False,101.505,22.5,35.9,54.0,967.8,2.1,29,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,10.0,4.0,SOFT,2.0,1,True,False,101.753,22.5,35.9,54.0,967.8,2.1,29,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,10.0,4.0,SOFT,2.0,1,False,False,117.512,22.3,36.0,55.0,967.7,1.5,46,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,10.0,4.0,SOFT,2.0,1,True,False,102.001,22.3,36.0,55.0,967.7,1.5,46,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,9.0,4.0,SOFT,2.0,1,True,False,101.084,22.3,36.0,55.0,967.7,1.5,46,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,9.0,4.0,SOFT,2.0,1,True,False,101.562,22.3,36.0,55.0,967.7,1.5,46,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,10.0,4.0,SOFT,2.0,1,True,False,101.955,22.3,36.0,55.0,967.7,1.5,46,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,8.0,3.0,SOFT,2.0,1,True,False,101.973,22.3,36.0,55.0,967.7,1.5,46,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,11.0,4.0,SOFT,3.0,1,False,False,142.479,22.2,36.4,55.0,967.7,0.8,241,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,9.0,3.0,SOFT,3.0,1,False,False,141.796,22.2,36.4,55.0,967.7,0.8,241,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,9.0,3.0,SOFT,3.0,1,False,False,133.037,22.2,36.4,55.0,967.7,0.8,241,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,10.0,4.0,SOFT,5.0,1,False,False,134.833,22.2,36.4,55.0,967.7,0.8,241,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,9.0,3.0,SOFT,3.0,1,False,False,170.571,22.2,36.4,55.0,967.7,0.8,241,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,12.0,3.0,SOFT,3.0,1,False,False,136.412,22.2,36.4,55.0,967.7,0.8,241,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,11.0,3.0,SOFT,3.0,1,False,False,134.769,22.2,36.4,55.0,967.7,0.8,241,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,11.0,4.0,SOFT,3.0,1,False,False,130.389,22.2,36.4,55.0,967.7,0.8,241,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,11.0,4.0,SOFT,3.0,1,False,False,,22.3,36.5,55.0,967.7,0.9,6,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,11.0,4.0,SOFT,3.0,1,False,False,130.34,22.3,36.5,55.0,967.7,0.9,6,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,10.0,4.0,SOFT,3.0,1,False,False,118.575,22.3,36.5,55.0,967.7,0.9,6,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,10.0,4.0,SOFT,3.0,1,False,False,128.453,22.3,36.5,55.0,967.7,0.9,6,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,11.0,4.0,SOFT,3.0,1,False,False,118.405,22.3,36.5,55.0,967.7,0.9,6,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,9.0,3.0,SOFT,3.0,1,False,False,124.078,22.3,36.5,55.0,967.7,0.9,6,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,12.0,5.0,SOFT,1.0,1,False,False,,22.5,37.5,57.0,967.7,0.5,244,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,11.0,5.0,SOFT,1.0,1,False,False,,22.5,37.5,57.0,967.7,0.5,244,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,12.0,5.0,SOFT,1.0,1,False,False,,22.5,37.5,57.0,967.7,0.5,244,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,10.0,4.0,SOFT,1.0,1,False,False,,22.5,37.1,55.0,967.7,1.3,12,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,12.0,4.0,SOFT,4.0,1,False,False,,22.5,37.1,55.0,967.7,1.3,12,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,10.0,4.0,SOFT,1.0,1,False,False,,22.5,37.1,55.0,967.7,1.3,12,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,11.0,5.0,SOFT,1.0,1,False,False,,22.5,37.1,55.0,967.7,1.3,12,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,12.0,5.0,SOFT,1.0,1,False,False,,22.5,37.1,55.0,967.7,1.3,12,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,13.0,4.0,SOFT,4.0,1,False,False,,22.5,37.1,55.0,967.7,1.3,12,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,12.0,5.0,SOFT,1.0,1,False,False,,22.5,37.1,55.0,967.7,1.3,12,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,11.0,5.0,SOFT,4.0,1,False,False,,22.6,37.1,55.0,967.6,1.0,10,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,12.0,5.0,SOFT,1.0,1,False,False,,22.6,37.1,55.0,967.6,1.0,10,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,10.0,4.0,SOFT,1.0,1,False,False,,22.6,37.1,55.0,967.6,1.0,10,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,11.0,5.0,SOFT,1.0,1,False,False,,22.6,37.1,55.0,967.6,1.0,10,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,13.0,5.0,SOFT,2.0,1,True,False,101.633,22.6,37.1,55.0,967.6,1.0,10,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,12.0,5.0,SOFT,2.0,1,True,False,101.281,22.6,37.1,55.0,967.6,1.0,10,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,13.0,5.0,SOFT,2.0,1,True,False,101.707,22.6,37.1,55.0,967.6,1.0,10,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,11.0,4.0,SOFT,2.0,1,True,False,101.336,22.6,37.1,55.0,967.6,1.0,10,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,13.0,4.0,SOFT,5.0,1,True,False,101.078,22.6,37.1,55.0,967.6,1.0,10,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,11.0,4.0,SOFT,2.0,1,True,False,101.254,22.8,38.0,56.0,967.6,0.8,233,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,12.0,5.0,SOFT,2.0,1,True,False,101.758,22.8,38.0,56.0,967.6,0.8,233,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,13.0,5.0,SOFT,2.0,1,True,False,101.297,22.8,38.0,56.0,967.6,0.8,233,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,14.0,4.0,SOFT,5.0,1,True,False,101.362,22.8,38.0,56.0,967.6,0.8,233,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,13.0,5.0,SOFT,2.0,1,True,False,101.559,22.8,38.0,56.0,967.6,0.8,233,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,13.0,5.0,SOFT,2.0,1,True,False,101.525,22.8,38.0,56.0,967.6,0.8,233,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,12.0,5.0,SOFT,2.0,1,True,False,101.617,22.9,38.1,55.0,967.6,1.5,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,12.0,5.0,SOFT,5.0,1,False,False,112.522,22.9,38.1,55.0,967.6,1.5,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,11.0,4.0,SOFT,2.0,1,False,False,141.654,22.9,38.1,55.0,967.6,1.5,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,14.0,5.0,SOFT,3.0,1,False,False,142.2,22.9,38.1,55.0,967.6,1.5,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,13.0,5.0,SOFT,3.0,1,False,False,137.33,22.9,38.1,55.0,967.6,1.5,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HUL,27,Kick Sauber,14.0,5.0,SOFT,3.0,1,False,False,142.466,23.0,38.2,56.0,967.5,0.6,226,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,14.0,4.0,SOFT,6.0,1,False,False,133.974,23.0,38.2,56.0,967.5,0.6,226,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,12.0,4.0,SOFT,3.0,1,False,False,143.655,23.0,38.2,56.0,967.5,0.6,226,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,12.0,4.0,SOFT,3.0,1,False,False,132.996,23.0,38.2,56.0,967.5,0.6,226,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+SAI,55,Williams,13.0,5.0,SOFT,3.0,1,False,False,143.745,23.0,38.2,56.0,967.5,0.6,226,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,14.0,5.0,SOFT,3.0,1,False,False,144.036,23.0,38.2,56.0,967.5,0.6,226,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,15.0,4.0,SOFT,6.0,1,False,False,134.287,23.0,38.2,56.0,967.5,0.6,226,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,14.0,5.0,SOFT,3.0,12,False,False,135.784,23.0,38.2,56.0,967.5,0.6,226,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,14.0,5.0,SOFT,3.0,12,False,False,,23.0,38.6,55.0,967.6,0.9,9,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,13.0,5.0,SOFT,3.0,12,False,False,135.485,23.0,38.6,55.0,967.6,0.9,9,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,13.0,5.0,SOFT,1.0,12,False,False,,23.2,38.9,55.0,967.5,1.6,264,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,10.0,4.0,SOFT,4.0,12,False,False,,23.2,38.9,55.0,967.5,1.6,264,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,13.0,6.0,SOFT,1.0,12,False,False,,22.9,39.6,57.0,967.5,1.8,342,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,12.0,5.0,SOFT,4.0,12,False,False,,22.9,39.6,57.0,967.5,1.8,342,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,16.0,5.0,SOFT,1.0,12,False,False,,22.9,39.6,57.0,967.5,1.8,342,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,15.0,5.0,SOFT,1.0,12,False,False,,22.9,39.6,57.0,967.5,1.8,342,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,15.0,6.0,SOFT,3.0,12,False,False,,22.9,39.6,57.0,967.5,1.8,342,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,14.0,6.0,SOFT,4.0,12,False,False,,22.9,39.6,57.0,967.5,1.8,342,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,13.0,5.0,SOFT,4.0,12,False,False,,22.9,39.6,57.0,967.5,1.8,342,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,15.0,6.0,SOFT,4.0,21,False,False,,22.9,39.6,57.0,967.5,1.8,342,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,14.0,5.0,SOFT,2.0,1,True,False,101.54,22.8,39.6,51.0,967.4,1.3,15,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,11.0,4.0,SOFT,5.0,1,True,False,101.078,22.8,39.6,51.0,967.4,1.3,15,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,14.0,6.0,SOFT,2.0,1,True,False,101.339,22.8,39.6,51.0,967.4,1.3,15,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,13.0,5.0,SOFT,5.0,1,True,False,102.019,22.8,39.6,51.0,967.4,1.3,15,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,17.0,5.0,SOFT,2.0,1,True,False,100.751,22.9,39.6,51.0,967.5,1.0,327,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,16.0,5.0,SOFT,2.0,1,True,False,100.562,22.9,39.6,51.0,967.5,1.0,327,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,16.0,6.0,SOFT,4.0,1,True,False,102.102,22.9,39.6,51.0,967.5,1.0,327,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,15.0,6.0,SOFT,5.0,1,True,False,102.573,22.9,39.6,51.0,967.5,1.0,327,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,14.0,5.0,SOFT,5.0,1,True,True,102.955,22.9,39.6,51.0,967.5,1.0,327,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,16.0,6.0,SOFT,5.0,1,True,False,102.269,22.9,39.6,51.0,967.5,1.0,327,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,15.0,5.0,SOFT,3.0,1,False,False,131.645,22.7,39.6,52.0,967.4,0.8,304,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,12.0,4.0,SOFT,6.0,1,False,False,132.614,22.7,39.6,52.0,967.4,0.8,304,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,15.0,6.0,SOFT,3.0,1,False,False,127.559,22.7,39.6,52.0,967.4,0.8,304,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,14.0,5.0,SOFT,6.0,1,False,False,128.354,22.7,40.1,51.0,967.5,1.9,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,18.0,5.0,SOFT,3.0,1,False,False,130.675,22.7,40.1,51.0,967.5,1.9,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,17.0,5.0,SOFT,3.0,1,False,False,127.229,22.7,40.1,51.0,967.5,1.9,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,17.0,6.0,SOFT,5.0,1,False,False,126.974,22.7,40.1,51.0,967.5,1.9,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,16.0,6.0,SOFT,6.0,1,False,False,120.892,22.7,40.1,51.0,967.5,1.9,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,15.0,5.0,SOFT,6.0,1,False,False,121.772,22.7,40.1,51.0,967.5,1.9,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,17.0,6.0,SOFT,6.0,1,False,False,119.432,22.7,40.1,51.0,967.5,1.9,322,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,13.0,5.0,SOFT,1.0,1,False,False,,22.8,39.5,51.0,967.4,1.1,353,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,17.0,7.0,SOFT,1.0,1,False,False,,22.9,39.8,52.0,967.4,1.5,341,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,18.0,6.0,SOFT,1.0,1,False,False,,22.9,39.8,52.0,967.4,1.5,341,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,16.0,7.0,SOFT,4.0,1,False,False,,22.9,39.8,52.0,967.4,1.5,341,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,19.0,6.0,SOFT,1.0,1,False,False,,22.9,39.8,52.0,967.4,1.5,341,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,16.0,6.0,SOFT,1.0,1,False,False,,22.9,39.8,52.0,967.4,1.5,341,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,16.0,6.0,SOFT,4.0,1,False,False,,22.9,39.8,52.0,967.4,1.5,341,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,18.0,7.0,SOFT,1.0,1,False,False,,22.9,39.8,52.0,967.4,1.5,341,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,15.0,6.0,SOFT,1.0,1,False,False,,22.9,39.8,52.0,967.4,1.5,341,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,18.0,7.0,SOFT,1.0,1,False,False,,23.0,40.0,52.0,967.4,2.0,256,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,14.0,5.0,SOFT,2.0,1,True,False,100.903,23.0,40.0,52.0,967.4,2.0,256,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,18.0,7.0,SOFT,2.0,1,True,False,101.31,23.0,40.0,52.0,967.4,2.0,256,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,19.0,6.0,SOFT,2.0,1,True,False,100.677,23.0,40.0,52.0,967.4,2.0,256,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,17.0,7.0,SOFT,5.0,1,True,False,100.9,23.0,40.0,52.0,967.4,2.0,256,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,20.0,6.0,SOFT,2.0,1,True,False,100.647,23.0,40.0,52.0,967.4,1.2,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,17.0,6.0,SOFT,2.0,1,True,False,101.26,23.0,40.0,52.0,967.4,1.2,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,17.0,6.0,SOFT,5.0,1,True,False,102.387,23.0,40.0,52.0,967.4,1.2,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,19.0,7.0,SOFT,2.0,1,True,False,101.328,23.0,40.0,52.0,967.4,1.2,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,16.0,6.0,SOFT,2.0,1,True,False,101.284,23.0,40.0,52.0,967.4,1.2,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,19.0,7.0,SOFT,2.0,1,True,False,101.201,23.0,40.0,52.0,967.4,1.2,3,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+VER,1,Red Bull Racing,15.0,5.0,SOFT,3.0,1,False,False,,23.0,40.1,51.0,967.4,1.0,208,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+HAD,6,Racing Bulls,19.0,7.0,SOFT,3.0,1,False,False,,23.0,40.1,51.0,967.4,1.0,208,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+NOR,4,McLaren,20.0,6.0,SOFT,3.0,1,False,False,146.84,23.0,40.0,51.0,967.3,1.0,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,18.0,7.0,SOFT,6.0,1,False,False,149.61,23.0,40.0,51.0,967.3,1.0,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,21.0,6.0,SOFT,3.0,1,False,False,144.28,23.0,40.0,51.0,967.3,1.0,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,18.0,6.0,SOFT,3.0,1,False,False,,23.0,40.0,51.0,967.3,1.0,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+BOR,5,Kick Sauber,18.0,6.0,SOFT,6.0,1,False,False,,23.0,40.0,51.0,967.3,1.0,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,20.0,7.0,SOFT,3.0,1,False,False,,23.0,40.0,51.0,967.3,1.0,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+TSU,22,Red Bull Racing,17.0,6.0,SOFT,3.0,1,False,False,,23.0,40.0,51.0,967.3,1.0,347,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True
+ALB,23,Williams,20.0,7.0,SOFT,3.0,1,False,False,,23.1,40.0,51.0,967.5,1.3,342,False,Spa,2025,13,Belgian Grand Prix,sprint_qualifying,True

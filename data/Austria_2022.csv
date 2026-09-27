@@ -1,0 +1,369 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+TSU,22,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,1.0,1.0,SOFT,7.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,1.0,1.0,SOFT,5.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.6,34.0,946.2,0.8,217,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LAT,6,Williams,1.0,1.0,SOFT,1.0,1,False,False,,19.3,37.6,34.0,946.2,0.8,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,67.578,19.3,37.6,34.0,946.2,0.8,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,67.838,19.3,37.6,34.0,946.2,0.8,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,2.0,1.0,SOFT,8.0,1,True,False,66.762,19.3,37.6,34.0,946.2,0.8,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,2.0,1.0,SOFT,2.0,1,True,False,67.273,19.3,37.6,34.0,946.2,0.8,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,2.0,1.0,SOFT,2.0,1,True,True,67.618,19.3,37.6,34.0,946.2,0.8,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,2.0,1.0,SOFT,6.0,1,True,True,66.363,19.3,37.6,34.0,946.2,0.8,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,2.0,1.0,SOFT,2.0,1,True,False,67.43,19.3,37.6,34.0,946.2,0.8,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,2.0,1.0,SOFT,2.0,1,True,False,67.582,19.3,37.6,34.0,946.2,0.8,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,66.806,19.4,37.7,34.0,946.4,2.2,197,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,2.0,1.0,SOFT,2.0,1,True,False,67.283,19.4,37.7,34.0,946.4,2.2,197,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LAT,6,Williams,2.0,1.0,SOFT,2.0,1,True,True,68.366,19.4,37.7,34.0,946.4,2.2,197,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,19.4,37.7,34.0,946.4,2.2,197,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,19.4,37.7,34.0,946.4,2.2,197,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,3.0,1.0,SOFT,3.0,1,True,False,99.181,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,3.0,1.0,SOFT,3.0,1,True,False,103.833,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,3.0,1.0,SOFT,9.0,1,True,False,109.257,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,3.0,1.0,SOFT,3.0,1,True,False,108.374,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,3.0,1.0,SOFT,3.0,1,False,False,83.488,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,3.0,1.0,SOFT,3.0,1,True,True,108.832,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,3.0,1.0,SOFT,3.0,1,True,False,102.568,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,3.0,1.0,SOFT,3.0,1,True,False,102.395,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,3.0,1.0,SOFT,7.0,1,True,True,124.763,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,2.0,1.0,SOFT,2.0,1,True,False,67.298,19.4,37.6,34.0,946.2,1.3,96,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,2.0,1.0,SOFT,2.0,1,True,False,66.716,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,120.895,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,4.0,1.0,SOFT,4.0,1,True,False,67.373,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LAT,6,Williams,3.0,1.0,SOFT,3.0,1,False,False,117.069,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,66.651,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ZHO,24,Alfa Romeo,1.0,1.0,SOFT,1.0,1,False,False,,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,4.0,1.0,SOFT,4.0,1,True,False,67.427,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,66.503,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,4.0,1.0,SOFT,10.0,1,True,False,66.2,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,4.0,1.0,SOFT,4.0,1,True,False,67.04,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,4.0,1.0,SOFT,8.0,1,True,False,66.397,19.3,37.4,34.0,946.2,2.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,4.0,1.0,SOFT,4.0,1,True,False,92.121,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,4.0,1.0,SOFT,4.0,1,True,False,90.736,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,4.0,1.0,SOFT,4.0,1,False,False,98.549,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ZHO,24,Alfa Romeo,2.0,1.0,SOFT,2.0,1,True,False,67.687,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,3.0,1.0,SOFT,3.0,1,True,False,91.835,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,5.0,1.0,SOFT,5.0,1,False,False,87.68,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,3.0,1.0,SOFT,3.0,1,True,False,93.71,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,4.0,1.0,SOFT,4.0,1,True,False,97.412,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,5.0,1.0,SOFT,5.0,1,False,False,84.191,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,3.0,1.0,SOFT,3.0,1,True,False,99.167,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,1.0,1.0,SOFT,1.0,1,False,False,,19.2,37.4,34.0,946.2,1.3,72,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,3.0,1.0,SOFT,3.0,1,True,False,103.544,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,5.0,1.0,SOFT,5.0,1,True,False,67.14,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,5.0,1.0,SOFT,5.0,1,True,False,100.67,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,5.0,1.0,SOFT,11.0,1,False,False,105.301,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,66.628,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,5.0,1.0,SOFT,5.0,1,True,False,67.48,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,67.066,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,5.0,1.0,SOFT,9.0,1,False,False,92.417,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,4.0,1.0,SOFT,4.0,1,True,False,66.595,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,4.0,1.0,SOFT,4.0,1,True,False,66.199,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,5.0,1.0,SOFT,5.0,1,True,False,66.143,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,True,66.097,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ZHO,24,Alfa Romeo,3.0,1.0,SOFT,3.0,1,True,False,93.171,19.3,37.4,33.0,946.2,1.2,268,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,2.0,1.0,SOFT,2.0,1,True,False,66.92,19.4,37.5,33.0,946.4,2.4,98,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,4.0,1.0,SOFT,4.0,1,True,False,95.345,19.4,37.5,33.0,946.4,2.4,98,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,4.0,1.0,SOFT,4.0,1,True,False,90.17,19.4,37.5,33.0,946.4,2.4,98,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,3.0,1.0,SOFT,3.0,1,True,False,82.952,19.4,37.5,33.0,946.4,2.4,98,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,6.0,1.0,SOFT,6.0,1,False,False,88.057,19.4,37.5,33.0,946.4,2.4,98,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,6.0,1.0,SOFT,6.0,1,False,False,85.351,19.4,37.5,33.0,946.4,2.4,98,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,3.0,1.0,SOFT,3.0,1,True,False,85.965,19.4,37.5,33.0,946.4,2.4,98,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,5.0,1.0,SOFT,5.0,1,False,False,84.327,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,6.0,1.0,SOFT,6.0,1,False,False,111.003,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,5.0,1.0,SOFT,5.0,1,False,False,91.726,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ZHO,24,Alfa Romeo,4.0,1.0,SOFT,4.0,1,True,False,79.994,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,6.0,1.0,SOFT,6.0,1,False,False,96.816,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,3.0,1.0,SOFT,3.0,1,True,False,87.732,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,5.0,1.0,SOFT,5.0,1,True,True,66.388,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,5.0,1.0,SOFT,5.0,1,True,False,66.405,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,4.0,1.0,SOFT,4.0,1,True,False,66.235,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,4.0,2.0,SOFT,1.0,1,False,False,,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,True,115.194,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,4.0,1.0,SOFT,4.0,1,True,False,66.079,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LAT,6,Williams,4.0,2.0,SOFT,1.0,1,False,False,,19.3,37.3,34.0,946.4,1.7,285,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,5.0,2.0,SOFT,1.0,1,False,False,,19.3,37.2,33.0,946.5,1.5,255,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ZHO,24,Alfa Romeo,5.0,1.0,SOFT,5.0,1,True,False,66.975,19.3,37.2,33.0,946.5,1.5,255,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,4.0,1.0,SOFT,4.0,1,True,False,66.837,19.3,37.2,33.0,946.5,1.5,255,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,6.0,2.0,SOFT,1.0,1,False,False,,19.3,37.2,33.0,946.5,1.5,255,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,6.0,2.0,SOFT,1.0,1,False,False,,19.3,37.2,33.0,946.5,1.5,255,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,5.0,2.0,SOFT,2.0,1,True,True,66.511,19.3,37.2,33.0,946.5,1.5,255,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,6.0,1.0,SOFT,6.0,1,False,False,79.367,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LAT,6,Williams,5.0,2.0,SOFT,2.0,1,True,False,67.109,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,6.0,1.0,SOFT,6.0,1,False,False,99.86,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,5.0,1.0,SOFT,5.0,1,False,False,89.457,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,5.0,1.0,SOFT,5.0,1,False,False,83.189,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,4.0,1.0,SOFT,4.0,1,True,False,92.603,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,6.0,2.0,SOFT,2.0,1,True,False,66.95,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,6.0,2.0,SOFT,1.0,1,False,False,,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,6.0,2.0,SOFT,1.0,1,False,False,,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,7.0,2.0,SOFT,2.0,1,True,False,66.839,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,7.0,2.0,SOFT,2.0,1,True,False,66.751,19.1,37.2,33.0,946.5,0.6,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,5.0,1.0,SOFT,5.0,1,False,False,87.796,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ZHO,24,Alfa Romeo,6.0,1.0,SOFT,6.0,1,False,False,107.55,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,6.0,2.0,SOFT,3.0,1,False,False,80.144,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,5.0,1.0,SOFT,5.0,1,True,False,65.852,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,7.0,2.0,SOFT,1.0,1,False,False,,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LAT,6,Williams,6.0,2.0,SOFT,3.0,1,False,False,86.24,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,7.0,2.0,SOFT,2.0,1,True,False,65.66,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,7.0,2.0,SOFT,1.0,1,False,False,,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,7.0,2.0,SOFT,2.0,1,True,False,65.419,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,7.0,2.0,SOFT,1.0,1,False,False,,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,7.0,2.0,SOFT,3.0,1,False,False,85.79,19.1,36.9,33.0,946.5,0.8,140,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,8.0,2.0,SOFT,3.0,1,False,False,80.951,19.1,36.7,34.0,946.4,1.0,328,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,8.0,2.0,SOFT,3.0,1,False,False,85.877,19.1,36.7,34.0,946.4,1.0,328,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,6.0,2.0,SOFT,1.0,1,False,False,,19.1,36.7,34.0,946.4,1.0,328,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,8.0,2.0,SOFT,2.0,1,True,False,67.083,19.1,36.7,34.0,946.4,1.0,328,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,6.0,1.0,SOFT,6.0,1,False,False,80.055,19.1,36.7,34.0,946.4,1.0,328,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,8.0,2.0,SOFT,2.0,1,True,False,66.33,19.1,36.7,34.0,946.4,1.0,328,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,8.0,2.0,SOFT,3.0,1,False,False,93.496,19.2,36.7,34.0,946.2,0.6,345,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,8.0,2.0,SOFT,2.0,1,True,True,97.187,19.2,36.7,34.0,946.2,0.6,345,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,8.0,2.0,SOFT,3.0,1,False,False,89.374,19.2,36.7,34.0,946.2,0.6,345,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,7.0,2.0,SOFT,2.0,1,True,False,66.548,19.2,36.7,34.0,946.2,0.6,345,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,9.0,2.0,SOFT,3.0,1,True,False,66.892,19.4,37.0,33.0,946.4,0.8,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,9.0,2.0,SOFT,3.0,1,True,False,104.194,19.4,37.0,33.0,946.4,0.8,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,9.0,2.0,SOFT,3.0,1,True,False,106.002,19.4,37.0,33.0,946.4,0.8,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,8.0,2.0,SOFT,3.0,1,True,False,95.835,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,7.0,3.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ZHO,24,Alfa Romeo,7.0,2.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,7.0,2.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,6.0,2.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,9.0,3.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,9.0,3.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LAT,6,Williams,7.0,3.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,7.0,2.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,8.0,3.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,6.0,2.0,SOFT,1.0,1,False,False,,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,10.0,2.0,SOFT,4.0,1,True,False,101.658,19.5,37.0,33.0,946.5,0.5,86,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,10.0,2.0,SOFT,4.0,1,True,False,93.443,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,6.0,2.0,SOFT,6.0,1,False,False,,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,6.0,2.0,SOFT,6.0,1,False,False,,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,10.0,2.0,SOFT,4.0,1,True,False,94.403,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,9.0,2.0,SOFT,4.0,1,True,False,66.468,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,8.0,3.0,SOFT,2.0,1,True,False,66.516,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,7.0,2.0,SOFT,7.0,1,False,False,,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ZHO,24,Alfa Romeo,8.0,2.0,SOFT,2.0,1,True,False,66.901,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,8.0,2.0,SOFT,2.0,1,True,False,66.366,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,7.0,2.0,SOFT,2.0,1,True,False,66.442,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,10.0,3.0,SOFT,2.0,1,True,False,66.463,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,10.0,3.0,SOFT,2.0,1,True,False,66.589,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LAT,6,Williams,8.0,3.0,SOFT,2.0,1,True,False,67.003,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,8.0,2.0,SOFT,2.0,1,True,False,66.563,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,9.0,3.0,SOFT,2.0,1,True,False,66.613,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,7.0,2.0,SOFT,2.0,1,True,False,66.016,19.5,36.8,33.0,946.2,1.3,101,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,11.0,2.0,SOFT,5.0,1,True,False,66.847,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,11.0,2.0,SOFT,5.0,1,True,True,66.652,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,7.0,2.0,SOFT,7.0,1,True,True,66.364,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,7.0,2.0,SOFT,7.0,1,True,False,66.08,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,11.0,2.0,SOFT,5.0,1,False,False,74.401,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,8.0,2.0,SOFT,8.0,1,True,False,66.509,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,9.0,3.0,SOFT,3.0,1,False,False,88.255,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,10.0,2.0,SOFT,5.0,1,False,False,93.613,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ZHO,24,Alfa Romeo,9.0,2.0,SOFT,3.0,1,False,False,89.96,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,9.0,2.0,SOFT,3.0,1,False,False,87.736,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,8.0,2.0,SOFT,3.0,1,False,False,86.327,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,11.0,3.0,SOFT,3.0,1,False,False,85.469,19.6,36.8,33.0,946.2,1.5,108,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,11.0,3.0,SOFT,3.0,1,False,False,90.078,19.4,36.7,34.0,946.2,0.8,248,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LAT,6,Williams,9.0,3.0,SOFT,3.0,1,False,False,89.704,19.4,36.7,34.0,946.2,0.8,248,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,9.0,2.0,SOFT,3.0,1,False,False,85.87,19.4,36.7,34.0,946.2,0.8,248,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RIC,3,McLaren,10.0,3.0,SOFT,3.0,1,False,False,84.107,19.4,36.7,34.0,946.2,0.8,248,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,8.0,2.0,SOFT,3.0,1,False,False,92.982,19.4,36.7,34.0,946.2,0.8,248,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+STR,18,Aston Martin,12.0,2.0,SOFT,6.0,1,False,False,97.15,19.4,36.7,34.0,946.2,0.8,248,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,8.0,2.0,SOFT,8.0,1,False,False,88.14,19.4,36.7,34.0,946.2,0.8,248,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,8.0,2.0,SOFT,8.0,1,False,False,92.495,19.4,36.7,34.0,946.2,0.8,248,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,9.0,2.0,SOFT,9.0,1,False,False,81.78,19.4,36.7,34.0,946.2,0.8,248,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VET,5,Aston Martin,12.0,2.0,SOFT,6.0,1,False,False,122.028,19.3,36.5,33.0,946.2,2.7,267,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,11.0,3.0,SOFT,1.0,1,False,False,,19.0,36.5,35.0,946.2,2.0,259,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,12.0,4.0,SOFT,6.0,1,False,False,,19.0,36.7,34.0,946.2,2.0,246,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,12.0,4.0,SOFT,6.0,1,False,False,,19.0,36.7,34.0,946.2,2.0,246,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,12.0,3.0,SOFT,1.0,1,False,False,,19.0,36.7,34.0,946.2,2.0,246,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,9.0,3.0,SOFT,4.0,1,False,False,,19.0,36.7,34.0,946.2,2.0,246,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,7.0,2.0,SOFT,1.0,1,False,False,,19.0,36.7,34.0,946.2,2.0,246,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,9.0,3.0,SOFT,4.0,1,False,False,,19.0,36.7,34.0,946.2,2.0,246,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,10.0,3.0,SOFT,1.0,1,False,False,,19.0,36.7,34.0,946.2,2.0,246,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,9.0,3.0,SOFT,1.0,1,False,False,,19.0,36.7,34.0,946.2,2.0,246,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,9.0,3.0,SOFT,1.0,1,False,False,,19.0,36.7,34.0,946.2,2.0,246,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,12.0,3.0,SOFT,2.0,1,True,False,66.488,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,13.0,4.0,SOFT,7.0,1,True,True,67.007,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,13.0,4.0,SOFT,7.0,1,True,False,66.979,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,10.0,3.0,SOFT,5.0,1,True,False,65.774,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,8.0,2.0,SOFT,2.0,1,True,False,65.568,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,13.0,3.0,SOFT,2.0,1,True,False,85.847,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,10.0,3.0,SOFT,5.0,1,True,False,65.923,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,11.0,3.0,SOFT,2.0,1,True,False,66.458,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,10.0,3.0,SOFT,2.0,1,True,False,65.771,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,10.0,3.0,SOFT,2.0,1,True,False,65.538,19.1,36.6,34.0,946.2,1.3,242,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,14.0,4.0,SOFT,8.0,1,False,False,81.732,19.0,36.5,34.0,946.2,1.2,257,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,14.0,4.0,SOFT,8.0,1,False,False,81.517,19.0,36.5,34.0,946.2,1.2,257,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,10.0,4.0,SOFT,4.0,1,False,False,,19.0,36.5,34.0,946.2,1.2,257,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,13.0,3.0,SOFT,3.0,1,True,False,103.946,19.0,36.5,34.0,946.2,1.2,257,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,11.0,3.0,SOFT,6.0,1,True,False,100.193,19.0,36.4,34.0,946.2,0.6,37,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,14.0,3.0,SOFT,3.0,1,True,False,93.084,19.0,36.4,34.0,946.2,0.6,37,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,11.0,3.0,SOFT,3.0,1,True,False,89.034,19.0,36.4,34.0,946.2,0.6,37,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,11.0,3.0,SOFT,6.0,1,True,False,104.542,19.0,36.4,34.0,946.2,0.6,37,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,12.0,3.0,SOFT,3.0,1,True,False,104.54,19.0,36.4,34.0,946.2,0.6,37,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,9.0,2.0,SOFT,3.0,1,False,False,115.811,19.0,36.4,34.0,946.2,0.6,37,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,11.0,3.0,SOFT,3.0,1,True,False,99.309,19.0,36.4,34.0,946.2,0.6,37,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,11.0,4.0,SOFT,5.0,1,True,False,66.476,19.0,36.4,34.0,946.2,0.6,37,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,14.0,3.0,SOFT,4.0,1,True,False,66.276,19.0,36.4,34.0,946.2,0.6,37,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,12.0,3.0,SOFT,7.0,1,True,False,66.499,19.0,36.2,34.0,946.2,2.0,271,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,12.0,3.0,SOFT,4.0,1,True,False,65.785,19.0,36.2,34.0,946.2,2.0,271,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,10.0,3.0,SOFT,1.0,1,False,False,,19.0,36.2,34.0,946.2,2.0,271,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,12.0,3.0,SOFT,7.0,1,True,True,66.032,19.0,36.2,34.0,946.2,2.0,271,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,12.0,3.0,SOFT,4.0,1,True,False,65.475,19.0,36.2,34.0,946.2,2.0,271,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,10.0,3.0,SOFT,1.0,1,False,False,,19.0,36.2,34.0,946.2,2.0,271,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,15.0,3.0,SOFT,4.0,1,False,False,106.821,19.0,36.2,34.0,946.2,2.0,271,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,13.0,3.0,SOFT,4.0,1,True,False,97.157,18.9,36.0,35.0,946.2,3.2,272,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,12.0,4.0,SOFT,6.0,1,False,False,80.862,18.9,36.0,35.0,946.2,3.2,272,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,9.0,3.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,3.2,272,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,15.0,3.0,SOFT,5.0,1,False,False,84.53,18.9,36.0,35.0,946.2,3.2,272,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,13.0,3.0,SOFT,8.0,1,False,False,77.357,18.9,36.0,35.0,946.2,3.2,272,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,11.0,3.0,SOFT,2.0,1,True,False,66.153,18.9,36.0,35.0,946.2,3.2,272,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,9.0,3.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,3.2,272,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,13.0,3.0,SOFT,5.0,1,False,False,88.386,18.9,36.0,35.0,946.2,3.2,272,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,11.0,3.0,SOFT,2.0,1,True,False,66.151,18.9,36.0,35.0,946.2,3.2,272,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,13.0,3.0,SOFT,5.0,1,False,False,80.961,18.8,36.0,35.0,946.2,3.5,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,14.0,3.0,SOFT,5.0,1,True,True,66.273,18.8,36.0,35.0,946.2,3.5,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,13.0,3.0,SOFT,8.0,1,False,False,103.613,18.8,36.0,35.0,946.2,3.5,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,15.0,5.0,SOFT,4.0,1,False,False,,18.8,36.0,35.0,946.2,3.5,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,15.0,5.0,SOFT,4.0,1,False,False,,18.8,36.0,35.0,946.2,3.5,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,10.0,3.0,SOFT,2.0,1,True,False,66.319,18.8,36.0,35.0,946.2,3.5,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,12.0,3.0,SOFT,3.0,1,False,False,76.412,18.8,36.0,35.0,946.2,3.5,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,10.0,3.0,SOFT,2.0,1,True,False,66.082,18.8,36.0,35.0,946.2,3.5,254,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,16.0,5.0,SOFT,5.0,1,True,False,66.851,18.8,36.0,35.0,946.2,1.7,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,16.0,5.0,SOFT,5.0,1,True,False,66.771,18.8,36.0,35.0,946.2,1.7,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,15.0,3.0,SOFT,6.0,1,False,False,82.258,18.8,36.0,35.0,946.2,1.7,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,12.0,3.0,SOFT,3.0,1,False,False,109.638,18.8,36.0,35.0,946.2,1.7,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,11.0,3.0,SOFT,3.0,1,False,False,82.305,18.8,36.0,35.0,946.2,1.7,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,11.0,3.0,SOFT,3.0,1,False,False,81.654,18.9,36.0,35.0,946.2,1.7,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,17.0,5.0,SOFT,6.0,1,False,False,81.001,18.9,36.0,35.0,946.2,1.7,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,17.0,5.0,SOFT,6.0,1,False,False,81.676,18.9,36.0,35.0,946.2,1.7,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,14.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,2.0,279,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,14.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,2.0,279,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,16.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,2.0,279,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,16.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,2.0,279,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,15.0,4.0,SOFT,2.0,1,True,False,65.287,18.9,36.0,35.0,946.2,2.9,262,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,15.0,4.0,SOFT,2.0,1,True,False,65.576,18.9,36.0,35.0,946.2,2.9,262,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,17.0,4.0,SOFT,2.0,1,True,True,66.625,18.9,36.0,35.0,946.2,2.9,262,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,17.0,4.0,SOFT,2.0,1,True,False,65.993,18.9,36.0,35.0,946.2,2.9,262,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,14.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,1.2,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,13.0,5.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,1.2,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,14.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,1.2,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,13.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.2,1.2,264,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,13.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,16.0,4.0,SOFT,3.0,1,True,False,115.681,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,18.0,6.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,18.0,6.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,18.0,4.0,SOFT,3.0,1,True,False,110.027,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,10.0,3.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,16.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,12.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,16.0,4.0,SOFT,3.0,1,True,False,132.459,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,14.0,5.0,SOFT,2.0,1,True,False,66.23,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,18.0,4.0,SOFT,3.0,1,True,False,120.444,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,12.0,4.0,SOFT,1.0,1,False,False,,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,15.0,4.0,SOFT,2.0,1,True,True,65.567,18.9,36.0,35.0,946.4,0.5,106,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,14.0,4.0,SOFT,2.0,1,True,False,65.894,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,15.0,4.0,SOFT,2.0,1,True,False,84.833,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,14.0,4.0,SOFT,2.0,1,True,False,66.21,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,17.0,4.0,SOFT,4.0,1,True,False,65.496,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,19.0,6.0,SOFT,2.0,1,True,False,66.16,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,11.0,3.0,SOFT,2.0,1,True,False,65.374,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,17.0,4.0,SOFT,2.0,1,True,False,65.805,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,13.0,4.0,SOFT,2.0,1,True,False,66.391,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,17.0,4.0,SOFT,4.0,1,True,False,65.96,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+NOR,4,McLaren,19.0,4.0,SOFT,4.0,1,False,False,90.022,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,19.0,4.0,SOFT,4.0,1,True,False,66.524,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,13.0,4.0,SOFT,2.0,1,True,True,66.1,18.8,36.2,34.0,946.4,0.4,270,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+TSU,22,AlphaTauri,19.0,6.0,SOFT,2.0,1,False,False,107.946,18.9,36.2,35.0,946.4,1.2,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,16.0,4.0,SOFT,3.0,1,True,False,65.697,18.9,36.2,35.0,946.4,1.2,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALB,23,Williams,15.0,5.0,SOFT,3.0,1,False,False,92.449,18.9,36.2,35.0,946.4,1.2,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,16.0,4.0,SOFT,3.0,1,False,False,86.931,18.9,36.2,35.0,946.4,1.2,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,15.0,4.0,SOFT,3.0,1,False,False,84.4,18.9,36.2,35.0,946.4,1.2,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,15.0,4.0,SOFT,3.0,1,False,False,81.598,18.9,36.2,35.0,946.4,1.2,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,18.0,4.0,SOFT,5.0,1,False,False,81.641,18.9,36.2,35.0,946.4,1.2,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,12.0,3.0,SOFT,3.0,1,False,False,83.936,19.2,36.2,34.0,946.4,2.0,93,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,18.0,4.0,SOFT,3.0,1,False,False,85.224,19.2,36.2,34.0,946.4,2.0,93,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+BOT,77,Alfa Romeo,14.0,4.0,SOFT,3.0,1,False,False,88.78,19.2,36.2,34.0,946.4,2.0,93,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,18.0,4.0,SOFT,5.0,1,False,False,86.203,19.2,36.2,34.0,946.4,2.0,93,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+GAS,10,AlphaTauri,20.0,6.0,SOFT,3.0,1,False,False,115.642,19.2,36.2,34.0,946.4,2.0,93,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,20.0,4.0,SOFT,5.0,1,False,False,89.033,19.2,36.2,34.0,946.4,2.0,93,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,14.0,4.0,SOFT,3.0,1,False,False,89.738,19.2,36.2,34.0,946.4,2.0,93,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,17.0,4.0,SOFT,4.0,1,False,False,89.644,19.2,36.2,34.0,946.4,2.0,93,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,21.0,5.0,SOFT,1.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,18.0,5.0,SOFT,1.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,17.0,5.0,SOFT,1.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,19.0,5.0,SOFT,1.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,15.0,5.0,SOFT,1.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,16.0,5.0,SOFT,4.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,16.0,5.0,SOFT,4.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,19.0,5.0,SOFT,1.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,13.0,4.0,SOFT,1.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,19.0,5.0,SOFT,1.0,1,False,False,,19.2,35.7,34.0,946.4,0.6,244,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,22.0,5.0,SOFT,2.0,1,True,False,65.779,19.1,35.7,33.0,946.5,1.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,19.0,5.0,SOFT,2.0,1,True,False,65.452,19.1,35.7,33.0,946.5,1.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,20.0,5.0,SOFT,2.0,1,True,False,65.183,19.1,35.7,33.0,946.5,1.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,18.0,5.0,SOFT,2.0,1,True,False,73.151,19.1,35.7,33.0,946.5,1.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,17.0,5.0,SOFT,5.0,1,True,False,66.424,19.1,35.7,33.0,946.5,1.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,16.0,5.0,SOFT,2.0,1,False,False,74.471,19.1,35.7,33.0,946.5,1.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,17.0,5.0,SOFT,5.0,1,True,True,66.662,19.1,35.7,33.0,946.5,1.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,20.0,5.0,SOFT,2.0,1,True,False,65.3,19.1,35.7,33.0,946.5,1.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,14.0,4.0,SOFT,2.0,1,True,False,65.092,19.1,35.7,33.0,946.5,1.0,0,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,20.0,5.0,SOFT,2.0,1,True,False,65.404,19.0,35.4,34.0,946.4,0.8,280,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,20.0,5.0,SOFT,3.0,1,True,False,83.887,19.0,35.4,34.0,946.4,0.8,280,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,23.0,5.0,SOFT,3.0,1,False,False,89.123,19.0,35.4,34.0,946.4,0.8,280,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,19.0,5.0,SOFT,3.0,1,True,False,79.697,19.0,35.4,34.0,946.4,0.8,280,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,21.0,5.0,SOFT,3.0,1,False,False,87.043,19.0,35.4,34.0,946.4,0.8,280,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,18.0,5.0,SOFT,6.0,1,False,False,78.327,19.0,35.4,34.0,946.4,0.8,280,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,18.0,5.0,SOFT,6.0,1,False,False,77.183,19.1,35.1,34.0,946.5,1.2,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,21.0,5.0,SOFT,3.0,1,False,False,84.89,19.1,35.1,34.0,946.5,1.2,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,15.0,4.0,SOFT,3.0,1,False,False,80.427,19.1,35.1,34.0,946.5,1.2,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,21.0,5.0,SOFT,3.0,1,False,False,81.925,19.1,35.1,34.0,946.5,1.2,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,21.0,5.0,SOFT,4.0,12,True,False,65.431,19.1,35.1,34.0,946.5,1.2,208,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+HAM,44,Mercedes,20.0,5.0,SOFT,4.0,125,False,False,,19.1,35.1,34.0,946.5,1.1,276,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,22.0,5.0,SOFT,5.0,251,False,False,,18.6,34.2,36.0,946.4,1.2,256,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,17.0,6.0,SOFT,1.0,1,False,False,,18.6,34.2,35.0,946.4,1.1,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,23.0,6.0,SOFT,1.0,1,False,False,,18.6,34.2,35.0,946.4,1.1,151,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,18.0,6.0,SOFT,2.0,1,True,False,66.103,18.5,34.2,35.0,946.4,1.2,320,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+RUS,63,Mercedes,24.0,6.0,SOFT,2.0,12,False,False,,18.5,34.2,35.0,946.4,1.2,320,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,19.0,6.0,SOFT,1.0,125,False,False,,18.3,33.2,36.0,946.4,1.1,194,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,19.0,6.0,SOFT,1.0,125,False,False,,18.3,33.2,36.0,946.4,1.1,194,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,24.0,6.0,SOFT,1.0,125,False,False,,18.3,33.2,36.0,946.4,1.1,194,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,22.0,6.0,SOFT,1.0,125,False,False,,18.3,33.2,36.0,946.4,1.1,194,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,19.0,6.0,SOFT,3.0,125,False,False,,18.3,33.2,36.0,946.4,1.1,194,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,22.0,6.0,SOFT,1.0,125,False,False,,18.3,33.2,36.0,946.4,1.1,194,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,20.0,7.0,SOFT,2.0,1,False,False,,18.4,33.2,35.0,946.4,0.6,283,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,20.0,7.0,SOFT,2.0,1,False,False,,18.4,33.2,35.0,946.4,0.6,283,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,25.0,7.0,SOFT,2.0,1,False,False,,18.4,33.2,35.0,946.4,0.6,283,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,23.0,7.0,SOFT,2.0,1,False,False,,18.5,33.1,35.0,946.4,1.5,256,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,20.0,7.0,SOFT,3.0,1,False,False,,18.5,33.1,35.0,946.4,1.5,256,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,23.0,7.0,SOFT,2.0,1,False,False,,18.5,33.1,35.0,946.4,1.5,256,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,16.0,5.0,SOFT,1.0,1,False,False,,18.5,33.1,35.0,946.4,1.5,256,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,22.0,6.0,SOFT,1.0,1,False,False,,18.5,33.1,35.0,946.4,1.5,256,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,21.0,7.0,SOFT,3.0,1,True,False,65.879,18.5,33.1,35.0,946.4,1.5,256,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,21.0,7.0,SOFT,3.0,1,True,False,66.011,18.5,33.1,35.0,946.4,1.5,256,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,26.0,7.0,SOFT,3.0,1,True,False,65.726,18.5,33.1,35.0,946.4,1.5,256,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,24.0,7.0,SOFT,3.0,1,True,False,65.013,18.5,33.1,35.0,946.4,2.4,160,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,21.0,7.0,SOFT,4.0,1,True,False,66.229,18.5,33.1,35.0,946.4,2.4,160,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,24.0,7.0,SOFT,3.0,1,True,False,65.066,18.5,33.1,35.0,946.4,2.4,160,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,17.0,5.0,SOFT,2.0,1,True,False,64.984,18.5,33.1,35.0,946.4,2.4,160,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,23.0,6.0,SOFT,2.0,1,True,False,65.505,18.5,33.1,35.0,946.4,2.4,160,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MAG,20,Haas F1 Team,22.0,7.0,SOFT,4.0,1,False,False,,18.8,33.1,36.0,946.2,1.1,77,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+MSC,47,Haas F1 Team,22.0,7.0,SOFT,4.0,1,False,False,,18.8,33.1,36.0,946.2,1.1,77,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+OCO,31,Alpine,27.0,7.0,SOFT,4.0,1,False,False,,18.8,33.1,36.0,946.2,1.1,77,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+LEC,16,Ferrari,25.0,7.0,SOFT,4.0,1,True,False,92.07,18.8,33.1,36.0,946.2,1.1,77,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+ALO,14,Alpine,22.0,7.0,SOFT,5.0,1,False,False,,18.8,33.1,36.0,946.2,1.1,77,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+SAI,55,Ferrari,25.0,7.0,SOFT,4.0,1,True,False,91.714,18.8,33.1,36.0,946.2,1.1,77,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+VER,1,Red Bull Racing,18.0,5.0,SOFT,3.0,1,True,False,91.156,18.8,33.1,36.0,946.2,1.1,77,False,Austria,2022,11,Austrian Grand Prix,sprint,True
+PER,11,Red Bull Racing,24.0,6.0,SOFT,3.0,1,False,False,,18.8,33.1,36.0,946.2,1.1,77,False,Austria,2022,11,Austrian Grand Prix,sprint,True

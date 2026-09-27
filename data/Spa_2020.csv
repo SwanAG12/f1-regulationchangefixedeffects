@@ -1,0 +1,244 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+MAG,20,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,16.3,24.6,63.7,957.7,1.0,155,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,16.3,24.6,63.7,957.7,1.0,155,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,105.377,16.3,24.8,62.7,957.7,1.9,129,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,105.073,16.4,24.7,62.1,957.7,1.8,120,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,121.312,16.4,24.7,62.2,957.7,1.6,123,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,1.0,1.0,SOFT,1.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,1.0,1.0,SOFT,1.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,1.0,1.0,SOFT,1.0,1,False,False,,16.5,24.6,61.9,957.7,1.8,151,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,1.0,1.0,SOFT,1.0,1,False,False,,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LAT,6,Williams,1.0,1.0,SOFT,1.0,1,False,False,,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,1.0,1.0,SOFT,1.0,1,False,False,,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,103.408,16.4,24.3,61.8,957.7,1.4,152,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,2.0,1.0,SOFT,2.0,1,True,False,103.514,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,103.475,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,103.876,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,104.228,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,2.0,1.0,SOFT,2.0,1,True,False,103.322,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,2.0,1.0,SOFT,2.0,1,True,False,103.51,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,2.0,1.0,SOFT,2.0,1,True,False,104.142,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,2.0,1.0,SOFT,2.0,1,True,False,103.505,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,104.554,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,2.0,1.0,SOFT,2.0,1,True,False,103.309,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LAT,6,Williams,2.0,1.0,SOFT,2.0,1,True,False,104.299,16.4,24.0,62.4,957.8,1.0,160,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,103.418,16.4,24.0,62.0,957.7,1.9,167,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,1,True,False,104.274,16.4,24.0,62.0,957.7,1.9,167,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,1,True,False,104.317,16.4,24.0,62.0,957.7,1.9,167,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,102.323,16.4,24.0,62.0,957.7,1.9,167,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,102.534,16.4,24.0,62.0,957.7,1.9,167,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,2.0,1.0,SOFT,2.0,1,True,False,103.455,16.4,24.0,62.0,957.7,1.9,167,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,16.4,24.0,62.0,957.7,1.9,167,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,3.0,1.0,SOFT,3.0,1,False,False,135.775,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,3.0,1.0,SOFT,3.0,1,False,False,133.178,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,3.0,1.0,SOFT,3.0,1,False,False,127.662,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,3.0,1.0,SOFT,3.0,1,False,False,,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,3.0,1.0,SOFT,3.0,1,False,False,135.359,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,3.0,1.0,SOFT,3.0,1,False,False,127.459,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,3.0,1.0,SOFT,3.0,1,False,False,134.929,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,3.0,1.0,SOFT,3.0,1,False,False,129.128,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,3.0,1.0,SOFT,3.0,1,False,False,124.865,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,3.0,1.0,SOFT,3.0,1,False,False,,16.5,24.0,62.3,957.8,2.4,153,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,3.0,1.0,SOFT,3.0,1,False,False,135.048,16.4,23.9,62.2,957.7,1.8,142,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LAT,6,Williams,3.0,1.0,SOFT,3.0,1,False,False,134.218,16.4,23.9,62.2,957.7,1.8,142,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,3.0,1.0,SOFT,3.0,1,False,False,127.959,16.4,23.9,62.2,957.7,1.8,142,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,3.0,1.0,SOFT,3.0,1,False,False,127.953,16.4,23.9,62.2,957.7,1.8,142,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,3.0,1.0,SOFT,3.0,1,False,False,136.199,16.4,23.9,62.2,957.7,1.8,142,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,104.314,16.4,23.9,62.2,957.7,1.8,142,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,3.0,1.0,SOFT,3.0,1,False,False,132.749,16.4,23.9,62.2,957.7,1.8,142,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,3.0,1.0,SOFT,3.0,1,False,False,133.092,16.4,23.9,62.2,957.7,1.8,142,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,4.0,1.0,SOFT,4.0,1,True,False,103.197,16.3,23.9,62.7,957.8,1.0,169,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,3.0,1.0,SOFT,3.0,1,False,False,191.112,16.3,23.9,62.7,957.8,1.0,169,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,119.739,16.2,23.5,63.0,957.8,1.6,161,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,5.0,1.0,SOFT,5.0,1,False,False,120.189,16.2,23.4,63.8,957.8,1.3,164,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,63.8,957.8,1.5,150,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,63.8,957.8,1.5,150,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LAT,6,Williams,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,4.0,2.0,SOFT,1.0,1,False,False,,16.2,23.5,64.4,957.8,0.8,2,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,4.0,2.0,SOFT,4.0,1,False,False,,16.2,23.7,64.8,957.8,0.7,203,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,5.0,2.0,SOFT,2.0,1,True,False,103.656,16.2,23.7,64.8,957.8,0.7,203,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,103.838,16.2,23.7,64.8,957.8,0.7,203,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,5.0,2.0,SOFT,2.0,12,True,False,103.262,16.2,23.7,64.8,957.8,0.7,203,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,5.0,2.0,SOFT,2.0,12,True,False,103.63,16.2,23.7,64.8,957.8,0.7,203,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,5.0,2.0,SOFT,2.0,12,True,False,103.267,16.2,23.7,64.8,957.8,0.7,203,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,5.0,2.0,SOFT,2.0,12,True,False,103.567,16.2,23.7,64.8,957.8,0.7,203,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,5.0,2.0,SOFT,2.0,12,True,False,103.349,16.3,23.8,64.1,957.7,0.9,358,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,5.0,2.0,SOFT,2.0,12,True,False,103.265,16.3,23.8,64.1,957.7,0.9,358,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LAT,6,Williams,5.0,2.0,SOFT,2.0,12,True,False,104.138,16.3,23.8,64.1,957.7,0.9,358,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,5.0,2.0,SOFT,2.0,12,True,False,103.95,16.3,23.8,64.1,957.7,0.9,358,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,5.0,2.0,SOFT,2.0,12,True,False,103.743,16.3,23.8,64.1,957.7,0.9,358,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,8.0,3.0,SOFT,2.0,12,False,False,,16.3,23.8,64.1,957.7,0.9,358,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,5.0,2.0,SOFT,2.0,12,False,False,110.436,16.3,23.8,64.1,957.7,0.9,358,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,5.0,2.0,SOFT,5.0,12,False,False,120.332,16.1,24.1,64.0,957.7,0.8,263,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,6.0,2.0,SOFT,3.0,12,False,False,134.473,16.1,24.1,64.0,957.7,0.8,263,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,6.0,2.0,SOFT,3.0,12,False,False,134.73,16.1,24.1,64.0,957.7,0.8,263,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,6.0,2.0,SOFT,3.0,21,False,False,138.674,16.3,24.1,65.5,957.7,0.9,157,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,6.0,2.0,SOFT,3.0,1,False,False,137.684,16.3,24.1,65.5,957.7,0.9,157,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,6.0,2.0,SOFT,3.0,1,False,False,135.853,16.3,24.1,65.5,957.7,0.9,157,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,6.0,2.0,SOFT,3.0,1,False,False,140.193,16.3,24.1,65.5,957.7,0.9,157,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,6.0,2.0,SOFT,3.0,1,False,False,138.89,16.3,24.1,65.5,957.7,0.9,157,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,6.0,2.0,SOFT,3.0,1,False,False,132.292,16.3,24.1,65.5,957.7,0.9,157,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,6.0,2.0,SOFT,3.0,1,False,False,,16.3,24.1,65.5,957.7,0.9,157,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LAT,6,Williams,6.0,2.0,SOFT,3.0,1,False,False,140.026,16.3,24.1,65.5,957.7,0.9,157,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,6.0,2.0,SOFT,3.0,1,False,False,134.992,16.3,24.1,65.5,957.7,0.9,157,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,4.0,2.0,MEDIUM,1.0,12,False,False,,17.9,27.8,60.2,957.6,0.8,96,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,6.0,3.0,MEDIUM,1.0,1,False,False,,17.9,27.8,60.2,957.6,0.8,96,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,6.0,3.0,SOFT,1.0,1,False,False,,17.9,27.8,60.2,957.6,0.8,96,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,4.0,2.0,SOFT,1.0,12,False,False,,17.9,27.8,60.2,957.6,0.8,96,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,7.0,3.0,SOFT,4.0,1,False,False,,17.9,27.8,60.2,957.6,0.8,96,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,7.0,3.0,MEDIUM,1.0,1,False,False,,17.8,27.6,58.4,957.7,2.1,338,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,7.0,3.0,SOFT,1.0,1,False,False,,17.8,27.6,58.4,957.7,2.1,338,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,4.0,2.0,SOFT,1.0,12,False,False,,17.8,27.6,58.4,957.7,2.1,338,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,4.0,2.0,SOFT,1.0,12,False,False,,17.8,27.6,58.4,957.7,2.1,338,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,6.0,2.0,MEDIUM,1.0,12,False,False,,17.8,27.6,58.4,957.7,2.1,338,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,7.0,3.0,MEDIUM,1.0,1,False,False,,17.8,27.6,58.4,957.7,2.1,338,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,4.0,2.0,SOFT,1.0,12,False,False,,17.8,27.6,58.4,957.7,2.1,338,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,7.0,3.0,SOFT,1.0,1,False,False,,17.8,27.6,58.4,957.7,2.1,338,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,7.0,3.0,SOFT,1.0,1,False,False,,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,7.0,3.0,SOFT,1.0,1,False,False,,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,5.0,2.0,MEDIUM,2.0,1,True,False,102.014,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,7.0,3.0,MEDIUM,2.0,1,True,False,102.126,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,7.0,3.0,SOFT,2.0,1,True,False,102.827,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,5.0,2.0,SOFT,2.0,1,True,False,102.959,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,8.0,3.0,MEDIUM,2.0,1,True,False,103.256,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,8.0,3.0,SOFT,5.0,1,False,False,115.008,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,8.0,3.0,SOFT,2.0,1,True,False,102.777,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,5.0,2.0,SOFT,2.0,1,True,False,102.534,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,5.0,2.0,SOFT,2.0,1,True,False,102.487,17.2,27.0,60.0,957.7,0.9,55,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,7.0,2.0,MEDIUM,2.0,1,True,False,102.473,16.9,25.5,61.4,957.7,0.5,346,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,8.0,3.0,MEDIUM,2.0,1,True,False,103.264,16.9,25.5,61.4,957.7,0.5,346,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,5.0,2.0,SOFT,2.0,1,True,False,102.722,16.9,25.5,61.4,957.7,0.5,346,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,8.0,3.0,SOFT,2.0,1,True,False,102.967,16.9,25.5,61.4,957.7,0.5,346,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,8.0,3.0,SOFT,2.0,1,True,False,103.959,16.9,25.5,61.4,957.7,0.5,346,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,8.0,3.0,SOFT,2.0,1,True,False,103.693,16.9,25.5,61.4,957.7,0.5,346,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,6.0,2.0,MEDIUM,3.0,1,False,False,136.605,16.9,25.3,61.5,957.7,2.4,300,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,8.0,3.0,SOFT,3.0,1,False,False,140.48,16.9,25.3,61.5,957.7,2.4,300,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,6.0,2.0,SOFT,3.0,1,False,False,138.182,16.9,25.3,61.5,957.7,2.4,300,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,9.0,3.0,MEDIUM,3.0,1,False,False,131.971,16.9,25.3,61.5,957.7,2.4,300,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,9.0,3.0,SOFT,3.0,1,False,False,131.572,16.9,25.5,62.2,957.8,1.2,333,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,6.0,2.0,SOFT,3.0,1,False,False,130.922,16.9,25.5,62.2,957.8,1.2,333,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,8.0,3.0,MEDIUM,3.0,1,False,False,,16.9,25.5,62.2,957.8,1.2,333,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,6.0,2.0,SOFT,3.0,1,False,False,142.284,16.9,25.5,62.2,957.8,1.2,333,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,8.0,2.0,MEDIUM,3.0,1,False,False,138.849,16.9,25.5,62.2,957.8,1.2,333,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,9.0,3.0,MEDIUM,3.0,1,False,False,131.885,16.9,25.5,62.2,957.8,1.2,333,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,6.0,2.0,SOFT,3.0,1,False,False,138.717,16.9,25.5,62.2,957.8,1.2,333,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,9.0,3.0,SOFT,3.0,1,False,False,124.852,16.9,25.5,62.2,957.8,1.2,333,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,9.0,3.0,SOFT,3.0,1,False,False,127.659,16.9,25.3,61.6,957.8,1.3,336,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,9.0,3.0,SOFT,3.0,1,False,False,,16.9,25.3,61.6,957.8,1.3,336,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,10.0,4.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,10.0,4.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,9.0,4.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,10.0,4.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,10.0,4.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,10.0,4.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,9.0,4.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,7.0,3.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,7.0,3.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,10.0,4.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.8,1.3,349,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,9.0,3.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.7,1.1,347,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,7.0,3.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.7,1.1,347,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,7.0,3.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.7,1.1,347,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,9.0,4.0,SOFT,1.0,1,False,False,,16.3,24.7,62.8,957.7,1.1,347,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,11.0,4.0,SOFT,2.0,1,True,False,102.67,16.3,24.7,62.8,957.7,1.1,347,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,11.0,4.0,SOFT,2.0,1,True,False,102.491,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,10.0,4.0,SOFT,2.0,1,True,False,103.468,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,11.0,4.0,SOFT,2.0,1,True,False,102.745,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,11.0,4.0,SOFT,2.0,1,True,False,102.996,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,11.0,4.0,SOFT,2.0,1,True,False,102.73,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,10.0,4.0,SOFT,2.0,1,True,False,102.722,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,8.0,3.0,SOFT,2.0,1,True,False,102.548,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,8.0,3.0,SOFT,2.0,1,True,False,102.478,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,11.0,4.0,SOFT,2.0,1,True,False,103.261,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,102.193,16.3,24.7,62.6,957.8,1.3,1,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,10.0,3.0,SOFT,2.0,1,True,False,107.361,16.3,24.6,63.0,957.8,1.1,286,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,8.0,3.0,SOFT,2.0,1,True,False,104.033,16.3,24.6,63.0,957.8,1.1,286,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,10.0,4.0,SOFT,2.0,1,True,False,103.459,16.3,24.6,63.0,957.8,1.1,286,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,12.0,4.0,SOFT,3.0,1,False,False,136.715,16.4,24.6,62.9,957.7,1.1,335,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,12.0,4.0,SOFT,3.0,1,False,False,135.818,16.4,24.6,62.9,957.7,1.1,335,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RUS,63,Williams,11.0,4.0,SOFT,3.0,1,False,False,137.869,16.4,24.6,62.9,957.7,1.1,335,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,12.0,4.0,SOFT,3.0,1,False,False,137.53,16.4,24.6,62.9,957.7,1.1,335,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+KVY,26,AlphaTauri,12.0,4.0,SOFT,3.0,1,False,False,140.006,16.4,24.6,62.9,957.7,1.1,335,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,11.0,4.0,SOFT,3.0,1,False,False,139.9,16.4,24.6,62.9,957.7,1.1,335,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,9.0,3.0,SOFT,3.0,1,False,False,138.164,16.4,24.6,62.9,957.7,1.1,335,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,9.0,3.0,SOFT,3.0,1,False,False,141.102,16.4,24.6,62.9,957.7,1.1,335,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,12.0,4.0,SOFT,3.0,1,False,False,143.356,16.4,24.5,62.1,957.8,1.7,334,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,11.0,3.0,SOFT,3.0,1,False,False,125.832,16.4,24.5,62.1,957.8,1.7,334,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,9.0,3.0,SOFT,3.0,1,False,False,139.223,16.4,24.5,62.1,957.8,1.7,334,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,9.0,3.0,SOFT,3.0,1,False,False,128.528,16.4,24.5,62.1,957.8,1.7,334,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,12.0,4.0,SOFT,3.0,1,False,False,194.703,16.4,24.5,62.1,957.8,1.7,334,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,11.0,4.0,SOFT,3.0,1,False,False,134.494,16.4,24.5,62.1,957.8,1.7,334,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,10.0,4.0,SOFT,1.0,1,False,False,,16.1,23.9,62.8,957.9,1.2,204,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,12.0,5.0,SOFT,3.0,1,False,False,,16.1,23.9,62.8,957.9,1.2,204,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,12.0,4.0,SOFT,1.0,1,False,False,,16.1,23.9,62.8,957.9,1.2,204,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,12.0,5.0,SOFT,1.0,1,False,False,,16.1,23.9,62.8,957.9,1.2,204,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,10.0,4.0,SOFT,1.0,1,False,False,,16.1,23.9,62.8,957.9,1.2,204,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,10.0,4.0,SOFT,1.0,1,False,False,,16.1,23.9,62.8,957.9,1.2,204,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,7.0,3.0,SOFT,1.0,1,False,False,,16.1,23.9,63.2,957.9,0.8,118,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,10.0,4.0,SOFT,1.0,1,False,False,,16.1,23.9,63.2,957.9,0.8,118,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,13.0,5.0,SOFT,1.0,1,False,False,,16.1,23.9,63.2,957.9,0.8,118,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,13.0,5.0,SOFT,1.0,1,False,False,,16.1,23.9,63.2,957.9,0.8,118,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,11.0,4.0,SOFT,2.0,1,True,False,101.451,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,13.0,5.0,SOFT,4.0,1,True,False,103.408,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,13.0,4.0,SOFT,2.0,1,True,False,102.08,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,13.0,5.0,SOFT,2.0,1,True,False,102.029,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,11.0,4.0,SOFT,2.0,1,True,False,102.453,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,11.0,4.0,SOFT,2.0,1,True,False,102.264,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,8.0,3.0,SOFT,2.0,1,True,False,102.061,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,11.0,4.0,SOFT,2.0,1,True,False,102.438,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,14.0,5.0,SOFT,2.0,1,True,False,102.603,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,14.0,5.0,SOFT,2.0,1,True,False,102.532,16.3,24.0,62.3,957.9,0.7,174,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,12.0,4.0,SOFT,3.0,1,False,False,120.387,16.3,24.0,62.3,957.8,1.0,176,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,14.0,4.0,SOFT,3.0,1,False,False,119.176,16.3,24.0,62.3,957.8,1.0,176,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,14.0,5.0,SOFT,5.0,1,False,False,125.55,16.3,24.0,62.3,957.8,1.0,176,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,14.0,5.0,SOFT,3.0,1,False,False,123.613,16.3,24.0,62.3,957.8,1.0,176,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,12.0,4.0,SOFT,3.0,1,False,False,125.036,16.3,24.0,62.3,957.8,1.0,176,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,12.0,4.0,SOFT,3.0,1,False,False,126.681,16.3,24.0,62.3,957.8,1.0,176,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,9.0,3.0,SOFT,3.0,1,False,False,124.895,16.3,24.0,62.3,957.8,1.0,176,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,12.0,4.0,SOFT,3.0,1,False,False,136.788,16.4,24.0,61.6,957.9,0.6,163,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,15.0,5.0,SOFT,3.0,1,False,False,132.756,16.4,24.0,61.6,957.9,0.6,163,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,15.0,5.0,SOFT,3.0,1,False,False,143.011,16.4,24.0,61.6,957.9,0.6,163,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,13.0,5.0,SOFT,1.0,1,False,False,,16.3,23.7,61.4,957.8,1.3,250,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,15.0,6.0,SOFT,1.0,1,False,False,,16.3,23.7,61.4,957.8,1.3,250,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,13.0,5.0,SOFT,1.0,1,False,False,,16.3,23.7,61.4,957.8,1.3,250,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,15.0,5.0,SOFT,1.0,1,False,False,,16.3,23.7,61.4,957.8,1.3,250,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,15.0,6.0,SOFT,1.0,1,False,False,,16.3,23.7,62.7,957.7,1.0,136,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,13.0,5.0,SOFT,1.0,1,False,False,,16.3,23.7,62.7,957.7,1.0,136,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,10.0,4.0,SOFT,1.0,1,False,False,,16.3,23.7,62.7,957.7,1.0,136,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,13.0,5.0,SOFT,1.0,1,False,False,,16.3,23.7,62.7,957.7,1.0,136,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,14.0,5.0,SOFT,2.0,1,True,False,101.252,16.3,23.8,63.2,957.8,0.9,164,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,16.0,6.0,SOFT,2.0,1,True,False,101.763,16.3,23.8,63.2,957.8,0.9,164,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,14.0,5.0,SOFT,2.0,1,True,False,102.33,16.3,23.8,63.2,957.8,0.9,164,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,16.0,5.0,SOFT,2.0,1,True,False,101.778,16.3,23.8,63.2,957.8,0.9,164,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,16.0,6.0,SOFT,2.0,1,True,False,102.657,16.4,24.2,62.2,957.9,2.2,172,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,14.0,5.0,SOFT,2.0,1,True,False,102.396,16.4,24.2,62.2,957.9,2.2,172,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,14.0,5.0,SOFT,2.0,1,True,False,102.548,16.4,24.2,62.2,957.9,2.2,172,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+RIC,3,Renault,11.0,4.0,SOFT,2.0,1,False,False,,16.4,24.2,62.2,957.9,2.2,172,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,15.0,5.0,SOFT,3.0,1,False,False,,16.6,24.4,61.9,957.9,1.9,161,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,17.0,6.0,SOFT,3.0,1,False,False,,16.6,24.4,61.9,957.9,1.9,161,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,15.0,5.0,SOFT,3.0,1,False,False,,16.6,24.4,61.9,957.9,1.9,161,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,17.0,5.0,SOFT,3.0,1,False,False,,16.6,24.4,61.9,957.9,1.9,161,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,17.0,6.0,SOFT,3.0,1,False,False,,16.5,24.7,62.2,957.9,2.1,0,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+OCO,31,Renault,15.0,5.0,SOFT,3.0,1,False,False,,16.5,24.7,62.2,957.9,2.1,0,False,Spa,2020,7,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,15.0,5.0,SOFT,3.0,1,False,False,,16.5,24.7,62.2,957.9,2.1,0,False,Spa,2020,7,Belgian Grand Prix,conventional,False

@@ -1,0 +1,378 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+MAG,20,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.3,40.0,930.7,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.3,40.0,930.7,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.3,40.0,930.7,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.3,40.0,930.7,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.3,40.0,930.7,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.3,40.0,930.7,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.3,40.0,930.7,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.3,40.0,930.7,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.3,40.0,930.7,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+MAG,20,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,66.006,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,1.0,1.0,SOFT,9.0,1,False,False,,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,True,66.04,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,1.0,1.0,SOFT,10.0,1,False,False,,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,66.321,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAR,2,Williams,1.0,1.0,SOFT,1.0,1,False,False,,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,66.426,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ZHO,24,Alfa Romeo,1.0,1.0,SOFT,1.0,1,False,False,,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,2.0,1.0,SOFT,2.0,1,True,False,66.139,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,1.0,1.0,SOFT,4.0,1,False,False,,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,1.0,1.0,SOFT,4.0,1,False,False,,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,2.0,1.0,SOFT,2.0,1,True,False,66.323,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,65.91,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,2.0,1.0,SOFT,2.0,1,True,False,65.893,27.3,41.1,39.0,930.5,0.4,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,True,65.19,27.4,41.5,39.0,930.5,0.6,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,2.0,1.0,SOFT,2.0,1,True,True,65.946,27.4,41.5,39.0,930.5,0.6,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,2.0,1.0,SOFT,10.0,1,True,True,66.496,27.4,41.5,39.0,930.5,0.6,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,2.0,1.0,SOFT,11.0,1,True,False,66.237,27.4,41.5,39.0,930.5,0.6,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAR,2,Williams,2.0,1.0,SOFT,2.0,1,True,False,67.22,27.4,41.5,39.0,930.5,0.6,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ZHO,24,Alfa Romeo,2.0,1.0,SOFT,2.0,1,True,True,66.498,27.4,41.5,39.0,930.5,0.6,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,2.0,1.0,SOFT,5.0,1,True,False,66.759,27.4,41.5,39.0,930.5,0.6,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,1.0,1.0,SOFT,4.0,1,False,False,,27.4,41.5,39.0,930.5,0.6,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+MAG,20,Haas F1 Team,3.0,1.0,SOFT,3.0,1,True,False,111.666,27.4,41.5,39.0,930.5,0.6,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,3.0,1.0,SOFT,3.0,1,True,False,105.534,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,3.0,1.0,SOFT,3.0,1,True,False,96.063,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,3.0,1.0,SOFT,3.0,1,True,False,108.889,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,2.0,1.0,SOFT,5.0,1,True,False,93.345,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,3.0,1.0,SOFT,3.0,1,True,False,107.455,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,3.0,1.0,SOFT,3.0,1,True,False,98.929,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,115.665,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,1.0,1.0,SOFT,1.0,1,False,False,,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAR,2,Williams,3.0,1.0,SOFT,3.0,1,False,False,80.91,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,3.0,1.0,SOFT,3.0,1,True,False,116.002,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,2.0,1.0,SOFT,5.0,1,True,False,66.966,27.4,41.5,39.0,930.5,1.0,96,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,3.0,1.0,SOFT,11.0,12,True,False,111.497,27.4,41.5,39.0,930.5,1.2,85,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,2.0,1.0,SOFT,2.0,12,True,False,66.496,27.4,41.5,39.0,930.5,1.2,85,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,3.0,1.0,SOFT,6.0,12,True,True,66.723,27.4,41.5,39.0,930.5,1.2,85,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,3.0,1.0,SOFT,12.0,12,True,False,117.245,27.4,41.5,39.0,930.5,1.2,85,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,3.0,1.0,SOFT,3.0,12,True,True,137.209,27.4,41.5,39.0,930.5,1.2,85,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,3.0,1.0,SOFT,3.0,12,True,True,133.805,27.4,41.5,39.0,930.5,1.2,85,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,4.0,1.0,SOFT,4.0,12,False,False,81.032,27.4,41.5,39.0,930.5,1.2,85,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,3.0,1.0,SOFT,6.0,12,True,False,105.637,27.4,41.5,39.0,930.5,1.2,85,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,4.0,1.0,SOFT,4.0,12,False,False,79.778,27.4,41.5,39.0,930.5,1.2,85,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,3.0,1.0,SOFT,3.0,251,False,False,,27.1,40.0,40.0,930.5,0.8,315,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,1.0,1.0,SOFT,1.0,125,False,False,,27.1,40.0,40.0,930.5,0.8,315,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,4.0,1.0,SOFT,4.0,125,False,False,,27.1,40.0,40.0,930.5,0.8,315,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,4.0,1.0,SOFT,4.0,251,False,False,,27.1,40.0,40.0,930.5,0.8,315,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,4.0,1.0,SOFT,7.0,251,False,False,,27.1,40.0,40.0,930.5,0.8,315,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,4.0,1.0,SOFT,7.0,251,False,False,,27.0,40.1,40.0,930.7,0.8,322,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,4.0,1.0,SOFT,12.0,251,False,False,,27.0,40.1,40.0,930.7,0.8,322,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,4.0,1.0,SOFT,4.0,251,False,False,,27.0,40.1,40.0,930.7,0.8,322,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,4.0,1.0,SOFT,4.0,125,False,False,,27.0,40.1,40.0,930.7,0.8,322,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,4.0,1.0,SOFT,13.0,251,False,False,,27.0,40.1,40.0,930.7,0.8,322,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,2.0,1.0,SOFT,2.0,125,False,False,,27.0,40.1,40.0,930.7,0.8,322,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ZHO,24,Alfa Romeo,3.0,1.0,SOFT,3.0,125,False,False,,27.0,40.1,40.0,930.7,0.8,322,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,4.0,2.0,SOFT,4.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,2.0,2.0,SOFT,2.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,5.0,2.0,SOFT,5.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,5.0,2.0,SOFT,5.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,5.0,2.0,SOFT,1.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,5.0,2.0,SOFT,1.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,5.0,2.0,SOFT,1.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,5.0,2.0,SOFT,5.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,5.0,2.0,SOFT,1.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,3.0,2.0,SOFT,1.0,1,False,False,,26.9,40.1,40.0,930.7,0.8,199,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ZHO,24,Alfa Romeo,4.0,2.0,SOFT,1.0,1,False,False,,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,5.0,2.0,SOFT,5.0,1,False,False,,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,5.0,2.0,SOFT,5.0,1,True,False,66.113,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,3.0,2.0,SOFT,3.0,1,True,False,66.244,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,3.0,1.0,SOFT,6.0,125,False,False,,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,6.0,2.0,SOFT,6.0,1,True,False,65.655,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,6.0,2.0,SOFT,6.0,1,True,False,65.617,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,6.0,2.0,SOFT,2.0,1,True,False,65.997,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,6.0,2.0,SOFT,2.0,1,True,False,65.673,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,6.0,2.0,SOFT,2.0,1,True,False,65.339,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,6.0,2.0,SOFT,6.0,1,True,False,65.116,26.8,40.1,41.0,930.5,1.1,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,6.0,2.0,SOFT,2.0,1,True,False,65.577,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,4.0,2.0,SOFT,2.0,1,True,False,65.948,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ZHO,24,Alfa Romeo,5.0,2.0,SOFT,2.0,1,True,False,65.972,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,6.0,2.0,SOFT,6.0,1,True,False,65.926,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,5.0,2.0,SOFT,1.0,1,False,False,,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,6.0,2.0,SOFT,6.0,1,False,False,82.648,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,5.0,2.0,SOFT,1.0,1,False,False,,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAR,2,Williams,4.0,2.0,SOFT,1.0,1,False,False,,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,7.0,2.0,SOFT,7.0,1,False,False,80.027,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,4.0,2.0,SOFT,1.0,1,False,False,,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+MAG,20,Haas F1 Team,4.0,1.0,SOFT,4.0,125,False,False,,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,4.0,2.0,SOFT,4.0,1,True,False,96.113,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,4.0,1.0,SOFT,4.0,125,False,False,,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,4.0,1.0,SOFT,4.0,125,False,False,,26.7,39.8,41.0,930.5,0.4,359,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,4.0,1.0,SOFT,4.0,125,False,False,,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,7.0,2.0,SOFT,7.0,1,False,False,105.913,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,7.0,2.0,SOFT,3.0,1,True,False,103.432,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,5.0,2.0,SOFT,3.0,1,False,False,81.302,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,7.0,2.0,SOFT,3.0,1,True,False,110.414,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ZHO,24,Alfa Romeo,6.0,2.0,SOFT,3.0,1,False,False,83.141,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,6.0,2.0,SOFT,2.0,1,True,True,66.058,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,6.0,2.0,SOFT,2.0,1,True,False,65.784,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,7.0,2.0,SOFT,3.0,1,True,False,121.753,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAR,2,Williams,5.0,2.0,SOFT,2.0,1,True,False,66.295,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,5.0,2.0,SOFT,2.0,1,True,True,65.702,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,5.0,2.0,SOFT,5.0,1,True,True,66.341,26.8,39.6,41.0,930.7,0.5,100,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,7.0,2.0,SOFT,3.0,1,True,False,120.735,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,7.0,2.0,SOFT,7.0,1,True,False,133.615,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,7.0,2.0,SOFT,7.0,1,False,False,123.391,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+MAG,20,Haas F1 Team,5.0,2.0,SOFT,1.0,1,False,False,,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,8.0,2.0,SOFT,4.0,1,True,False,65.831,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,5.0,2.0,SOFT,1.0,1,False,False,,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,5.0,2.0,SOFT,1.0,1,False,False,,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,8.0,2.0,SOFT,4.0,1,True,False,65.753,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,5.0,2.0,SOFT,1.0,1,False,False,,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,7.0,2.0,SOFT,3.0,1,False,False,79.301,26.8,40.3,40.0,930.7,1.7,26,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAR,2,Williams,6.0,2.0,SOFT,3.0,1,False,False,77.426,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,7.0,2.0,SOFT,3.0,1,False,False,101.382,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,6.0,2.0,SOFT,6.0,1,False,False,82.712,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+MAG,20,Haas F1 Team,6.0,2.0,SOFT,2.0,1,True,True,65.793,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,6.0,2.0,SOFT,3.0,1,False,False,91.112,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,6.0,2.0,SOFT,2.0,1,True,False,65.991,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,6.0,2.0,SOFT,2.0,1,True,False,65.683,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,6.0,2.0,SOFT,2.0,1,True,False,65.798,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,8.0,2.0,SOFT,4.0,1,True,False,120.209,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,9.0,2.0,SOFT,5.0,1,False,False,86.827,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,8.0,2.0,SOFT,4.0,1,True,False,110.806,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,9.0,2.0,SOFT,5.0,1,False,False,84.735,26.8,40.3,40.0,930.7,1.5,112,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,8.0,2.0,SOFT,8.0,1,True,False,131.867,26.9,39.9,40.0,930.7,1.7,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,8.0,3.0,SOFT,1.0,1,False,False,,26.9,39.9,40.0,930.7,1.7,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,8.0,3.0,SOFT,1.0,1,False,False,,26.9,39.9,40.0,930.7,1.7,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,9.0,2.0,SOFT,5.0,1,True,True,65.815,26.9,39.9,40.0,930.7,1.7,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,9.0,2.0,SOFT,5.0,1,True,False,65.673,26.9,39.9,40.0,930.7,1.7,21,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+MAG,20,Haas F1 Team,7.0,2.0,SOFT,3.0,1,True,True,123.532,26.8,39.6,40.0,930.7,1.7,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,7.0,2.0,SOFT,3.0,1,True,False,115.711,26.8,39.6,40.0,930.7,1.7,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,9.0,3.0,SOFT,2.0,1,True,False,65.775,26.8,39.6,40.0,930.7,1.7,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,7.0,2.0,SOFT,3.0,1,True,False,114.442,26.8,39.6,40.0,930.7,1.7,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,9.0,2.0,SOFT,9.0,1,False,False,75.041,26.8,39.6,40.0,930.7,1.7,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,9.0,3.0,SOFT,2.0,1,True,True,65.179,26.8,39.6,40.0,930.7,1.7,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,7.0,2.0,SOFT,3.0,1,True,False,120.103,26.8,39.6,40.0,930.7,1.7,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,8.0,3.0,SOFT,1.0,1,False,False,,26.8,39.6,40.0,930.7,1.7,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,10.0,2.0,SOFT,6.0,1,False,False,84.836,26.7,39.5,41.0,930.7,1.0,91,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,10.0,2.0,SOFT,6.0,1,False,False,80.979,26.7,39.5,41.0,930.7,1.0,91,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,9.0,3.0,SOFT,2.0,1,True,False,65.177,26.7,39.5,41.0,930.7,1.0,91,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,7.0,3.0,SOFT,1.0,1,False,False,,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,10.0,3.0,SOFT,3.0,1,True,False,97.055,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,8.0,2.0,SOFT,4.0,1,True,False,102.274,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAR,2,Williams,7.0,3.0,SOFT,1.0,1,False,False,,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,7.0,3.0,SOFT,1.0,1,False,False,,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+MAG,20,Haas F1 Team,8.0,2.0,SOFT,4.0,1,True,False,120.535,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,8.0,2.0,SOFT,4.0,1,True,False,119.215,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,8.0,3.0,SOFT,1.0,1,False,False,,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,10.0,3.0,SOFT,3.0,1,True,True,125.873,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,8.0,2.0,SOFT,4.0,1,True,False,123.374,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,8.0,3.0,SOFT,1.0,1,False,False,,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,10.0,3.0,SOFT,1.0,1,False,False,,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,10.0,3.0,SOFT,1.0,1,False,False,,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,6.0,3.0,SOFT,1.0,1,False,False,,26.6,39.2,41.0,930.7,1.2,87,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,7.0,3.0,SOFT,1.0,1,False,False,,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,8.0,3.0,SOFT,2.0,1,True,False,65.673,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ZHO,24,Alfa Romeo,7.0,3.0,SOFT,1.0,1,False,False,,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,10.0,3.0,SOFT,10.0,1,False,False,,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,11.0,3.0,SOFT,4.0,1,True,False,67.499,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,9.0,2.0,SOFT,5.0,1,True,False,65.74,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAR,2,Williams,8.0,3.0,SOFT,2.0,1,True,False,65.948,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,8.0,3.0,SOFT,2.0,1,True,False,65.729,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+MAG,20,Haas F1 Team,9.0,2.0,SOFT,5.0,1,True,False,65.971,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,9.0,2.0,SOFT,5.0,1,True,False,65.838,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,10.0,3.0,SOFT,3.0,1,False,False,106.637,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,9.0,3.0,SOFT,2.0,1,True,False,65.974,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,11.0,3.0,SOFT,4.0,1,True,False,65.729,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,9.0,2.0,SOFT,5.0,1,True,False,65.71,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,9.0,3.0,SOFT,2.0,1,True,True,65.863,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,11.0,3.0,SOFT,2.0,1,True,False,65.686,26.5,39.1,41.0,930.7,0.8,101,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,7.0,3.0,SOFT,2.0,1,True,False,65.763,26.5,39.0,41.0,930.7,1.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,8.0,3.0,SOFT,2.0,1,True,False,65.515,26.5,39.0,41.0,930.7,1.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,11.0,3.0,SOFT,2.0,1,False,False,78.058,26.5,39.0,41.0,930.7,1.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ZHO,24,Alfa Romeo,8.0,3.0,SOFT,2.0,1,True,False,65.818,26.5,39.0,41.0,930.7,1.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,11.0,3.0,SOFT,11.0,1,True,False,65.339,26.5,39.0,41.0,930.7,1.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,12.0,3.0,SOFT,5.0,1,False,False,86.879,26.5,39.0,41.0,930.7,1.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,10.0,2.0,SOFT,6.0,1,False,False,87.103,26.5,39.0,41.0,930.7,1.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,9.0,3.0,SOFT,3.0,1,False,False,89.382,26.5,39.0,41.0,930.7,1.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+MAG,20,Haas F1 Team,10.0,2.0,SOFT,6.0,1,False,False,87.568,26.5,39.0,41.0,930.7,1.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,9.0,3.0,SOFT,3.0,1,False,False,117.887,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,10.0,2.0,SOFT,6.0,1,False,False,89.126,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+DEV,21,AlphaTauri,10.0,3.0,SOFT,3.0,1,False,False,87.91,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,12.0,3.0,SOFT,5.0,1,False,False,86.791,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,10.0,2.0,SOFT,6.0,1,False,False,88.197,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+TSU,22,AlphaTauri,10.0,3.0,SOFT,3.0,1,False,False,90.867,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,12.0,3.0,SOFT,3.0,1,False,False,89.742,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAR,2,Williams,9.0,3.0,SOFT,3.0,1,False,False,131.637,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,8.0,3.0,SOFT,3.0,1,False,False,89.875,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,9.0,3.0,SOFT,3.0,1,False,False,91.364,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,12.0,3.0,SOFT,12.0,1,False,False,85.797,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ZHO,24,Alfa Romeo,9.0,3.0,SOFT,3.0,1,False,False,101.13,26.5,39.0,41.0,930.7,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,13.0,4.0,SOFT,1.0,1,False,False,,26.3,38.5,44.0,930.5,0.6,344,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,11.0,4.0,SOFT,1.0,1,False,False,,26.3,38.5,44.0,930.5,0.6,344,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,11.0,3.0,SOFT,7.0,1,False,False,,26.3,38.5,44.0,930.5,0.6,344,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,13.0,4.0,SOFT,1.0,1,False,False,,26.3,38.5,44.0,930.5,0.6,344,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,11.0,3.0,SOFT,7.0,1,False,False,,26.3,38.5,44.0,930.5,0.6,344,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,13.0,4.0,SOFT,1.0,1,False,False,,26.3,38.5,44.0,930.5,0.6,344,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,11.0,3.0,SOFT,1.0,1,False,False,,26.3,38.5,44.0,930.5,0.6,344,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,11.0,3.0,SOFT,1.0,1,False,False,,26.3,38.5,44.0,930.5,0.6,344,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,13.0,4.0,SOFT,4.0,1,False,False,,26.3,38.5,44.0,930.5,0.6,344,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,12.0,4.0,SOFT,3.0,1,False,False,,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,11.0,3.0,SOFT,1.0,1,False,False,,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,14.0,4.0,SOFT,2.0,1,True,True,64.955,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,12.0,4.0,SOFT,2.0,1,True,True,65.028,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,14.0,4.0,SOFT,2.0,1,True,False,65.382,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,12.0,3.0,SOFT,8.0,1,True,False,65.486,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,14.0,4.0,SOFT,2.0,1,True,False,65.038,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,12.0,3.0,SOFT,8.0,1,True,False,82.996,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,12.0,3.0,SOFT,2.0,1,True,True,65.177,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,12.0,3.0,SOFT,2.0,1,True,False,65.605,26.2,38.5,44.0,930.5,0.8,129,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,14.0,4.0,SOFT,5.0,1,True,False,65.691,26.3,38.2,44.0,930.7,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,13.0,4.0,SOFT,4.0,1,True,False,65.552,26.3,38.2,44.0,930.7,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,12.0,3.0,SOFT,2.0,1,True,False,65.362,26.3,38.2,44.0,930.7,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,13.0,3.0,SOFT,9.0,1,True,False,65.66,26.3,38.2,44.0,930.7,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,15.0,4.0,SOFT,3.0,1,False,False,87.982,26.2,37.9,44.0,930.5,1.1,142,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,15.0,4.0,SOFT,3.0,1,False,False,86.752,26.2,37.9,44.0,930.5,1.1,142,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,15.0,4.0,SOFT,6.0,1,False,False,82.357,26.2,37.9,44.0,930.5,1.1,142,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,15.0,4.0,SOFT,3.0,1,True,True,130.585,26.2,37.9,44.0,930.5,1.1,142,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,14.0,4.0,SOFT,5.0,1,False,False,78.534,26.2,37.9,44.0,930.5,1.1,142,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,13.0,4.0,SOFT,3.0,1,True,False,126.688,26.2,37.9,44.0,930.5,1.1,142,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,13.0,3.0,SOFT,9.0,1,False,False,104.126,26.2,37.9,44.0,930.5,1.1,142,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,13.0,3.0,SOFT,3.0,1,True,False,106.926,26.2,37.9,44.0,930.5,1.1,142,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,13.0,3.0,SOFT,3.0,1,True,False,124.689,26.2,37.9,44.0,930.5,1.1,142,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,13.0,3.0,SOFT,3.0,1,True,False,106.297,26.3,38.2,44.0,930.7,1.5,104,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,10.0,4.0,SOFT,1.0,1,False,False,,26.3,38.2,44.0,930.7,1.5,104,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,10.0,4.0,SOFT,1.0,1,False,False,,26.3,38.2,44.0,930.7,1.5,104,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,14.0,3.0,SOFT,10.0,1,False,False,95.67,26.3,38.2,44.0,930.7,1.5,104,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,9.0,4.0,SOFT,1.0,1,False,False,,26.4,38.6,43.0,930.5,1.0,109,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,11.0,4.0,SOFT,2.0,1,True,False,65.453,26.4,38.6,43.0,930.5,1.0,109,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,11.0,4.0,SOFT,2.0,1,True,False,65.308,26.4,38.6,43.0,930.5,1.0,109,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,16.0,4.0,SOFT,4.0,1,True,False,127.685,26.4,38.6,43.0,930.5,1.0,109,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,14.0,4.0,SOFT,4.0,1,True,False,133.107,26.4,38.6,43.0,930.5,1.0,109,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,14.0,3.0,SOFT,4.0,1,True,False,120.353,26.4,38.6,43.0,930.5,1.0,109,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,14.0,3.0,SOFT,4.0,1,True,False,111.396,26.4,38.6,43.0,930.5,1.0,109,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,14.0,3.0,SOFT,4.0,1,True,False,118.388,26.4,38.6,43.0,930.5,1.0,109,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,14.0,4.0,SOFT,1.0,1,False,False,,26.3,38.3,43.0,930.5,0.3,166,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,10.0,4.0,SOFT,2.0,1,True,False,65.68,26.3,38.3,43.0,930.5,0.3,166,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,16.0,5.0,SOFT,1.0,1,False,False,,26.3,38.3,43.0,930.5,0.3,166,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,10.0,4.0,SOFT,1.0,1,False,False,,26.3,38.3,43.0,930.5,0.3,166,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,17.0,4.0,SOFT,5.0,1,True,False,64.951,26.3,38.3,43.0,930.5,0.3,166,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,15.0,4.0,SOFT,5.0,1,True,True,65.235,26.3,38.3,43.0,930.5,0.3,166,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,15.0,3.0,SOFT,5.0,1,True,False,65.678,26.3,38.3,43.0,930.5,0.3,166,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,12.0,4.0,SOFT,3.0,1,False,False,91.936,26.3,38.3,43.0,930.5,0.3,166,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,15.0,3.0,SOFT,5.0,1,True,False,65.506,26.3,38.3,43.0,930.5,0.3,166,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,12.0,4.0,SOFT,3.0,1,False,False,109.151,26.3,38.2,44.0,930.5,0.4,319,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,15.0,4.0,SOFT,2.0,1,True,False,65.036,26.3,38.2,44.0,930.5,0.4,319,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,15.0,3.0,SOFT,5.0,1,False,False,77.027,26.3,38.2,44.0,930.5,0.4,319,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,15.0,4.0,SOFT,1.0,1,False,False,,26.3,38.2,44.0,930.5,0.4,319,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,16.0,5.0,SOFT,1.0,1,False,False,,26.3,38.2,44.0,930.5,0.4,319,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,11.0,4.0,SOFT,3.0,1,False,False,84.989,26.3,38.2,44.0,930.5,0.4,319,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,15.0,5.0,SOFT,1.0,1,False,False,,26.3,38.2,44.0,930.5,0.4,319,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,17.0,5.0,SOFT,2.0,1,True,True,65.055,26.3,38.2,44.0,930.5,0.4,319,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,11.0,4.0,SOFT,2.0,1,True,False,65.387,26.3,38.2,44.0,930.5,0.4,319,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,16.0,4.0,SOFT,6.0,1,False,False,81.55,26.2,37.8,44.0,930.5,0.8,351,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,16.0,3.0,SOFT,6.0,1,False,False,80.728,26.2,37.8,44.0,930.5,0.8,351,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,16.0,3.0,SOFT,6.0,1,False,False,88.251,26.2,37.8,44.0,930.5,0.8,351,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,16.0,4.0,SOFT,2.0,1,True,False,65.087,26.2,37.8,44.0,930.5,0.8,351,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,18.0,4.0,SOFT,6.0,1,False,False,105.517,26.2,37.8,44.0,930.5,0.8,351,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,17.0,5.0,SOFT,2.0,1,True,True,65.408,26.2,37.8,44.0,930.5,0.8,351,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,16.0,4.0,SOFT,3.0,1,False,False,87.39,26.2,37.8,44.0,930.5,0.8,351,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,16.0,5.0,SOFT,2.0,1,True,False,65.188,26.2,37.8,44.0,930.5,0.8,351,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,12.0,4.0,SOFT,3.0,1,False,False,84.449,26.3,37.8,45.0,930.5,0.4,102,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,18.0,5.0,SOFT,3.0,1,False,False,90.323,26.3,37.8,45.0,930.5,0.4,102,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,18.0,5.0,SOFT,3.0,1,False,False,94.047,26.1,37.8,46.0,930.5,0.6,156,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,17.0,4.0,SOFT,3.0,1,True,False,121.899,26.1,37.8,46.0,930.5,0.6,156,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,17.0,5.0,SOFT,3.0,1,True,False,129.286,26.1,37.8,46.0,930.5,0.6,156,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,19.0,6.0,SOFT,1.0,1,False,False,105.435,26.1,37.7,45.0,930.5,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,17.0,5.0,SOFT,1.0,1,False,False,,26.1,37.7,45.0,930.5,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,18.0,4.0,SOFT,4.0,1,True,False,107.034,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,13.0,5.0,SOFT,1.0,1,False,False,,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,19.0,6.0,SOFT,1.0,1,False,False,,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,16.0,4.0,SOFT,1.0,1,False,False,,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,17.0,4.0,SOFT,1.0,1,False,False,,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,12.0,5.0,SOFT,1.0,1,False,False,,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,13.0,5.0,SOFT,1.0,1,False,False,,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,17.0,4.0,SOFT,1.0,1,False,False,,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,20.0,6.0,SOFT,2.0,1,True,False,65.428,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,18.0,5.0,SOFT,4.0,1,True,False,129.661,26.1,38.2,45.0,930.5,0.8,72,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,17.0,5.0,SOFT,1.0,1,False,False,,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,13.0,5.0,SOFT,1.0,1,False,False,,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,18.0,5.0,SOFT,2.0,1,True,True,64.99,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,19.0,4.0,SOFT,5.0,1,True,False,65.29,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,14.0,5.0,SOFT,2.0,1,True,True,65.295,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,16.0,5.0,SOFT,1.0,1,False,False,,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,20.0,6.0,SOFT,2.0,1,True,False,65.181,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,17.0,4.0,SOFT,2.0,1,True,True,65.301,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,18.0,4.0,SOFT,2.0,1,True,False,65.121,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,13.0,5.0,SOFT,2.0,1,True,True,65.513,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,14.0,5.0,SOFT,2.0,1,True,True,65.084,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,18.0,4.0,SOFT,2.0,1,True,True,65.213,26.1,38.5,45.0,930.4,0.8,152,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,18.0,5.0,SOFT,2.0,1,True,False,64.975,26.1,38.5,45.0,930.5,0.3,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,14.0,5.0,SOFT,2.0,1,True,True,65.993,26.1,38.5,45.0,930.5,0.3,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,19.0,5.0,SOFT,5.0,1,False,False,76.658,26.1,38.5,45.0,930.5,0.3,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+RUS,63,Mercedes,21.0,6.0,SOFT,3.0,1,False,False,90.762,26.1,38.5,45.0,930.5,0.3,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PER,11,Red Bull Racing,19.0,5.0,SOFT,3.0,1,False,False,93.81,26.1,38.5,45.0,930.5,0.3,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,17.0,5.0,SOFT,2.0,1,False,False,82.864,26.1,38.5,45.0,930.5,0.3,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,20.0,4.0,SOFT,6.0,1,False,False,92.87,26.1,38.5,45.0,930.5,0.3,97,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+OCO,31,Alpine,15.0,5.0,SOFT,3.0,1,False,False,99.425,26.1,37.9,44.0,930.4,1.3,58,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,18.0,4.0,SOFT,3.0,1,False,False,88.164,26.1,37.9,44.0,930.4,1.3,58,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,21.0,6.0,SOFT,3.0,1,False,False,95.465,26.1,37.9,44.0,930.4,1.3,58,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,19.0,4.0,SOFT,3.0,1,False,False,86.369,26.1,37.9,44.0,930.4,1.3,58,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,15.0,5.0,SOFT,3.0,1,False,False,90.658,26.1,37.9,44.0,930.4,1.3,58,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+PIA,81,McLaren,19.0,4.0,SOFT,3.0,1,False,False,92.742,26.1,37.9,44.0,930.4,1.3,58,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,19.0,5.0,SOFT,3.0,1,False,False,87.602,26.1,37.9,44.0,930.4,1.3,58,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,15.0,5.0,SOFT,3.0,1,False,False,90.984,26.1,37.9,44.0,930.4,1.3,58,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+BOT,77,Alfa Romeo,14.0,5.0,SOFT,3.0,1,False,False,116.528,26.1,37.9,44.0,930.4,1.3,58,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,16.0,6.0,SOFT,4.0,1,False,False,,26.0,38.0,45.0,930.5,0.8,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,19.0,5.0,SOFT,1.0,1,False,False,,26.0,38.0,45.0,930.5,0.8,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,20.0,6.0,SOFT,1.0,1,False,False,,26.0,38.0,45.0,930.5,0.8,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,21.0,5.0,SOFT,1.0,1,False,False,,26.0,37.6,45.0,930.5,0.8,82,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,18.0,6.0,SOFT,3.0,1,False,False,,26.0,37.6,45.0,930.5,0.8,82,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,17.0,6.0,SOFT,5.0,1,True,False,65.823,26.0,37.6,45.0,930.5,0.8,82,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,20.0,5.0,SOFT,7.0,1,False,False,,26.0,37.6,45.0,930.5,0.8,82,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,16.0,6.0,SOFT,4.0,1,False,False,,26.0,37.6,45.0,930.5,0.8,82,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,22.0,7.0,SOFT,4.0,1,False,False,,26.0,37.6,45.0,930.5,0.8,82,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,19.0,5.0,SOFT,4.0,1,False,False,,26.0,37.6,45.0,930.5,0.8,82,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,20.0,5.0,SOFT,2.0,1,True,False,64.503,26.0,37.6,45.0,930.5,0.8,82,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,21.0,6.0,SOFT,2.0,1,True,False,64.927,26.0,37.6,45.0,930.5,0.8,82,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,22.0,5.0,SOFT,2.0,1,True,False,64.709,26.0,37.5,46.0,930.5,0.5,69,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,19.0,6.0,SOFT,4.0,1,True,False,65.001,26.0,37.5,46.0,930.5,0.5,69,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,21.0,5.0,SOFT,8.0,1,True,True,65.857,26.0,37.5,46.0,930.5,0.5,69,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,17.0,6.0,SOFT,5.0,1,True,False,65.633,26.0,37.5,46.0,930.5,0.5,69,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,23.0,7.0,SOFT,5.0,1,True,False,65.524,26.0,37.5,46.0,930.5,0.5,69,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,18.0,6.0,SOFT,6.0,1,False,False,82.518,26.0,37.5,46.0,930.5,0.5,69,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,20.0,5.0,SOFT,5.0,1,True,False,65.903,26.0,37.5,46.0,930.5,0.5,69,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,21.0,5.0,SOFT,3.0,1,False,False,78.041,26.0,37.4,46.0,930.5,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,22.0,6.0,SOFT,3.0,1,False,False,86.97,26.0,37.4,46.0,930.5,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,23.0,5.0,SOFT,3.0,1,False,False,80.39,26.0,37.4,46.0,930.5,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,20.0,6.0,SOFT,5.0,1,False,False,80.349,26.0,37.4,46.0,930.5,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,20.0,6.0,SOFT,1.0,1,False,False,,26.0,37.4,46.0,930.5,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,22.0,5.0,SOFT,9.0,1,False,False,82.982,26.0,37.4,46.0,930.5,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,18.0,6.0,SOFT,6.0,1,False,False,81.905,26.0,37.4,46.0,930.5,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,24.0,7.0,SOFT,6.0,1,False,False,80.651,26.0,37.4,46.0,930.5,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,21.0,5.0,SOFT,6.0,1,False,False,75.709,26.0,37.4,46.0,930.5,0.4,95,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,21.0,6.0,SOFT,2.0,1,True,False,65.061,26.0,37.4,45.0,930.5,1.2,63,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,19.0,7.0,SOFT,1.0,1,False,False,,26.0,37.6,45.0,930.5,1.2,25,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,22.0,6.0,SOFT,3.0,1,False,False,79.973,26.0,37.6,45.0,930.5,1.2,25,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,20.0,7.0,SOFT,2.0,1,True,True,65.34,26.0,37.6,45.0,930.5,1.0,144,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALB,23,Williams,21.0,7.0,SOFT,3.0,1,False,False,91.978,25.9,36.9,46.0,930.5,0.6,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,22.0,6.0,SOFT,1.0,1,False,False,,25.9,36.9,46.0,930.5,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,25.0,8.0,SOFT,1.0,1,False,False,,25.9,36.9,46.0,930.5,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,22.0,6.0,SOFT,1.0,1,False,False,,25.9,36.9,46.0,930.5,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,23.0,6.0,SOFT,1.0,1,False,False,,25.9,36.9,46.0,930.5,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,23.0,7.0,SOFT,1.0,1,False,False,,25.9,36.9,46.0,930.5,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,21.0,7.0,SOFT,1.0,1,False,False,,25.9,36.9,46.0,930.5,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,19.0,7.0,SOFT,1.0,1,False,False,,25.9,36.9,46.0,930.5,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,24.0,6.0,SOFT,1.0,1,False,False,,25.9,36.9,46.0,930.5,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,23.0,7.0,SOFT,1.0,1,False,False,,25.9,36.9,46.0,930.5,0.5,0,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,23.0,6.0,SOFT,2.0,1,True,False,64.391,25.8,36.9,46.0,930.7,0.0,128,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,26.0,8.0,SOFT,2.0,1,True,False,64.911,25.8,36.9,46.0,930.7,0.0,128,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,23.0,6.0,SOFT,2.0,1,True,False,65.09,25.8,36.9,46.0,930.7,0.0,128,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,24.0,6.0,SOFT,2.0,1,True,False,64.893,25.8,36.9,46.0,930.7,0.0,128,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,24.0,7.0,SOFT,2.0,1,True,False,64.581,25.8,36.9,46.0,930.7,0.0,128,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,22.0,7.0,SOFT,2.0,1,True,False,64.658,25.8,36.9,46.0,930.7,0.0,128,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,20.0,7.0,SOFT,2.0,1,True,False,65.17,25.8,36.9,46.0,930.7,0.0,128,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,25.0,6.0,SOFT,2.0,1,True,False,64.439,25.8,36.9,46.0,930.7,0.0,128,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,24.0,7.0,SOFT,2.0,1,True,False,64.819,25.8,37.3,46.0,930.7,0.8,106,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+VER,1,Red Bull Racing,24.0,6.0,SOFT,3.0,1,False,False,89.003,25.8,37.3,46.0,930.7,0.8,106,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HUL,27,Haas F1 Team,24.0,6.0,SOFT,3.0,1,False,False,,25.8,37.3,46.0,930.7,0.8,106,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+ALO,14,Aston Martin,27.0,8.0,SOFT,3.0,1,False,False,,25.8,37.3,46.0,930.7,0.8,106,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+STR,18,Aston Martin,25.0,6.0,SOFT,3.0,1,False,False,,25.8,37.3,46.0,930.7,0.8,106,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+NOR,4,McLaren,23.0,7.0,SOFT,3.0,1,False,False,,25.8,37.3,46.0,930.5,1.5,89,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+SAI,55,Ferrari,25.0,7.0,SOFT,3.0,1,False,False,93.447,25.8,37.3,46.0,930.5,1.5,89,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+GAS,10,Alpine,21.0,7.0,SOFT,3.0,1,False,False,,25.8,37.3,46.0,930.5,1.5,89,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+LEC,16,Ferrari,26.0,6.0,SOFT,3.0,1,False,False,92.699,25.8,37.3,46.0,930.5,1.5,89,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True
+HAM,44,Mercedes,25.0,7.0,SOFT,3.0,1,False,False,,25.8,37.3,46.0,930.5,1.5,89,False,Austria,2023,9,Austrian Grand Prix,sprint_shootout,True

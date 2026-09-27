@@ -1,0 +1,298 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+BOT,77,Cadillac,1.0,1.0,SOFT,1.0,1,False,False,,26.8,48.9,22.8,984.4,2.0,176,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+SAI,55,Williams,1.0,1.0,SOFT,1.0,1,False,False,,26.8,48.9,22.8,984.4,2.0,176,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALB,23,Williams,1.0,1.0,SOFT,1.0,1,False,False,,26.8,48.9,22.8,984.4,2.0,176,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+STR,18,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,26.8,48.9,22.8,984.4,2.0,176,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,26.5,48.4,23.1,984.3,0.4,187,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOT,77,Cadillac,2.0,1.0,SOFT,2.0,1,True,False,93.571,26.6,49.0,23.0,984.3,1.8,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+SAI,55,Williams,2.0,1.0,SOFT,2.0,1,True,True,83.576,26.6,49.0,23.0,984.3,1.8,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALB,23,Williams,2.0,1.0,SOFT,2.0,1,True,False,81.596,26.6,49.0,23.0,984.3,1.8,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PER,11,Cadillac,1.0,1.0,SOFT,1.0,1,False,False,,26.6,49.0,23.0,984.3,1.8,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+STR,18,Aston Martin,2.0,1.0,SOFT,2.0,1,True,False,80.847,26.6,49.0,23.0,984.3,1.8,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,2.0,1.0,SOFT,2.0,1,True,False,80.665,26.6,49.0,23.0,984.3,1.8,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,1.0,1.0,MEDIUM,1.0,1,False,False,,26.6,49.0,23.0,984.3,1.8,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,1.0,1.0,MEDIUM,1.0,1,False,False,,26.6,49.0,23.0,984.3,1.8,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOT,77,Cadillac,3.0,1.0,SOFT,3.0,1,True,False,81.723,26.6,49.0,22.5,984.2,2.1,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PER,11,Cadillac,2.0,1.0,SOFT,2.0,1,True,False,81.855,26.6,49.0,22.5,984.2,2.1,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+SAI,55,Williams,3.0,1.0,SOFT,3.0,1,False,False,102.931,26.6,49.0,22.5,984.2,2.1,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALB,23,Williams,3.0,1.0,SOFT,3.0,1,False,False,104.463,26.6,49.0,22.5,984.2,2.1,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,2.0,1.0,MEDIUM,2.0,1,True,False,78.73,26.7,49.2,22.3,984.3,2.5,147,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,3.0,1.0,SOFT,3.0,1,False,False,96.384,26.7,49.2,22.3,984.3,2.5,147,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,2.0,1.0,MEDIUM,2.0,1,True,True,78.878,26.7,49.2,22.3,984.3,2.5,147,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+STR,18,Aston Martin,3.0,1.0,SOFT,3.0,1,False,False,135.262,26.7,49.2,22.3,984.3,2.5,147,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,26.7,49.2,22.3,984.3,2.5,147,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,26.7,49.2,22.3,984.3,2.5,147,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,26.7,49.2,22.3,984.3,2.5,147,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,26.8,48.1,22.2,984.3,0.9,95,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PER,11,Cadillac,3.0,1.0,SOFT,3.0,1,False,False,98.559,26.8,48.1,22.2,984.3,0.9,95,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,26.8,48.1,22.2,984.3,0.9,95,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOT,77,Cadillac,4.0,1.0,SOFT,4.0,1,False,False,136.925,26.8,48.1,22.2,984.3,0.9,95,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,26.8,48.1,22.2,984.3,0.9,95,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,3.0,1.0,MEDIUM,3.0,1,False,False,111.683,26.8,48.1,22.2,984.3,0.9,95,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,3.0,1.0,MEDIUM,3.0,1,True,False,105.032,26.8,48.1,22.2,984.3,0.9,95,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,91.25,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+SAI,55,Williams,4.0,2.0,SOFT,1.0,1,False,False,147.837,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,78.656,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALB,23,Williams,4.0,2.0,SOFT,1.0,1,False,False,147.244,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,78.754,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,102.573,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,1.0,1.0,SOFT,1.0,1,False,False,,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,26.9,48.3,22.3,984.2,2.2,130,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,2.0,1.0,SOFT,2.0,1,True,False,80.529,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,1.0,1.0,SOFT,1.0,1,False,False,,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,2.0,1.0,SOFT,2.0,1,True,False,103.751,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,4.0,1.0,MEDIUM,4.0,1,True,False,79.344,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,1.0,1.0,SOFT,1.0,1,False,False,,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,2.0,1.0,SOFT,2.0,1,True,False,80.261,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,1.0,1.0,SOFT,1.0,1,False,False,,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,3.0,1.0,SOFT,3.0,1,True,False,78.726,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+SAI,55,Williams,5.0,2.0,SOFT,2.0,1,True,False,81.302,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,2.0,1.0,SOFT,2.0,1,True,False,93.333,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALB,23,Williams,5.0,2.0,SOFT,2.0,1,True,False,80.783,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,3.0,1.0,SOFT,3.0,1,True,False,78.922,26.9,48.7,22.3,984.3,2.1,150,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,2.0,1.0,SOFT,2.0,1,True,False,79.47,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,3.0,1.0,SOFT,3.0,1,False,False,103.729,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,4.0,2.0,SOFT,1.0,1,False,False,,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,80.405,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+STR,18,Aston Martin,4.0,2.0,SOFT,1.0,1,False,False,,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,80.762,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,2.0,1.0,SOFT,2.0,1,True,True,79.476,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,3.0,1.0,SOFT,3.0,1,True,False,78.891,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,3.0,1.0,SOFT,3.0,1,False,False,135.307,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,2.0,1.0,SOFT,2.0,1,True,False,79.393,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,2.0,1.0,SOFT,2.0,1,True,False,79.174,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOT,77,Cadillac,5.0,2.0,SOFT,1.0,1,False,False,,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,3.0,1.0,SOFT,3.0,1,False,False,110.027,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PER,11,Cadillac,4.0,2.0,SOFT,1.0,1,False,False,,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,3.0,1.0,SOFT,3.0,1,True,False,78.277,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,5.0,1.0,MEDIUM,5.0,1,False,False,103.925,26.9,48.5,22.7,984.3,2.9,110,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,4.0,1.0,SOFT,4.0,1,False,False,104.282,27.0,48.7,22.7,984.3,0.8,135,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+SAI,55,Williams,6.0,2.0,SOFT,3.0,1,False,False,103.299,27.0,48.7,22.7,984.3,0.8,135,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALB,23,Williams,6.0,2.0,SOFT,3.0,1,False,False,99.31,27.0,48.7,22.7,984.3,0.8,135,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,5.0,2.0,SOFT,2.0,1,True,False,80.245,27.0,48.7,22.7,984.3,0.8,135,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+STR,18,Aston Martin,5.0,2.0,SOFT,2.0,1,True,False,80.659,27.0,48.7,22.7,984.3,0.8,135,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,3.0,1.0,SOFT,3.0,1,False,False,143.229,27.0,48.7,22.7,984.3,0.8,135,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,4.0,1.0,SOFT,4.0,1,False,False,114.766,27.0,48.7,22.7,984.3,0.8,135,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,3.0,1.0,SOFT,3.0,1,False,False,105.429,27.0,48.7,22.7,984.3,0.8,135,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,103.747,27.0,48.7,22.7,984.3,0.8,135,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,3.0,1.0,SOFT,3.0,1,False,False,97.207,27.1,48.3,22.6,984.3,1.2,121,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOT,77,Cadillac,6.0,2.0,SOFT,2.0,1,True,False,81.304,27.1,48.3,22.6,984.3,1.2,121,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,4.0,1.0,SOFT,4.0,1,False,False,104.488,27.1,48.3,22.6,984.3,1.2,121,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PER,11,Cadillac,5.0,2.0,SOFT,2.0,1,True,False,81.667,27.1,48.3,22.6,984.3,1.2,121,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,3.0,1.0,SOFT,3.0,1,False,False,105.235,27.1,48.3,22.6,984.3,1.2,121,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,3.0,1.0,SOFT,3.0,1,False,False,104.68,27.1,48.3,22.6,984.3,1.2,121,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,131.46,27.1,48.3,22.6,984.3,1.2,121,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,4.0,1.0,SOFT,4.0,1,False,False,104.866,27.1,48.3,22.6,984.3,1.2,121,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+STR,18,Aston Martin,6.0,2.0,SOFT,3.0,1,False,False,96.401,27.2,48.2,22.4,984.3,1.6,122,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,6.0,2.0,SOFT,3.0,1,False,False,129.941,27.2,48.2,22.4,984.3,1.6,122,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOT,77,Cadillac,7.0,2.0,SOFT,3.0,1,False,False,95.903,27.2,48.2,22.4,984.3,1.6,122,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PER,11,Cadillac,6.0,2.0,SOFT,3.0,1,False,False,97.387,27.2,48.2,22.4,984.3,1.6,122,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,4.0,2.0,SOFT,4.0,1,False,False,,27.1,48.0,22.7,984.2,3.0,132,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,5.0,2.0,SOFT,5.0,1,False,False,,27.1,48.0,22.7,984.2,3.0,132,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,5.0,2.0,SOFT,5.0,1,False,False,,27.1,48.0,22.7,984.2,3.0,132,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+SAI,55,Williams,7.0,3.0,SOFT,1.0,1,False,False,,27.1,48.0,22.7,984.2,3.0,132,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALB,23,Williams,7.0,3.0,SOFT,1.0,1,False,False,,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,6.0,2.0,MEDIUM,6.0,1,False,False,,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,4.0,2.0,SOFT,1.0,1,False,False,,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,4.0,2.0,SOFT,4.0,1,False,False,,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,5.0,2.0,SOFT,5.0,1,True,False,78.682,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,4.0,2.0,SOFT,4.0,1,False,False,,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,4.0,2.0,SOFT,1.0,1,False,False,,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,6.0,2.0,SOFT,6.0,1,True,True,78.554,27.1,47.6,23.0,984.2,1.9,144,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+STR,18,Aston Martin,7.0,3.0,SOFT,1.0,1,False,False,,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOT,77,Cadillac,8.0,3.0,SOFT,1.0,1,False,False,,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,6.0,2.0,SOFT,6.0,1,True,False,78.856,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PER,11,Cadillac,7.0,3.0,SOFT,1.0,1,False,False,,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,7.0,3.0,SOFT,1.0,1,False,False,,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+SAI,55,Williams,8.0,3.0,SOFT,2.0,1,True,False,80.621,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALB,23,Williams,8.0,3.0,SOFT,2.0,1,True,False,80.658,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,7.0,2.0,MEDIUM,7.0,1,True,False,78.984,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,5.0,2.0,SOFT,2.0,1,True,False,79.069,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,80.01,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,80.233,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,4.0,2.0,SOFT,1.0,1,False,False,,27.0,47.2,23.0,984.3,1.4,106,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,5.0,2.0,SOFT,5.0,1,True,False,79.233,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,4.0,2.0,SOFT,1.0,1,False,False,,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,5.0,2.0,SOFT,5.0,1,True,False,79.161,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,5.0,2.0,SOFT,2.0,1,True,False,78.796,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,6.0,2.0,SOFT,6.0,1,False,False,98.499,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOT,77,Cadillac,9.0,3.0,SOFT,2.0,1,True,False,80.886,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PER,11,Cadillac,8.0,3.0,SOFT,2.0,1,True,False,81.322,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+STR,18,Aston Martin,8.0,3.0,SOFT,2.0,1,False,False,89.909,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,8.0,3.0,SOFT,2.0,1,True,False,80.126,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,7.0,2.0,SOFT,7.0,1,False,False,107.073,27.0,48.0,23.4,984.1,1.2,164,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+SAI,55,Williams,9.0,3.0,SOFT,3.0,1,False,False,104.0,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,8.0,2.0,MEDIUM,8.0,1,False,False,97.736,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALB,23,Williams,9.0,3.0,SOFT,3.0,1,False,False,106.817,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,5.0,2.0,SOFT,2.0,1,True,False,79.741,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,7.0,2.0,SOFT,7.0,1,False,False,138.409,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,6.0,2.0,SOFT,3.0,1,False,False,106.792,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,5.0,2.0,SOFT,2.0,1,True,False,79.771,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,108.372,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,107.765,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,6.0,2.0,SOFT,6.0,1,False,False,101.586,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,6.0,2.0,SOFT,6.0,1,False,False,105.973,27.0,47.7,22.5,984.3,1.4,169,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,6.0,2.0,SOFT,3.0,1,False,False,107.259,27.0,47.6,22.5,984.2,1.6,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOT,77,Cadillac,10.0,3.0,SOFT,3.0,1,False,False,106.663,27.0,47.6,22.5,984.2,1.6,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,9.0,3.0,SOFT,3.0,1,False,False,103.496,27.0,47.6,22.5,984.2,1.6,141,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PER,11,Cadillac,9.0,3.0,SOFT,3.0,1,False,False,150.319,26.9,47.5,22.6,984.2,1.7,142,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,6.0,2.0,SOFT,3.0,1,False,False,109.363,26.9,47.5,22.6,984.2,1.7,142,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,6.0,2.0,SOFT,3.0,1,False,False,108.108,26.9,47.5,22.6,984.2,1.7,142,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,10.0,4.0,SOFT,4.0,1,False,False,,26.8,45.8,23.6,984.2,2.0,122,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,11.0,4.0,SOFT,5.0,1,True,False,80.696,26.8,46.3,23.5,984.1,4.2,142,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,7.0,3.0,SOFT,1.0,1,False,False,,26.8,46.3,23.5,984.1,4.2,142,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,8.0,3.0,SOFT,1.0,1,False,False,,26.8,46.3,23.5,984.1,4.2,142,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,8.0,3.0,SOFT,1.0,1,False,False,,26.8,46.3,23.5,984.1,4.2,142,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,7.0,3.0,SOFT,1.0,1,False,False,,26.8,46.3,23.5,984.1,4.2,142,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,4.0,2.0,SOFT,1.0,1,False,False,,26.8,46.3,23.5,984.1,4.2,142,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,7.0,3.0,SOFT,1.0,1,False,False,,26.9,46.5,23.3,984.1,2.5,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,9.0,3.0,SOFT,1.0,1,False,False,,26.9,46.5,23.3,984.1,2.5,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,5.0,2.0,SOFT,5.0,1,False,False,,26.9,46.5,23.3,984.1,2.5,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,7.0,3.0,SOFT,1.0,1,False,False,,26.9,46.5,23.3,984.1,2.5,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,78.249,26.9,46.5,23.3,984.1,2.5,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,7.0,3.0,SOFT,1.0,1,False,False,,26.9,46.5,23.3,984.1,2.5,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,12.0,4.0,SOFT,6.0,1,False,False,93.007,26.9,46.5,23.3,984.1,2.5,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,5.0,2.0,SOFT,5.0,1,False,False,,26.9,46.5,23.3,984.1,2.5,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,7.0,3.0,SOFT,4.0,1,False,False,,26.9,46.5,23.3,984.1,2.5,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,7.0,3.0,SOFT,4.0,1,False,False,,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,9.0,3.0,SOFT,2.0,12,True,False,91.865,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,8.0,3.0,SOFT,2.0,12,True,False,80.225,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,7.0,3.0,SOFT,4.0,12,False,False,,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,9.0,3.0,SOFT,2.0,12,True,True,102.565,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,10.0,3.0,SOFT,2.0,12,True,False,78.936,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,4.0,2.0,SOFT,1.0,12,False,False,,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,6.0,2.0,SOFT,6.0,12,True,False,78.566,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,5.0,2.0,SOFT,2.0,12,False,False,104.675,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,8.0,3.0,SOFT,2.0,12,True,False,79.413,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,8.0,3.0,SOFT,2.0,12,True,False,78.825,26.9,47.4,23.1,984.1,2.6,140,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,6.0,2.0,SOFT,6.0,12,True,False,78.941,27.0,47.2,23.0,984.1,3.1,157,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,8.0,3.0,SOFT,2.0,12,False,False,120.609,27.0,47.2,23.0,984.1,3.1,157,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,8.0,3.0,SOFT,5.0,12,True,False,80.315,27.0,47.2,23.0,984.1,3.1,157,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,8.0,3.0,SOFT,5.0,12,True,False,80.252,27.0,47.2,23.0,984.1,3.1,157,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,10.0,3.0,SOFT,3.0,21,True,True,78.178,27.0,47.2,23.0,984.1,3.1,157,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,9.0,3.0,SOFT,3.0,12,False,False,107.956,27.0,47.2,23.0,984.1,3.1,157,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,8.0,3.0,SOFT,5.0,21,True,False,80.266,27.0,47.2,23.0,984.1,3.1,157,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,10.0,3.0,SOFT,3.0,1,True,False,78.645,27.0,47.2,23.0,984.1,3.1,157,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,5.0,2.0,SOFT,2.0,1,True,False,77.931,27.0,47.2,23.0,984.1,3.1,157,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,11.0,3.0,SOFT,3.0,1,False,False,101.163,27.0,47.4,23.0,984.2,2.8,153,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,7.0,2.0,SOFT,7.0,1,False,False,99.176,27.0,47.4,23.0,984.2,2.8,153,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,9.0,3.0,SOFT,3.0,21,False,False,130.795,27.0,47.4,23.0,984.2,2.8,153,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,9.0,3.0,SOFT,3.0,1,False,False,97.16,27.0,47.4,23.0,984.2,2.8,153,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,9.0,3.0,SOFT,3.0,1,False,False,99.483,27.0,47.4,23.0,984.2,2.8,153,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,7.0,2.0,SOFT,7.0,1,False,False,99.446,27.0,47.4,23.0,984.2,2.8,153,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,9.0,3.0,SOFT,6.0,1,False,False,99.01,27.0,47.4,23.0,984.2,2.8,153,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,9.0,3.0,SOFT,6.0,1,False,False,106.441,26.8,47.4,23.1,984.1,2.3,137,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,11.0,3.0,SOFT,4.0,1,False,False,105.656,26.8,47.4,23.1,984.1,2.3,137,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,9.0,3.0,SOFT,6.0,1,False,False,110.801,26.8,47.4,23.1,984.1,2.3,137,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,6.0,2.0,SOFT,3.0,1,False,False,110.805,26.8,47.4,23.1,984.1,2.3,137,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,13.0,5.0,SOFT,1.0,12,False,False,,26.9,46.8,22.6,984.1,1.4,162,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,11.0,3.0,SOFT,4.0,1,False,False,144.637,26.9,46.8,22.6,984.1,1.4,162,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,14.0,5.0,SOFT,2.0,1,True,False,79.808,26.8,47.2,23.6,984.2,1.2,168,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,6.0,3.0,SOFT,1.0,1,False,False,,26.8,47.2,23.6,984.2,1.2,168,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,10.0,4.0,SOFT,4.0,1,False,False,,26.9,47.2,24.0,984.1,1.8,134,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,7.0,3.0,SOFT,2.0,1,True,False,77.872,26.9,47.2,24.0,984.1,1.8,134,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,12.0,4.0,SOFT,5.0,1,False,False,,26.9,47.6,23.9,984.2,1.3,118,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ALO,14,Aston Martin,15.0,5.0,SOFT,3.0,1,False,False,108.801,26.9,47.6,23.9,984.2,1.3,118,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,8.0,3.0,SOFT,1.0,1,False,False,,26.9,47.6,23.9,984.2,1.3,118,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,9.0,4.0,SOFT,1.0,1,False,False,,26.9,47.6,23.9,984.2,1.3,118,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,10.0,4.0,SOFT,1.0,1,False,False,,26.9,47.6,23.9,984.2,1.3,118,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,10.0,4.0,SOFT,1.0,1,False,False,,26.9,47.6,23.9,984.2,1.3,118,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,8.0,3.0,SOFT,1.0,1,False,False,,26.9,47.6,23.9,984.2,1.3,118,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,12.0,4.0,SOFT,5.0,1,False,False,,26.9,47.6,23.9,984.2,1.3,118,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,10.0,4.0,SOFT,1.0,1,False,False,,26.9,47.6,23.9,984.2,1.3,118,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,10.0,4.0,SOFT,1.0,1,False,False,,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,11.0,4.0,SOFT,5.0,1,True,False,78.429,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,10.0,4.0,SOFT,1.0,1,False,False,,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,10.0,4.0,SOFT,1.0,1,False,False,,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,13.0,4.0,SOFT,6.0,1,True,False,78.445,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,12.0,4.0,SOFT,1.0,1,False,False,,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,9.0,3.0,SOFT,2.0,1,True,False,77.928,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,7.0,3.0,SOFT,4.0,1,False,False,,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,10.0,4.0,SOFT,2.0,1,True,False,79.105,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,11.0,4.0,SOFT,2.0,1,True,False,78.639,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,11.0,4.0,SOFT,2.0,1,True,False,78.765,26.8,46.5,23.9,984.2,2.0,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,9.0,3.0,SOFT,2.0,1,True,False,77.456,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,13.0,4.0,SOFT,6.0,1,True,False,78.393,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,8.0,3.0,SOFT,3.0,1,False,False,134.007,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,11.0,4.0,SOFT,2.0,1,True,False,78.36,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,11.0,4.0,SOFT,2.0,1,True,False,79.734,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,11.0,4.0,SOFT,2.0,1,True,False,78.844,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,11.0,4.0,SOFT,2.0,1,True,False,79.027,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,12.0,4.0,SOFT,6.0,1,False,False,98.883,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,13.0,4.0,SOFT,2.0,1,True,False,77.626,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,8.0,3.0,SOFT,5.0,1,True,False,77.803,26.8,45.6,23.3,984.1,1.9,161,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,14.0,4.0,SOFT,7.0,1,False,False,104.975,26.8,44.1,23.3,984.1,2.1,82,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,10.0,3.0,SOFT,3.0,1,False,False,104.19,26.8,44.1,23.3,984.1,2.1,82,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+BOR,5,Audi,11.0,4.0,SOFT,3.0,1,False,False,103.837,26.8,44.1,23.3,984.1,2.1,82,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,12.0,4.0,SOFT,3.0,1,False,False,105.822,26.8,44.1,23.3,984.1,2.1,82,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LAW,30,Racing Bulls,12.0,4.0,SOFT,3.0,1,False,False,104.255,26.8,44.1,23.3,984.1,2.1,82,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,10.0,3.0,SOFT,3.0,1,False,False,104.165,26.8,44.1,23.3,984.1,2.1,82,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,14.0,4.0,SOFT,7.0,1,False,False,98.789,26.8,44.1,23.3,984.1,2.1,82,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,12.0,4.0,SOFT,3.0,1,False,False,101.739,26.8,44.1,23.3,984.1,2.1,82,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,12.0,4.0,SOFT,3.0,1,False,False,102.665,26.8,45.4,23.7,984.1,2.2,183,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+GAS,10,Alpine,12.0,4.0,SOFT,3.0,1,False,False,,26.8,45.4,23.7,984.1,2.2,183,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+COL,43,Alpine,12.0,4.0,SOFT,3.0,1,False,False,106.498,26.8,45.4,23.7,984.1,2.2,183,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,14.0,4.0,SOFT,3.0,12,False,False,103.0,26.8,45.4,23.7,984.1,2.2,183,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,9.0,3.0,SOFT,6.0,12,False,False,95.689,26.8,45.4,23.7,984.1,2.2,183,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,13.0,5.0,SOFT,1.0,12,False,False,,26.6,43.3,23.7,984.1,1.0,131,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,11.0,4.0,SOFT,1.0,12,False,False,,26.6,43.3,23.7,984.1,1.0,131,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,11.0,4.0,SOFT,1.0,12,False,False,,26.6,43.4,23.4,984.0,1.6,117,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,9.0,4.0,SOFT,4.0,12,False,False,,26.6,43.4,23.4,984.0,1.6,117,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,13.0,5.0,SOFT,1.0,12,False,False,,26.6,43.4,23.4,984.0,1.6,117,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,13.0,5.0,SOFT,4.0,12,False,False,,26.6,43.4,23.4,984.0,1.6,117,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,10.0,4.0,SOFT,1.0,21,False,False,,26.6,43.4,23.4,984.0,1.6,117,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,15.0,5.0,SOFT,1.0,21,False,False,,26.6,43.4,23.4,984.0,1.6,117,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,15.0,5.0,SOFT,1.0,12,False,False,,26.6,43.4,23.4,984.0,1.6,117,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,14.0,5.0,SOFT,2.0,1,True,False,77.725,26.6,43.4,23.4,984.0,1.6,117,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,15.0,5.0,SOFT,1.0,12,False,False,,26.6,42.1,23.8,984.1,2.3,96,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,12.0,4.0,SOFT,2.0,1,True,False,77.684,26.6,42.1,23.8,984.1,2.3,96,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,12.0,4.0,SOFT,2.0,1,True,False,77.32,26.6,42.1,23.8,984.1,2.3,96,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,10.0,4.0,SOFT,5.0,1,True,False,77.856,26.6,42.1,23.8,984.1,2.3,96,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,14.0,5.0,SOFT,2.0,1,True,False,78.281,26.6,42.1,23.8,984.1,2.3,96,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,14.0,5.0,SOFT,5.0,1,True,False,78.707,26.6,42.1,23.8,984.1,2.3,96,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,11.0,4.0,SOFT,2.0,1,True,False,77.219,26.6,42.1,23.8,984.1,2.3,96,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,16.0,5.0,SOFT,2.0,1,True,False,77.445,26.6,42.4,23.8,984.2,1.9,119,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,16.0,5.0,SOFT,2.0,1,True,False,77.579,26.6,42.4,23.8,984.2,1.9,119,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,16.0,5.0,SOFT,2.0,1,True,False,77.76,26.6,42.4,23.8,984.2,1.9,119,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,15.0,5.0,SOFT,3.0,1,False,False,93.986,26.6,42.4,23.8,984.2,1.9,119,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,13.0,4.0,SOFT,3.0,1,False,False,100.026,26.6,42.4,23.8,984.2,1.9,119,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,13.0,4.0,SOFT,3.0,1,False,False,99.204,26.6,42.4,23.8,984.2,1.9,119,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,11.0,4.0,SOFT,6.0,1,False,False,94.525,26.7,42.9,23.6,984.1,2.4,115,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,15.0,5.0,SOFT,3.0,1,False,False,95.469,26.7,42.9,23.6,984.1,2.4,115,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,15.0,5.0,SOFT,6.0,1,False,False,96.169,26.7,42.9,23.6,984.1,2.4,115,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,12.0,4.0,SOFT,3.0,1,False,False,91.9,26.7,42.9,23.6,984.1,2.4,115,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,17.0,5.0,SOFT,3.0,1,False,False,100.742,26.7,42.9,23.6,984.1,2.4,115,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,17.0,5.0,SOFT,3.0,1,False,False,96.841,26.7,42.9,23.6,984.1,2.4,115,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,17.0,5.0,SOFT,3.0,1,False,False,95.215,26.7,42.9,23.6,984.1,2.4,115,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,13.0,5.0,SOFT,1.0,1,False,False,,26.5,42.2,23.9,984.1,0.7,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,18.0,6.0,SOFT,1.0,1,False,False,,26.5,42.2,23.9,984.1,0.7,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,16.0,6.0,SOFT,1.0,1,False,False,,26.5,42.2,23.9,984.1,0.7,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,18.0,6.0,SOFT,1.0,1,False,False,,26.5,42.2,23.9,984.1,0.7,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,18.0,6.0,SOFT,1.0,1,False,False,,26.5,42.2,23.9,984.1,0.7,109,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,16.0,6.0,SOFT,1.0,1,False,False,,26.4,42.4,24.0,984.0,0.4,1,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,12.0,5.0,SOFT,1.0,1,False,False,,26.4,42.4,24.0,984.0,0.4,1,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,14.0,5.0,SOFT,1.0,1,False,False,,26.4,42.4,24.0,984.0,0.4,1,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,16.0,6.0,SOFT,1.0,1,False,False,,26.4,42.4,24.0,984.0,0.4,1,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,14.0,5.0,SOFT,2.0,1,True,False,78.906,26.4,42.4,24.0,984.0,0.4,1,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,14.0,5.0,SOFT,1.0,1,False,False,,26.4,42.4,24.0,984.0,0.4,1,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,19.0,6.0,SOFT,2.0,1,True,False,77.753,26.4,42.4,24.0,984.0,0.4,1,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,19.0,6.0,SOFT,2.0,12,True,False,77.479,26.4,42.4,24.0,984.0,0.4,1,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,17.0,6.0,SOFT,2.0,12,True,False,92.68,26.5,42.0,23.4,984.1,0.0,0,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+RUS,63,Mercedes,19.0,6.0,SOFT,2.0,12,True,False,79.586,26.5,42.0,23.4,984.1,0.0,0,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,17.0,6.0,SOFT,2.0,12,True,False,78.388,26.5,42.0,23.4,984.1,0.0,0,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,13.0,5.0,SOFT,2.0,12,True,False,78.384,26.5,42.0,23.4,984.1,0.0,0,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,15.0,5.0,SOFT,2.0,12,True,False,77.207,26.5,42.0,23.4,984.1,0.0,0,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HUL,27,Audi,17.0,6.0,SOFT,2.0,12,True,False,78.686,26.5,42.0,23.4,984.1,0.0,0,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+PIA,81,McLaren,15.0,5.0,SOFT,2.0,12,False,False,,26.6,42.6,23.2,984.1,1.2,271,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAM,44,Ferrari,15.0,5.0,SOFT,3.0,12,False,False,,26.6,42.6,23.2,984.1,1.2,271,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,20.0,6.0,SOFT,3.0,12,False,False,,26.6,42.6,23.2,984.1,1.2,271,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+ANT,12,Mercedes,20.0,6.0,SOFT,3.0,21,False,False,,26.6,42.6,23.2,984.1,1.2,271,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+VER,3,Red Bull Racing,18.0,6.0,SOFT,3.0,12,False,False,,26.6,42.6,23.2,984.1,1.2,271,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+LIN,41,Racing Bulls,18.0,6.0,SOFT,3.0,12,False,False,,26.5,42.0,23.3,984.1,0.4,134,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,14.0,5.0,SOFT,3.0,2,False,False,,26.5,42.0,23.3,984.1,0.4,134,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False
+NOR,1,McLaren,16.0,5.0,SOFT,3.0,2,False,False,,26.5,42.0,23.3,984.1,0.4,134,False,Hungary,2026,11,Hungarian Grand Prix,conventional,False

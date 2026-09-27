@@ -1,0 +1,310 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+BOT,77,Cadillac,1.0,1.0,SOFT,1.0,1,False,False,,25.1,39.1,49.0,1007.8,2.8,264,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PER,11,Cadillac,1.0,1.0,SOFT,1.0,1,False,False,,25.1,39.1,49.0,1007.8,2.8,264,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,1.0,1.0,SOFT,7.0,1,False,False,,25.1,39.1,49.0,1007.8,2.8,264,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,25.1,39.1,49.0,1007.8,2.8,264,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,25.1,39.1,49.0,1007.8,2.8,264,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,25.0,39.2,49.6,1007.8,2.8,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,1.0,1.0,MEDIUM,9.0,1,False,False,,25.0,39.2,49.6,1007.8,2.8,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,25.0,39.2,49.6,1007.8,2.8,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,1.0,1.0,SOFT,4.0,1,False,False,,25.0,39.2,49.6,1007.8,2.8,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,1.0,1.0,SOFT,4.0,1,False,False,,25.0,39.2,49.6,1007.8,2.8,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,1.0,1.0,MEDIUM,7.0,1,False,False,,25.0,39.2,49.6,1007.8,2.8,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,1.0,1.0,SOFT,1.0,1,False,False,,25.0,39.2,49.6,1007.8,2.8,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,1.0,1.0,SOFT,4.0,1,False,False,,25.0,39.2,49.6,1007.8,2.8,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PER,11,Cadillac,2.0,1.0,SOFT,2.0,1,True,False,92.199,25.1,39.7,49.3,1007.6,0.5,219,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOT,77,Cadillac,2.0,1.0,SOFT,2.0,1,False,False,107.013,25.1,39.7,49.3,1007.6,0.5,219,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,2.0,1.0,SOFT,8.0,1,True,True,93.46,25.1,39.7,49.3,1007.6,0.5,219,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,1.0,1.0,SOFT,4.0,1,False,False,,25.1,39.7,49.3,1007.6,0.5,219,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,91.648,25.1,39.7,49.3,1007.6,0.5,219,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,91.315,25.1,39.7,49.3,1007.6,0.5,219,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,2.0,1.0,SOFT,2.0,1,True,False,93.835,25.1,39.7,49.3,1007.6,0.5,219,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,2.0,1.0,SOFT,5.0,1,False,False,92.375,25.1,39.7,49.3,1007.6,0.5,219,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,2.0,1.0,SOFT,2.0,1,False,False,101.031,25.1,39.7,49.3,1007.6,0.5,219,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,2.0,1.0,SOFT,5.0,1,True,False,92.836,25.1,40.9,49.5,1007.7,2.1,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,2.0,1.0,MEDIUM,8.0,1,True,False,91.508,25.1,40.9,49.5,1007.7,2.1,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,2.0,1.0,SOFT,2.0,1,False,False,92.94,25.1,40.9,49.5,1007.7,2.1,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,2.0,1.0,SOFT,5.0,1,True,False,89.534,25.1,40.9,49.5,1007.7,2.1,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,2.0,1.0,SOFT,5.0,1,True,False,89.644,25.1,40.9,49.5,1007.7,2.1,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PER,11,Cadillac,3.0,1.0,SOFT,3.0,1,False,False,102.511,25.1,40.9,49.5,1007.7,2.1,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,3.0,1.0,SOFT,9.0,1,False,False,102.159,25.1,40.9,49.5,1007.7,2.1,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,1.0,1.0,SOFT,4.0,1,False,False,,25.1,40.9,49.5,1007.7,2.1,265,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,105.844,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,102.933,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,1.0,1.0,SOFT,4.0,1,False,False,,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,1.0,1.0,SOFT,4.0,1,False,False,,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,3.0,1.0,SOFT,3.0,1,False,False,109.114,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+COL,43,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,1.0,1.0,SOFT,4.0,1,False,False,,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,3.0,1.0,SOFT,6.0,1,False,False,97.999,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,3.0,1.0,MEDIUM,9.0,1,False,False,100.558,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,25.1,39.9,49.8,1007.7,2.3,200,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,1.0,1.0,SOFT,4.0,1,False,False,,25.1,39.2,49.4,1007.6,1.6,231,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,1.0,1.0,SOFT,4.0,1,False,False,,25.1,39.2,49.4,1007.6,1.6,231,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,2.0,1.0,SOFT,5.0,1,True,False,90.186,25.1,39.2,49.4,1007.6,1.6,231,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,3.0,1.0,SOFT,6.0,1,True,False,122.816,25.1,39.2,49.4,1007.6,1.6,231,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,2.0,1.0,SOFT,5.0,1,True,False,90.219,25.1,39.2,49.4,1007.6,1.6,231,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,3.0,2.0,SOFT,1.0,1,False,False,,25.1,39.2,49.4,1007.6,1.6,231,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,3.0,1.0,SOFT,6.0,1,True,False,124.566,25.1,39.2,49.4,1007.6,1.6,231,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,2.0,1.0,SOFT,5.0,12,True,False,90.427,25.1,39.2,49.4,1007.6,1.6,231,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+COL,43,Alpine,2.0,1.0,SOFT,2.0,12,True,False,91.321,25.0,38.5,49.8,1007.7,2.6,285,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,2.0,1.0,SOFT,5.0,12,True,False,90.558,25.0,38.5,49.8,1007.7,2.6,285,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,2.0,1.0,SOFT,2.0,12,True,False,91.086,25.0,38.5,49.8,1007.7,2.6,285,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,2.0,1.0,SOFT,5.0,12,True,False,89.719,25.0,38.5,49.8,1007.7,2.6,285,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,4.0,2.0,SOFT,1.0,12,False,False,143.976,25.0,38.5,49.8,1007.7,2.6,285,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOT,77,Cadillac,3.0,2.0,SOFT,1.0,12,False,False,,25.0,38.5,49.8,1007.7,2.6,285,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,3.0,2.0,SOFT,1.0,12,False,False,,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,4.0,2.0,SOFT,1.0,12,False,False,,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,3.0,2.0,SOFT,1.0,12,False,False,,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,3.0,1.0,SOFT,6.0,12,False,False,113.948,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,4.0,1.0,SOFT,7.0,12,True,False,114.377,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,4.0,2.0,SOFT,1.0,12,False,False,,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,3.0,1.0,SOFT,6.0,12,False,False,116.515,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,4.0,2.0,SOFT,1.0,12,False,False,,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,4.0,2.0,SOFT,1.0,12,False,False,,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,3.0,1.0,SOFT,6.0,21,False,False,114.548,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,4.0,2.0,SOFT,2.0,12,True,False,123.715,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PER,11,Cadillac,4.0,2.0,SOFT,1.0,12,False,False,,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,2.0,1.0,SOFT,5.0,12,False,False,,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,4.0,1.0,SOFT,7.0,12,True,False,126.03,25.0,38.4,49.6,1007.7,3.1,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,3.0,1.0,SOFT,6.0,21,False,False,109.95,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+COL,43,Alpine,3.0,1.0,SOFT,3.0,21,False,False,120.683,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,5.0,2.0,SOFT,2.0,1,True,False,93.577,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOT,77,Cadillac,4.0,2.0,SOFT,2.0,1,True,False,92.105,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,3.0,1.0,SOFT,3.0,21,False,False,114.014,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,3.0,1.0,SOFT,6.0,1,False,False,114.232,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,4.0,2.0,SOFT,2.0,1,True,False,90.666,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,90.758,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,4.0,2.0,SOFT,2.0,1,True,False,89.892,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,4.0,2.0,SOFT,1.0,12,False,False,,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,5.0,1.0,SOFT,8.0,1,True,False,89.673,25.0,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,5.0,2.0,SOFT,2.0,1,True,False,90.079,25.2,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,90.702,25.2,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,5.0,2.0,SOFT,2.0,1,True,False,91.052,25.2,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,5.0,2.0,SOFT,3.0,1,True,False,93.025,25.2,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PER,11,Cadillac,5.0,2.0,SOFT,2.0,1,True,False,91.94,25.2,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,5.0,1.0,SOFT,8.0,1,False,False,93.18,25.2,40.1,50.0,1007.7,1.6,145,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOT,77,Cadillac,5.0,2.0,SOFT,3.0,1,False,False,107.142,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,6.0,2.0,SOFT,3.0,1,False,False,113.43,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,5.0,2.0,SOFT,3.0,1,False,False,102.941,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,5.0,2.0,SOFT,2.0,1,True,False,90.0,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,103.916,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,6.0,1.0,SOFT,9.0,1,False,False,103.602,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,5.0,2.0,SOFT,3.0,1,False,False,114.215,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,103.96,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,6.0,2.0,SOFT,3.0,1,False,False,109.862,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,6.0,2.0,SOFT,3.0,1,False,False,105.034,25.2,41.2,49.1,1007.7,2.8,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,6.0,2.0,SOFT,4.0,1,False,False,104.387,25.2,41.6,48.8,1007.7,0.7,53,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PER,11,Cadillac,6.0,2.0,SOFT,3.0,1,False,False,104.655,25.2,41.6,48.8,1007.7,0.7,53,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,3.0,2.0,SOFT,1.0,1,False,False,,25.2,42.1,49.0,1007.6,1.7,358,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,6.0,2.0,SOFT,3.0,1,False,False,99.305,25.2,42.1,49.0,1007.6,1.7,358,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,4.0,2.0,SOFT,1.0,1,False,False,,25.2,42.1,49.0,1007.6,1.7,358,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,4.0,2.0,SOFT,8.0,1,False,False,,25.2,42.1,49.0,1007.6,1.7,358,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,4.0,2.0,SOFT,1.0,1,False,False,,25.2,42.3,48.0,1007.7,2.5,123,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,4.0,2.0,SOFT,1.0,1,False,False,,25.2,42.3,48.0,1007.7,2.5,123,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,4.0,2.0,SOFT,2.0,1,True,False,89.985,25.2,42.3,48.0,1007.7,2.5,123,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,5.0,2.0,SOFT,2.0,1,True,False,89.971,25.2,42.3,48.0,1007.7,2.5,123,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,4.0,2.0,SOFT,1.0,1,False,False,,25.3,42.6,48.0,1007.7,0.8,165,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+COL,43,Alpine,4.0,2.0,SOFT,1.0,1,False,False,,25.3,42.6,48.0,1007.7,0.8,165,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,5.0,2.0,SOFT,9.0,1,True,False,90.261,25.3,42.6,48.0,1007.7,0.8,165,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,25.3,42.6,48.0,1007.7,0.8,165,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,25.3,42.6,48.0,1007.7,0.8,165,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOT,77,Cadillac,6.0,3.0,SOFT,1.0,1,False,False,,25.3,42.6,48.0,1007.7,0.8,165,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,5.0,2.0,SOFT,2.0,1,True,False,89.549,25.3,42.6,48.0,1007.7,0.8,165,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,5.0,2.0,SOFT,2.0,1,True,False,89.276,25.3,42.6,48.0,1007.7,0.8,165,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,7.0,3.0,SOFT,1.0,1,False,False,,25.3,42.6,48.0,1007.7,0.8,165,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,4.0,2.0,SOFT,1.0,1,False,False,,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,6.0,3.0,SOFT,1.0,1,False,False,,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,7.0,3.0,SOFT,1.0,1,False,False,,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,6.0,3.0,SOFT,1.0,12,False,False,,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,5.0,2.0,SOFT,3.0,12,False,False,120.421,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,7.0,3.0,SOFT,1.0,12,False,False,,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,6.0,2.0,SOFT,3.0,12,False,False,115.484,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,7.0,3.0,SOFT,1.0,12,False,False,,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,5.0,2.0,SOFT,2.0,12,True,False,90.345,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,7.0,3.0,SOFT,1.0,12,False,False,,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,2.0,2.0,SOFT,1.0,12,False,False,,25.3,41.0,48.1,1007.6,2.9,238,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,8.0,3.0,SOFT,2.0,12,True,False,90.68,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PER,11,Cadillac,7.0,3.0,SOFT,1.0,12,False,False,,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,8.0,3.0,SOFT,2.0,12,True,False,90.57,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOT,77,Cadillac,7.0,3.0,SOFT,2.0,12,True,False,91.227,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,6.0,2.0,SOFT,10.0,12,False,False,109.689,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,8.0,3.0,SOFT,2.0,12,True,False,92.863,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+COL,43,Alpine,5.0,2.0,SOFT,2.0,12,False,False,131.992,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,6.0,2.0,SOFT,3.0,12,False,False,114.696,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,7.0,3.0,SOFT,2.0,12,True,False,90.638,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,8.0,3.0,SOFT,2.0,12,True,False,90.562,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,5.0,2.0,SOFT,2.0,12,False,False,106.246,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,7.0,3.0,SOFT,2.0,21,True,False,89.661,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,6.0,2.0,SOFT,3.0,12,False,False,128.895,25.2,40.7,47.2,1007.7,2.8,234,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,8.0,3.0,SOFT,2.0,21,True,False,89.3,25.2,40.2,47.9,1007.6,2.7,221,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,8.0,3.0,SOFT,2.0,1,True,False,89.539,25.2,40.2,47.9,1007.6,2.7,221,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,8.0,3.0,SOFT,2.0,1,True,True,92.888,25.2,40.2,47.9,1007.6,2.7,221,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,3.0,2.0,SOFT,2.0,1,True,False,90.269,25.2,40.2,47.9,1007.6,2.7,221,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PER,11,Cadillac,8.0,3.0,SOFT,2.0,1,True,False,91.451,25.2,40.2,47.9,1007.6,2.7,221,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,6.0,2.0,SOFT,3.0,1,False,False,117.566,25.2,40.2,47.9,1007.6,2.7,221,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+OCO,31,Haas F1 Team,9.0,3.0,SOFT,3.0,1,False,False,120.773,25.2,40.0,48.3,1007.6,2.4,226,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,9.0,3.0,SOFT,3.0,1,False,False,117.27,25.2,40.0,48.3,1007.6,2.4,226,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOT,77,Cadillac,8.0,3.0,SOFT,3.0,1,False,False,119.267,25.2,40.0,48.3,1007.6,2.4,226,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+STR,18,Aston Martin,9.0,3.0,SOFT,3.0,1,False,False,118.49,25.2,40.0,48.3,1007.6,2.4,226,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,8.0,3.0,SOFT,3.0,1,False,False,115.541,25.2,40.0,48.3,1007.6,2.4,226,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,9.0,3.0,SOFT,3.0,1,False,False,114.856,25.2,40.0,48.3,1007.6,2.4,226,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,8.0,3.0,SOFT,3.0,1,False,False,111.658,25.2,40.0,48.3,1007.6,2.4,226,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,9.0,3.0,SOFT,3.0,1,False,False,115.639,25.1,39.6,48.8,1007.6,2.5,254,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,9.0,3.0,SOFT,3.0,1,False,False,109.398,25.1,39.6,48.8,1007.6,2.5,254,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALO,14,Aston Martin,9.0,3.0,SOFT,3.0,1,False,False,106.929,25.1,39.6,48.8,1007.6,2.5,254,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PER,11,Cadillac,9.0,3.0,SOFT,3.0,1,False,False,,25.1,39.6,48.8,1007.6,2.5,254,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,4.0,2.0,SOFT,3.0,1,False,False,116.892,25.1,39.6,48.8,1007.6,2.5,254,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,7.0,3.0,SOFT,4.0,12,False,False,,25.3,42.1,46.7,1007.5,0.3,202,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,7.0,3.0,SOFT,4.0,12,False,False,,25.3,42.1,46.7,1007.5,0.3,202,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,10.0,4.0,SOFT,1.0,12,False,False,,25.2,41.3,47.5,1007.6,2.5,10,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,8.0,3.0,SOFT,5.0,1,True,False,89.308,25.2,41.3,47.5,1007.6,2.5,10,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,9.0,4.0,SOFT,1.0,12,False,False,,25.2,41.3,47.5,1007.6,2.5,10,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,8.0,3.0,SOFT,5.0,1,True,False,89.183,25.2,41.3,47.5,1007.6,2.5,10,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,7.0,2.0,SOFT,1.0,12,False,False,,25.1,40.4,47.2,1007.5,1.5,284,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,6.0,2.0,SOFT,1.0,12,False,False,,25.1,40.4,47.2,1007.5,1.5,284,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,9.0,4.0,SOFT,1.0,12,False,False,,25.1,40.4,47.2,1007.5,1.5,284,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,10.0,4.0,SOFT,1.0,12,False,False,,25.1,40.4,47.2,1007.5,1.5,284,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,7.0,3.0,SOFT,4.0,12,False,False,,25.1,40.4,47.2,1007.5,1.5,284,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,10.0,4.0,SOFT,1.0,12,False,False,,25.1,40.4,47.2,1007.5,1.5,284,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,5.0,3.0,SOFT,1.0,12,False,False,,25.1,40.4,47.2,1007.5,1.5,284,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,7.0,3.0,SOFT,1.0,12,False,False,,25.1,40.4,47.2,1007.5,1.5,284,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,6.0,3.0,SOFT,1.0,21,False,False,,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,10.0,4.0,SOFT,1.0,12,False,False,,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,11.0,4.0,SOFT,2.0,1,True,False,90.825,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,6.0,3.0,SOFT,3.0,12,False,False,,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,10.0,4.0,SOFT,2.0,1,True,False,91.341,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,8.0,2.0,SOFT,2.0,1,True,False,89.069,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,7.0,3.0,SOFT,1.0,12,False,False,,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,7.0,2.0,SOFT,2.0,1,True,False,88.864,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,9.0,3.0,SOFT,6.0,1,False,False,111.804,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,10.0,4.0,SOFT,2.0,1,True,False,89.324,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,11.0,4.0,SOFT,2.0,1,True,False,89.703,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,9.0,3.0,SOFT,6.0,1,False,False,116.14,25.2,41.6,47.4,1007.6,1.0,31,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,8.0,3.0,SOFT,5.0,1,True,False,89.965,25.3,41.9,46.9,1007.6,2.1,270,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,11.0,4.0,SOFT,2.0,1,True,True,89.945,25.3,41.9,46.9,1007.6,2.1,270,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,6.0,3.0,SOFT,2.0,1,True,False,89.916,25.3,41.9,46.9,1007.6,2.1,270,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,7.0,3.0,SOFT,2.0,1,True,False,88.92,25.3,41.9,46.9,1007.6,2.1,270,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,11.0,4.0,SOFT,2.0,1,True,False,90.588,25.3,41.9,46.9,1007.6,2.1,270,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,7.0,3.0,SOFT,4.0,1,True,False,89.857,25.3,41.9,46.9,1007.6,2.1,270,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,8.0,3.0,SOFT,2.0,1,True,True,116.749,25.3,41.9,46.9,1007.6,2.1,270,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,8.0,3.0,SOFT,2.0,1,True,False,90.113,25.5,41.4,46.7,1007.6,3.5,255,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,12.0,4.0,SOFT,3.0,1,False,False,117.484,25.5,41.4,46.7,1007.6,3.5,255,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,11.0,4.0,SOFT,3.0,1,False,False,113.828,25.5,41.4,46.7,1007.6,3.5,255,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,9.0,2.0,SOFT,3.0,1,False,False,108.183,25.5,41.4,46.7,1007.6,3.5,255,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,8.0,2.0,SOFT,3.0,1,False,False,117.475,25.5,41.4,46.7,1007.6,3.5,255,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,11.0,4.0,SOFT,3.0,1,False,False,112.99,25.5,41.4,46.7,1007.6,3.5,255,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,12.0,4.0,SOFT,3.0,1,False,False,109.936,25.5,41.4,46.7,1007.6,3.5,255,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,9.0,3.0,SOFT,6.0,1,False,False,105.124,25.5,41.4,46.7,1007.6,3.5,255,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,12.0,4.0,SOFT,3.0,1,False,False,100.529,25.5,41.4,46.7,1007.6,3.5,255,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,7.0,3.0,SOFT,3.0,1,False,False,108.193,25.5,41.5,46.2,1007.4,2.6,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,8.0,3.0,SOFT,3.0,1,False,False,108.242,25.5,41.5,46.2,1007.4,2.6,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,9.0,3.0,SOFT,3.0,1,True,False,89.043,25.5,41.5,46.2,1007.4,2.6,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,12.0,4.0,SOFT,3.0,1,False,False,111.608,25.5,41.5,46.2,1007.4,2.6,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,8.0,3.0,SOFT,5.0,1,False,False,103.981,25.5,41.5,46.2,1007.4,2.6,259,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,9.0,3.0,SOFT,3.0,1,False,False,117.632,25.6,41.7,46.9,1007.4,3.8,245,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,10.0,3.0,SOFT,4.0,1,False,False,101.46,25.5,40.4,46.8,1007.6,2.6,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,10.0,4.0,SOFT,1.0,1,False,False,,25.5,40.4,46.8,1007.6,2.6,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,10.0,4.0,SOFT,1.0,1,False,False,,25.5,40.4,46.8,1007.6,2.6,212,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,11.0,4.0,SOFT,2.0,1,True,False,89.113,25.2,41.7,47.8,1007.6,1.7,123,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,11.0,4.0,SOFT,2.0,1,True,False,89.069,25.2,41.7,47.8,1007.6,1.7,123,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,10.0,4.0,SOFT,1.0,1,False,False,,25.2,41.7,47.8,1007.6,1.7,123,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,9.0,4.0,SOFT,1.0,1,False,False,,25.2,41.7,47.8,1007.6,1.7,123,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,12.0,5.0,SOFT,1.0,1,False,False,,25.3,41.6,47.4,1007.5,4.1,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,13.0,5.0,SOFT,1.0,1,False,False,,25.3,41.6,47.4,1007.5,4.1,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,10.0,3.0,SOFT,1.0,1,False,False,,25.3,41.6,47.4,1007.5,4.1,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,9.0,3.0,SOFT,1.0,1,False,False,,25.3,41.6,47.4,1007.5,4.1,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,13.0,5.0,SOFT,1.0,1,False,False,,25.3,41.6,47.4,1007.5,4.1,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,13.0,5.0,SOFT,1.0,1,False,False,,25.3,41.6,47.4,1007.5,4.1,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,12.0,4.0,SOFT,3.0,1,False,False,109.699,25.3,41.6,47.4,1007.5,4.1,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,8.0,4.0,SOFT,1.0,1,False,False,,25.3,41.6,47.4,1007.5,4.1,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,12.0,4.0,SOFT,3.0,1,False,False,110.328,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,12.0,5.0,SOFT,1.0,1,False,False,,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,13.0,5.0,SOFT,1.0,1,False,False,,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,11.0,4.0,SOFT,2.0,1,True,False,89.218,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,11.0,4.0,SOFT,1.0,1,False,False,,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,10.0,4.0,SOFT,2.0,1,True,False,89.383,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,10.0,4.0,SOFT,1.0,1,False,False,,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,13.0,5.0,SOFT,2.0,1,True,False,89.337,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,14.0,5.0,SOFT,2.0,1,True,False,89.429,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,9.0,4.0,SOFT,4.0,1,False,False,,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,11.0,3.0,SOFT,2.0,1,True,False,88.626,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,10.0,3.0,SOFT,2.0,1,True,False,88.864,25.3,41.9,46.8,1007.4,1.9,111,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,14.0,5.0,SOFT,2.0,1,True,False,90.501,25.3,41.7,47.6,1007.5,4.9,243,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,14.0,5.0,SOFT,2.0,1,True,False,90.623,25.3,41.7,47.6,1007.5,4.9,243,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,9.0,4.0,SOFT,2.0,1,True,False,89.461,25.3,41.7,47.6,1007.5,4.9,243,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,13.0,5.0,SOFT,2.0,1,True,True,90.743,25.3,41.7,47.6,1007.5,4.9,243,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,14.0,5.0,SOFT,2.0,1,True,False,90.076,25.3,41.7,47.6,1007.5,4.9,243,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,12.0,4.0,SOFT,2.0,1,True,False,88.493,25.3,41.7,47.6,1007.5,4.9,243,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,11.0,4.0,SOFT,2.0,1,True,False,90.063,25.3,41.2,47.6,1007.6,4.7,239,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,12.0,4.0,SOFT,3.0,1,False,False,118.171,25.3,41.2,47.6,1007.6,4.7,239,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,11.0,4.0,SOFT,3.0,1,False,False,114.124,25.3,41.2,47.6,1007.6,4.7,239,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,10.0,4.0,SOFT,5.0,1,True,False,89.567,25.3,41.2,47.6,1007.6,4.7,239,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,14.0,5.0,SOFT,3.0,1,False,False,115.642,25.3,41.2,47.6,1007.6,4.7,239,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,15.0,5.0,SOFT,3.0,1,False,False,117.494,25.3,41.2,47.6,1007.6,4.7,239,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,12.0,3.0,SOFT,3.0,1,False,False,111.215,25.3,41.2,47.6,1007.6,4.7,239,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,11.0,3.0,SOFT,3.0,1,False,False,108.605,25.3,41.2,47.6,1007.6,4.7,239,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BEA,87,Haas F1 Team,15.0,5.0,SOFT,3.0,1,False,False,124.328,25.2,41.6,47.5,1007.6,1.9,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+SAI,55,Williams,15.0,5.0,SOFT,3.0,1,False,False,119.642,25.2,41.6,47.5,1007.6,1.9,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+BOR,5,Audi,10.0,4.0,SOFT,3.0,1,False,False,116.884,25.2,41.6,47.5,1007.6,1.9,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ALB,23,Williams,14.0,5.0,SOFT,3.0,1,False,False,117.857,25.2,41.6,47.5,1007.6,1.9,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HUL,27,Audi,15.0,5.0,SOFT,3.0,1,False,False,114.467,25.2,41.6,47.5,1007.6,1.9,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,13.0,4.0,SOFT,3.0,1,False,False,110.888,25.2,41.6,47.5,1007.6,1.9,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+GAS,10,Alpine,12.0,4.0,SOFT,3.0,1,False,False,116.616,25.2,41.6,47.5,1007.6,1.9,106,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,11.0,4.0,SOFT,6.0,1,False,False,,24.9,38.2,49.1,1007.6,2.2,267,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,13.0,5.0,SOFT,1.0,1,False,False,,24.9,38.2,49.1,1007.6,2.2,267,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,16.0,6.0,SOFT,4.0,1,False,False,,24.9,38.2,49.1,1007.6,2.2,267,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,12.0,5.0,SOFT,1.0,1,False,False,,25.0,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,13.0,5.0,SOFT,1.0,1,False,False,,25.0,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,13.0,4.0,SOFT,1.0,1,False,False,,25.0,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,12.0,4.0,SOFT,1.0,1,False,False,,25.0,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,13.0,5.0,SOFT,1.0,1,False,False,,25.0,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,14.0,5.0,SOFT,1.0,1,False,False,,25.0,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,12.0,5.0,SOFT,1.0,1,False,False,,25.0,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,14.0,5.0,SOFT,2.0,1,True,False,89.231,25.3,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,17.0,6.0,SOFT,5.0,1,False,False,92.923,25.3,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,13.0,5.0,SOFT,2.0,1,True,False,89.315,25.3,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,14.0,5.0,SOFT,2.0,1,True,False,89.151,25.3,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,14.0,4.0,SOFT,2.0,1,True,False,88.62,25.3,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,13.0,4.0,SOFT,2.0,1,True,False,88.591,25.3,38.2,49.0,1007.5,3.6,244,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,14.0,5.0,SOFT,2.0,1,True,False,88.757,25.0,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,15.0,5.0,SOFT,2.0,1,True,False,88.385,25.0,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,13.0,5.0,SOFT,2.0,1,True,False,88.481,25.0,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,15.0,5.0,SOFT,3.0,1,False,False,108.072,25.0,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,14.0,5.0,SOFT,3.0,1,False,False,104.524,25.3,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,15.0,5.0,SOFT,3.0,1,False,False,101.722,25.3,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,15.0,4.0,SOFT,3.0,1,False,False,105.982,25.3,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,14.0,4.0,SOFT,3.0,1,False,False,103.52,25.3,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,15.0,5.0,SOFT,3.0,1,False,False,103.631,25.3,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,16.0,5.0,SOFT,3.0,1,False,False,100.988,25.3,39.2,49.7,1007.5,1.4,168,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,14.0,5.0,SOFT,3.0,1,False,False,103.762,24.9,41.4,50.2,1007.4,1.4,187,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,17.0,6.0,SOFT,1.0,1,False,False,,25.4,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,15.0,6.0,SOFT,1.0,1,False,False,,25.4,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,15.0,6.0,SOFT,1.0,1,False,False,,25.4,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,16.0,6.0,SOFT,1.0,1,False,False,,25.4,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,18.0,7.0,SOFT,1.0,1,False,False,,25.4,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,15.0,6.0,SOFT,1.0,1,False,False,,25.4,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,16.0,6.0,SOFT,1.0,1,False,False,,25.4,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,16.0,5.0,SOFT,1.0,1,False,False,,25.3,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,15.0,5.0,SOFT,1.0,1,False,False,,25.3,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,16.0,6.0,SOFT,1.0,1,False,False,,25.3,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,18.0,6.0,SOFT,2.0,1,True,False,88.111,25.3,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,16.0,6.0,SOFT,2.0,1,True,False,88.877,25.3,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,16.0,6.0,SOFT,2.0,1,True,False,89.305,25.3,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,17.0,6.0,SOFT,2.0,1,True,False,89.032,25.9,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,19.0,7.0,SOFT,2.0,1,True,False,89.716,25.9,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,16.0,6.0,SOFT,2.0,1,True,False,88.686,25.9,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,17.0,6.0,SOFT,2.0,1,True,False,88.893,25.9,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,17.0,5.0,SOFT,2.0,1,True,False,88.286,25.9,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,16.0,5.0,SOFT,2.0,1,True,False,88.458,25.9,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,17.0,6.0,SOFT,2.0,1,True,False,88.746,25.9,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+ANT,12,Mercedes,19.0,6.0,SOFT,3.0,1,False,False,,25.8,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+NOR,1,McLaren,17.0,6.0,SOFT,3.0,1,False,False,,25.8,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LIN,41,Racing Bulls,17.0,6.0,SOFT,3.0,1,False,False,,25.8,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+PIA,81,McLaren,18.0,6.0,SOFT,3.0,1,False,False,,25.8,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LAW,30,Racing Bulls,20.0,7.0,SOFT,3.0,1,False,False,,25.7,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+RUS,63,Mercedes,17.0,6.0,SOFT,3.0,1,False,False,,25.7,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+VER,3,Red Bull Racing,18.0,6.0,SOFT,3.0,1,False,False,,25.7,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+LEC,16,Ferrari,18.0,5.0,SOFT,3.0,1,False,False,,25.7,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAM,44,Ferrari,17.0,5.0,SOFT,3.0,1,False,False,,25.7,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True
+HAD,6,Red Bull Racing,18.0,6.0,SOFT,3.0,1,False,False,,25.7,41.2,49.3,1007.4,2.2,105,False,Silverstone,2026,9,British Grand Prix,sprint_qualifying,True

@@ -1,0 +1,296 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+RAI,7,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,22.2,38.0,53.4,997.7,4.0,221,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,22.2,38.0,53.4,997.7,4.0,221,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,22.2,38.0,53.4,997.7,4.0,221,False,Silverstone,2020,4,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,22.2,38.0,53.4,997.7,4.0,221,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,22.2,38.1,53.7,997.7,4.2,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,1,True,False,87.941,22.2,38.1,53.7,997.7,4.2,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,1,True,False,87.924,22.2,38.1,53.7,997.7,4.2,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,87.89,22.2,38.1,53.7,997.7,4.2,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,87.814,22.2,38.1,53.7,997.7,4.2,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,86.819,22.1,38.3,54.1,997.6,3.8,212,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,3.0,1.0,SOFT,3.0,1,False,False,102.427,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,3.0,1.0,SOFT,3.0,1,False,False,102.975,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,100.912,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,100.293,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LAT,6,Williams,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,3.0,1.0,SOFT,3.0,1,True,False,126.18,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,2.0,1.0,SOFT,2.0,1,True,False,86.912,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,2.0,1.0,SOFT,2.0,1,True,False,86.657,22.3,38.4,53.8,997.7,2.6,220,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LAT,6,Williams,2.0,1.0,SOFT,2.0,1,True,False,87.897,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,2.0,1.0,SOFT,2.0,1,True,False,86.555,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,86.55,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,86.951,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,2.0,1.0,SOFT,2.0,1,True,False,87.074,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,2.0,1.0,SOFT,2.0,1,True,False,87.065,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,1.0,1.0,SOFT,1.0,1,False,False,,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,2.0,1.0,SOFT,2.0,1,True,False,87.566,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,86.431,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,86.092,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,4.0,1.0,SOFT,4.0,1,True,False,86.851,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,2.0,1.0,SOFT,2.0,1,True,False,117.043,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,4.0,2.0,SOFT,1.0,1,False,False,,22.4,38.6,53.4,997.6,3.3,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,3.0,1.0,SOFT,3.0,1,True,False,137.135,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,3.0,1.0,SOFT,3.0,1,True,False,135.823,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LAT,6,Williams,3.0,1.0,SOFT,3.0,1,True,False,126.094,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,2.0,1.0,SOFT,2.0,1,True,False,87.161,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,86.643,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,86.115,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,3.0,1.0,SOFT,3.0,1,True,False,139.459,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,3.0,1.0,SOFT,3.0,1,True,False,136.544,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,3.0,1.0,SOFT,3.0,1,True,False,127.95,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,3.0,1.0,SOFT,3.0,1,True,False,141.694,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,3.0,1.0,SOFT,3.0,1,True,False,128.338,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,5.0,1.0,SOFT,5.0,1,False,False,109.826,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,3.0,1.0,SOFT,3.0,1,True,False,136.481,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,4.0,2.0,SOFT,1.0,1,False,False,,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,3.0,1.0,SOFT,3.0,1,True,False,124.977,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,5.0,2.0,SOFT,2.0,1,True,False,87.569,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,3.0,1.0,SOFT,3.0,1,True,False,142.292,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,3.0,1.0,SOFT,3.0,1,False,False,,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,4.0,1.0,SOFT,4.0,1,True,False,89.511,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,4.0,1.0,SOFT,4.0,1,True,False,86.822,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LAT,6,Williams,4.0,1.0,SOFT,4.0,1,True,False,87.705,22.5,38.2,53.7,997.7,4.9,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,4.0,1.0,SOFT,4.0,1,True,False,86.924,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,4.0,1.0,SOFT,4.0,1,False,False,91.498,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,4.0,1.0,SOFT,4.0,1,True,False,86.855,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,4.0,1.0,SOFT,4.0,1,True,False,86.894,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,4.0,1.0,SOFT,4.0,1,True,False,86.95,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,3.0,1.0,SOFT,3.0,1,True,False,128.724,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,True,87.317,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,87.303,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,3.0,1.0,SOFT,3.0,1,False,False,124.149,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,131.322,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,4.0,1.0,SOFT,4.0,1,True,False,87.074,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,5.0,2.0,SOFT,2.0,1,True,False,87.636,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,4.0,1.0,SOFT,4.0,1,True,False,86.855,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,4.0,1.0,SOFT,4.0,1,True,False,85.801,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,4.0,1.0,SOFT,4.0,1,True,False,85.9,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,6.0,2.0,SOFT,3.0,1,False,False,109.838,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,5.0,1.0,SOFT,5.0,1,False,False,102.961,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,5.0,1.0,SOFT,5.0,1,False,False,106.139,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LAT,6,Williams,5.0,1.0,SOFT,5.0,1,False,False,110.137,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,5.0,1.0,SOFT,5.0,1,False,False,101.734,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,4.0,1.0,SOFT,4.0,1,True,False,86.987,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,5.0,1.0,SOFT,5.0,1,False,False,103.449,22.5,38.3,54.6,997.8,3.0,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,5.0,1.0,SOFT,5.0,1,False,False,100.465,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,4.0,1.0,SOFT,4.0,1,True,False,86.565,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,5.0,1.0,SOFT,5.0,1,False,False,103.154,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,99.683,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,100.824,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,5.0,1.0,SOFT,5.0,1,False,False,99.824,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,6.0,2.0,SOFT,3.0,1,False,False,97.64,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,5.0,1.0,SOFT,5.0,1,False,False,99.154,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,5.0,1.0,SOFT,5.0,1,False,False,107.56,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,5.0,1.0,SOFT,5.0,1,False,False,108.33,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,5.0,1.0,SOFT,5.0,1,False,False,93.06,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,5.0,1.0,SOFT,5.0,1,False,False,98.864,22.5,39.2,55.2,997.8,3.7,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,7.0,3.0,SOFT,1.0,1,False,False,,22.9,39.3,54.2,997.8,2.6,238,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,7.0,3.0,SOFT,1.0,1,False,False,,22.9,39.3,54.2,997.8,2.6,238,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,6.0,2.0,SOFT,1.0,1,False,False,,22.9,39.3,54.2,997.8,2.6,238,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LAT,6,Williams,6.0,2.0,SOFT,1.0,1,False,False,,22.9,39.3,54.2,997.8,2.6,238,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,6.0,2.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,6.0,2.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,6.0,2.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,6.0,2.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,6.0,2.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,6.0,2.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,6.0,2.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,6.0,2.0,SOFT,1.0,1,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,6.0,2.0,SOFT,1.0,12,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,8.0,3.0,SOFT,2.0,12,True,False,87.366,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,6.0,2.0,SOFT,6.0,12,False,False,,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,8.0,3.0,SOFT,2.0,12,True,False,87.164,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,7.0,2.0,SOFT,2.0,12,True,False,86.343,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,7.0,2.0,SOFT,2.0,12,True,False,86.327,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,8.0,3.0,SOFT,2.0,12,True,False,87.643,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,8.0,3.0,SOFT,2.0,12,True,False,87.158,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,7.0,2.0,SOFT,2.0,12,True,False,87.073,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,7.0,2.0,SOFT,2.0,12,True,False,86.732,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,7.0,2.0,SOFT,2.0,12,True,False,86.715,22.9,40.2,54.0,997.7,3.5,237,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,7.0,2.0,SOFT,2.0,12,True,False,86.469,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,7.0,2.0,SOFT,2.0,12,True,False,86.243,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,7.0,2.0,SOFT,2.0,12,True,False,86.677,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,7.0,2.0,SOFT,2.0,12,True,False,86.774,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LAT,6,Williams,7.0,2.0,SOFT,2.0,12,False,False,145.146,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,7.0,2.0,SOFT,2.0,21,True,False,86.396,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,7.0,2.0,SOFT,7.0,1,False,False,94.032,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,9.0,3.0,SOFT,3.0,21,False,False,117.939,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,9.0,3.0,SOFT,3.0,1,False,False,109.824,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,8.0,2.0,SOFT,3.0,1,False,False,114.735,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,8.0,2.0,SOFT,3.0,1,False,False,105.366,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,9.0,3.0,SOFT,3.0,1,False,False,101.818,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,9.0,3.0,SOFT,3.0,1,False,False,102.202,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,8.0,2.0,SOFT,3.0,1,False,False,109.654,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,8.0,2.0,SOFT,3.0,1,False,False,124.204,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,8.0,2.0,SOFT,3.0,1,False,False,116.618,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,8.0,2.0,SOFT,3.0,1,False,False,112.321,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,8.0,2.0,SOFT,3.0,1,False,False,107.838,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,8.0,2.0,SOFT,3.0,1,False,False,106.184,22.4,37.3,56.4,997.7,3.5,242,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,8.0,2.0,SOFT,3.0,1,False,False,106.8,22.5,37.0,56.7,997.7,4.1,224,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,8.0,2.0,SOFT,3.0,1,False,False,110.231,22.5,37.0,56.7,997.7,4.1,224,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,6.0,2.0,MEDIUM,1.0,12,False,False,,22.0,37.0,57.3,997.7,3.1,226,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,9.0,3.0,MEDIUM,1.0,1,False,False,,22.0,37.0,57.3,997.7,3.1,226,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,4.0,2.0,MEDIUM,1.0,12,False,False,,22.0,37.0,57.3,997.7,3.1,226,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,8.0,3.0,MEDIUM,1.0,1,False,False,,22.0,37.0,57.3,997.7,3.1,226,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,6.0,2.0,MEDIUM,1.0,12,False,False,,22.0,37.0,57.3,997.7,3.1,226,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,9.0,3.0,SOFT,4.0,1,False,False,,22.0,37.0,57.3,997.7,3.1,226,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,9.0,3.0,SOFT,1.0,1,False,False,,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,9.0,3.0,MEDIUM,1.0,1,False,False,,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,9.0,3.0,SOFT,1.0,1,False,False,,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,5.0,2.0,MEDIUM,1.0,12,False,False,,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,9.0,3.0,SOFT,1.0,1,False,False,,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,9.0,3.0,SOFT,1.0,1,False,False,,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,7.0,2.0,MEDIUM,2.0,1,True,False,86.58,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,10.0,3.0,MEDIUM,2.0,1,True,False,86.645,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,9.0,3.0,SOFT,1.0,1,False,False,,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,5.0,2.0,MEDIUM,2.0,1,True,False,86.144,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,7.0,2.0,MEDIUM,2.0,1,True,False,85.015,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,10.0,3.0,SOFT,5.0,1,True,False,87.366,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,10.0,3.0,SOFT,2.0,1,True,False,86.42,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,10.0,3.0,MEDIUM,2.0,1,True,False,86.501,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,10.0,3.0,SOFT,2.0,1,True,False,86.276,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,9.0,3.0,MEDIUM,2.0,1,True,False,116.466,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,6.0,2.0,MEDIUM,2.0,1,True,False,86.203,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,10.0,3.0,SOFT,2.0,1,True,False,86.455,22.0,36.9,57.7,997.8,3.7,223,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,10.0,3.0,SOFT,2.0,1,True,False,86.252,22.5,38.8,55.6,997.9,3.3,231,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,10.0,3.0,MEDIUM,3.0,15,False,False,,22.1,38.0,56.7,997.7,5.1,201,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,11.0,4.0,MEDIUM,1.0,1,False,False,,22.1,38.4,56.0,997.7,4.2,207,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,12.0,4.0,MEDIUM,2.0,1,True,False,85.347,22.4,40.0,56.1,997.7,3.3,203,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,13.0,4.0,MEDIUM,3.0,1,False,False,98.393,22.5,40.3,54.4,997.7,4.9,208,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,11.0,3.0,SOFT,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,11.0,3.0,MEDIUM,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,11.0,3.0,MEDIUM,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,10.0,3.0,SOFT,2.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,11.0,3.0,SOFT,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,9.0,3.0,SOFT,1.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,11.0,3.0,SOFT,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,8.0,2.0,MEDIUM,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,11.0,3.0,SOFT,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,11.0,3.0,SOFT,6.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,7.0,2.0,MEDIUM,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,9.0,3.0,SOFT,6.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,6.0,2.0,MEDIUM,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,8.0,2.0,MEDIUM,3.0,15,False,False,,22.6,40.5,53.6,997.7,5.9,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,12.0,4.0,MEDIUM,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,12.0,4.0,MEDIUM,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,12.0,4.0,SOFT,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,11.0,4.0,SOFT,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,12.0,4.0,SOFT,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,10.0,4.0,SOFT,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,12.0,4.0,SOFT,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,9.0,3.0,SOFT,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,12.0,4.0,SOFT,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,12.0,4.0,SOFT,1.0,1,False,False,,22.6,39.8,54.1,997.7,4.5,199,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,10.0,4.0,SOFT,1.0,1,False,False,,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,7.0,3.0,SOFT,1.0,1,False,False,,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,8.0,3.0,SOFT,1.0,1,False,False,,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,14.0,5.0,SOFT,1.0,1,False,False,,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,13.0,4.0,MEDIUM,2.0,1,True,False,86.538,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,13.0,4.0,MEDIUM,2.0,1,True,False,87.023,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,9.0,3.0,SOFT,1.0,1,False,False,,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,13.0,4.0,SOFT,2.0,1,True,False,86.566,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,12.0,4.0,SOFT,2.0,1,True,False,86.339,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,13.0,4.0,SOFT,2.0,1,True,False,86.776,22.7,40.5,54.0,997.6,4.5,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,11.0,4.0,SOFT,2.0,1,True,False,86.501,22.8,40.6,54.0,997.8,4.8,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,13.0,4.0,SOFT,2.0,1,True,False,86.149,22.8,40.6,54.0,997.8,4.8,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,10.0,3.0,SOFT,2.0,1,True,False,86.545,22.8,40.6,54.0,997.8,4.8,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,13.0,4.0,SOFT,2.0,1,True,False,87.092,22.8,40.6,54.0,997.8,4.8,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,13.0,4.0,SOFT,2.0,1,True,False,86.488,22.8,40.6,54.0,997.8,4.8,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,11.0,4.0,SOFT,2.0,1,True,False,86.744,22.8,40.6,54.0,997.8,4.8,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,88.393,22.8,40.6,54.0,997.8,4.8,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,9.0,3.0,SOFT,2.0,1,True,False,87.223,22.8,40.6,54.0,997.8,4.8,228,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,15.0,5.0,SOFT,2.0,1,True,False,87.929,22.7,40.6,53.8,997.7,4.3,197,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,10.0,3.0,SOFT,2.0,1,True,False,86.51,22.7,40.6,53.8,997.7,4.3,197,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,14.0,4.0,MEDIUM,3.0,1,False,False,100.521,22.7,40.6,53.8,997.7,4.3,197,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,14.0,4.0,MEDIUM,3.0,1,False,False,108.481,22.7,40.6,53.8,997.7,4.3,197,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HUL,27,Racing Point,14.0,4.0,SOFT,3.0,1,False,False,111.326,22.7,40.6,53.8,997.7,4.3,197,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,13.0,4.0,SOFT,3.0,1,False,False,114.297,22.7,40.6,53.8,997.7,4.3,197,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,14.0,4.0,SOFT,3.0,1,False,False,112.991,22.7,40.6,53.8,997.7,4.3,197,False,Silverstone,2020,4,British Grand Prix,conventional,False
+GAS,10,AlphaTauri,12.0,4.0,SOFT,3.0,1,False,False,116.471,22.7,40.6,53.8,997.7,4.3,197,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,14.0,4.0,SOFT,3.0,1,False,False,114.433,22.7,39.8,54.0,997.8,4.3,198,False,Silverstone,2020,4,British Grand Prix,conventional,False
+ALB,23,Red Bull Racing,11.0,3.0,SOFT,3.0,1,False,False,116.857,22.7,39.8,54.0,997.8,4.3,198,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RUS,63,Williams,14.0,4.0,SOFT,3.0,1,False,False,123.407,22.7,39.8,54.0,997.8,4.3,198,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,14.0,4.0,SOFT,3.0,1,False,False,117.547,22.7,39.8,54.0,997.8,4.3,198,False,Silverstone,2020,4,British Grand Prix,conventional,False
+KVY,26,AlphaTauri,12.0,4.0,SOFT,3.0,1,False,False,102.092,22.7,39.8,54.0,997.8,4.3,198,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,9.0,3.0,SOFT,3.0,1,False,False,102.161,22.7,39.8,54.0,997.8,4.3,198,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,10.0,3.0,SOFT,3.0,1,False,False,108.767,22.7,39.8,54.0,997.8,4.3,198,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,16.0,5.0,SOFT,3.0,1,False,False,105.067,22.7,39.8,54.0,997.8,4.3,198,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,11.0,3.0,SOFT,3.0,1,False,False,108.904,22.6,38.3,54.4,997.7,4.0,201,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,15.0,5.0,SOFT,4.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,15.0,5.0,SOFT,4.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,17.0,6.0,SOFT,1.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,14.0,5.0,SOFT,4.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,15.0,5.0,SOFT,1.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,11.0,4.0,SOFT,1.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,12.0,4.0,SOFT,1.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,15.0,5.0,SOFT,4.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,15.0,5.0,SOFT,1.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,10.0,4.0,SOFT,1.0,1,False,False,,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,16.0,5.0,SOFT,5.0,1,True,False,86.456,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,16.0,5.0,SOFT,5.0,1,True,False,86.654,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,18.0,6.0,SOFT,2.0,1,True,False,84.616,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,15.0,5.0,SOFT,5.0,1,True,False,87.029,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,16.0,5.0,SOFT,2.0,1,True,False,85.985,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,12.0,4.0,SOFT,2.0,1,True,False,86.047,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,13.0,4.0,SOFT,2.0,1,True,False,84.766,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,16.0,5.0,SOFT,5.0,1,True,False,86.707,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,16.0,5.0,SOFT,2.0,1,True,False,86.339,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,11.0,4.0,SOFT,2.0,1,True,False,85.763,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,17.0,5.0,SOFT,6.0,1,False,False,107.146,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,17.0,5.0,SOFT,6.0,1,False,False,107.44,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,19.0,6.0,SOFT,3.0,1,False,False,97.953,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,16.0,5.0,SOFT,6.0,1,False,False,98.1,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,17.0,5.0,SOFT,3.0,1,False,False,104.717,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,13.0,4.0,SOFT,3.0,1,False,False,103.483,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,14.0,4.0,SOFT,3.0,1,False,False,105.904,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,17.0,5.0,SOFT,6.0,1,False,False,99.629,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,17.0,5.0,SOFT,3.0,1,False,False,103.612,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,12.0,4.0,SOFT,3.0,1,False,False,100.647,22.5,40.0,55.4,997.7,4.8,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,18.0,6.0,SOFT,1.0,1,False,False,,22.6,39.1,53.1,997.8,4.3,194,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,17.0,6.0,SOFT,1.0,1,False,False,,22.6,39.1,53.1,997.8,4.3,194,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,18.0,6.0,SOFT,1.0,1,False,False,,22.6,39.1,53.1,997.8,4.3,194,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,18.0,6.0,SOFT,1.0,1,False,False,,22.5,40.6,54.3,997.7,2.9,213,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,18.0,6.0,SOFT,1.0,1,False,False,,22.5,40.6,54.3,997.7,2.9,213,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,14.0,5.0,SOFT,1.0,1,False,False,,22.5,40.6,54.3,997.7,2.9,213,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,18.0,6.0,SOFT,1.0,1,False,False,,22.5,40.6,54.3,997.7,2.9,213,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,20.0,7.0,SOFT,1.0,1,False,False,,22.5,40.6,54.3,997.7,2.9,213,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,15.0,5.0,SOFT,1.0,1,False,False,,22.5,40.6,54.3,997.7,2.9,213,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,13.0,5.0,SOFT,1.0,1,False,False,,22.5,40.6,54.3,997.7,2.9,213,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,19.0,6.0,SOFT,2.0,1,True,False,85.839,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,18.0,6.0,SOFT,2.0,1,True,False,86.009,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,19.0,6.0,SOFT,2.0,1,True,False,86.209,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,19.0,6.0,SOFT,2.0,1,True,False,85.965,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,19.0,6.0,SOFT,2.0,1,True,False,85.782,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,15.0,5.0,SOFT,2.0,1,True,False,85.427,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,19.0,6.0,SOFT,2.0,1,True,True,86.077,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,21.0,7.0,SOFT,2.0,1,True,False,84.303,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,16.0,5.0,SOFT,2.0,1,True,False,84.616,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,14.0,5.0,SOFT,2.0,1,True,False,85.325,22.9,41.2,52.9,997.7,2.1,204,False,Silverstone,2020,4,British Grand Prix,conventional,False
+STR,18,Racing Point,20.0,6.0,SOFT,3.0,1,False,False,113.478,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+RIC,3,Renault,19.0,6.0,SOFT,3.0,1,False,False,114.781,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+OCO,31,Renault,20.0,6.0,SOFT,3.0,1,False,False,116.478,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+SAI,55,McLaren,20.0,6.0,SOFT,3.0,1,False,False,114.716,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+NOR,4,McLaren,20.0,6.0,SOFT,3.0,1,False,False,114.666,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+LEC,16,Ferrari,16.0,5.0,SOFT,3.0,1,False,False,116.298,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VET,5,Ferrari,20.0,6.0,SOFT,3.0,1,False,False,118.526,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+HAM,44,Mercedes,22.0,7.0,SOFT,3.0,1,False,False,118.369,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+BOT,77,Mercedes,17.0,5.0,SOFT,3.0,1,False,False,114.139,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,15.0,5.0,SOFT,3.0,1,False,False,111.363,23.4,42.0,50.7,997.7,4.4,211,False,Silverstone,2020,4,British Grand Prix,conventional,False

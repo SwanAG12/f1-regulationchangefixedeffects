@@ -1,0 +1,345 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+LAT,6,Williams,1.0,1.0,INTERMEDIATE,1.0,1,False,False,,14.3,18.6,93.3,970.8,0.6,5,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,1.0,1.0,INTERMEDIATE,1.0,1,False,False,,14.3,18.6,93.3,970.8,0.6,5,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,1.0,1.0,WET,1.0,1,False,False,,14.3,18.7,93.5,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,1.0,1.0,WET,1.0,1,False,False,,14.3,18.7,93.5,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+TSU,22,AlphaTauri,1.0,1.0,WET,1.0,1,False,False,,14.3,18.7,93.5,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,1.0,1.0,WET,1.0,1,False,False,,14.3,18.7,93.5,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,1.0,1.0,WET,1.0,1,False,False,,14.3,18.7,93.5,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,1.0,1.0,WET,1.0,1,False,False,,14.3,18.7,93.5,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,1.0,1.0,WET,1.0,1,False,False,,14.3,18.7,93.5,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MSC,47,Haas F1 Team,1.0,1.0,WET,1.0,1,False,False,,14.3,18.7,93.5,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MAZ,9,Haas F1 Team,1.0,1.0,WET,1.0,1,False,False,,14.3,18.7,93.5,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,1.0,1.0,WET,1.0,1,False,False,,14.4,19.4,93.3,970.9,0.6,351,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,1.0,1.0,WET,1.0,12,False,False,,14.4,19.4,93.3,970.9,0.6,351,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,1.0,1.0,WET,1.0,12,False,False,,14.4,19.4,93.3,970.9,0.6,351,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,1.0,1.0,WET,1.0,12,False,False,,14.4,19.4,93.3,970.9,0.6,351,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,1.0,1.0,WET,1.0,12,False,False,,14.4,19.4,93.3,970.9,0.6,351,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,1.0,1.0,WET,1.0,12,False,False,,14.4,19.4,93.3,970.9,0.6,351,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,1.0,1.0,WET,1.0,12,False,False,,14.4,19.4,93.3,970.9,0.6,351,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,1.0,1.0,WET,1.0,12,False,False,,14.4,19.4,93.3,970.9,0.6,351,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,1.0,1.0,WET,1.0,12,False,False,,14.4,19.4,93.3,970.9,0.6,351,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,2.0,1.0,INTERMEDIATE,2.0,12,True,False,131.727,14.6,19.5,92.1,970.9,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,2.0,1.0,INTERMEDIATE,2.0,12,False,False,,14.6,19.5,92.1,970.9,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,2.0,1.0,WET,2.0,12,True,False,136.126,14.6,19.5,92.1,970.9,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,2.0,1.0,WET,2.0,12,True,False,133.535,14.6,19.5,92.1,970.9,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+TSU,22,AlphaTauri,2.0,1.0,WET,2.0,12,True,False,131.949,14.6,19.5,92.1,970.9,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,2.0,1.0,WET,2.0,12,True,False,132.114,14.6,19.5,92.1,970.9,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,2.0,1.0,WET,2.0,12,True,False,130.881,14.6,19.5,92.1,970.9,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,2.0,1.0,WET,2.0,12,True,False,130.988,14.6,19.5,92.1,970.9,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,2.0,1.0,WET,2.0,12,True,False,132.31,14.6,19.5,92.1,970.9,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MSC,47,Haas F1 Team,2.0,1.0,WET,2.0,12,True,False,134.643,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MAZ,9,Haas F1 Team,2.0,1.0,WET,2.0,12,True,False,135.821,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,2.0,1.0,WET,2.0,12,True,False,135.391,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,2.0,1.0,WET,2.0,21,True,False,131.09,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,2.0,1.0,WET,2.0,21,True,False,131.994,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,2.0,1.0,WET,2.0,21,True,False,130.135,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,2.0,1.0,WET,2.0,21,True,False,130.577,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,2.0,1.0,WET,2.0,1,True,False,131.114,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,2.0,1.0,WET,2.0,1,False,False,136.004,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,2.0,1.0,WET,2.0,1,True,False,131.138,14.6,19.5,92.1,970.8,0.3,6,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,2.0,1.0,WET,2.0,1,True,False,127.574,14.7,19.5,93.6,970.8,0.3,136,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,3.0,1.0,INTERMEDIATE,3.0,1,True,False,122.068,14.7,19.5,93.6,970.8,0.3,136,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,3.0,1.0,INTERMEDIATE,3.0,1,True,False,125.019,14.7,19.5,93.6,970.8,0.3,136,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,3.0,1.0,WET,3.0,1,True,False,126.78,14.7,19.5,93.6,970.8,0.3,136,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,3.0,1.0,WET,3.0,1,True,False,133.782,14.7,19.5,93.6,970.8,0.3,136,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+TSU,22,AlphaTauri,3.0,1.0,WET,3.0,1,True,False,130.596,14.7,19.5,93.6,970.8,0.3,136,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,3.0,1.0,WET,3.0,1,True,False,131.058,14.7,19.5,93.6,970.8,0.3,136,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,3.0,1.0,WET,3.0,1,True,False,129.831,14.7,19.5,93.6,970.8,0.3,136,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,3.0,1.0,WET,3.0,1,True,False,129.151,14.7,19.5,93.6,970.8,0.3,136,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,3.0,1.0,WET,3.0,1,True,False,128.517,14.8,19.2,93.1,970.9,0.4,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MAZ,9,Haas F1 Team,3.0,1.0,WET,3.0,1,True,False,131.37,14.8,19.2,93.1,970.9,0.4,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,3.0,1.0,WET,3.0,1,True,False,129.148,14.8,19.2,93.1,970.9,0.4,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MSC,47,Haas F1 Team,3.0,1.0,WET,3.0,1,False,False,,14.8,19.2,93.1,970.9,0.4,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,3.0,1.0,WET,3.0,1,False,False,135.039,14.8,19.2,93.1,970.9,0.4,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,3.0,1.0,WET,3.0,1,False,False,137.484,14.8,19.2,93.1,970.9,0.4,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,3.0,1.0,WET,3.0,1,True,False,129.615,14.8,19.2,93.1,970.9,0.4,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,3.0,1.0,WET,3.0,1,False,False,,14.8,19.2,93.1,970.9,0.4,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,3.0,1.0,WET,3.0,1,False,False,140.8,14.8,19.2,93.1,970.9,0.4,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,3.0,1.0,WET,3.0,1,True,False,128.566,14.9,19.0,92.1,970.9,0.6,316,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,3.0,1.0,WET,3.0,1,False,False,133.444,14.9,19.0,92.1,970.9,0.6,316,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,4.0,1.0,INTERMEDIATE,4.0,1,True,False,122.737,14.9,19.0,92.1,970.9,0.6,316,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,4.0,1.0,INTERMEDIATE,4.0,1,False,False,136.535,14.9,19.0,92.1,970.9,0.6,316,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,3.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.9,19.0,92.1,970.9,0.6,316,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,4.0,1.0,WET,4.0,1,False,False,136.652,14.9,19.0,92.1,970.9,0.6,316,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+TSU,22,AlphaTauri,4.0,1.0,WET,4.0,1,False,False,138.494,14.9,19.0,92.1,970.9,0.6,316,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,4.0,1.0,WET,4.0,1,False,False,143.738,14.9,19.0,92.1,970.9,0.6,316,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,4.0,1.0,WET,4.0,1,False,False,139.499,14.9,19.0,91.2,970.9,0.6,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,4.0,1.0,WET,4.0,1,False,False,145.729,14.9,19.0,91.2,970.9,0.6,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,4.0,1.0,WET,4.0,1,False,False,139.368,14.9,19.0,91.2,970.9,0.6,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,4.0,1.0,WET,4.0,1,False,False,142.885,14.9,19.0,91.2,970.9,0.6,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MAZ,9,Haas F1 Team,4.0,1.0,WET,4.0,1,False,False,142.272,14.9,19.0,91.2,970.9,0.6,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,4.0,1.0,WET,4.0,1,False,False,140.757,14.9,19.0,91.2,970.9,0.6,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,4.0,1.0,WET,4.0,1,False,False,142.014,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,4.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MSC,47,Haas F1 Team,4.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,4.0,1.0,WET,4.0,1,False,False,138.952,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,4.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,4.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,4.0,2.0,INTERMEDIATE,2.0,1,True,False,123.65,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,5.0,1.0,INTERMEDIATE,5.0,1,False,False,136.639,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,4.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,19.0,91.9,970.9,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,4.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.9,91.8,970.7,0.5,312,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,5.0,2.0,INTERMEDIATE,1.0,1,False,False,149.49,14.8,18.9,91.8,970.7,0.5,312,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+TSU,22,AlphaTauri,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.9,91.8,970.7,0.5,312,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.9,91.8,970.7,0.5,312,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.9,91.8,970.7,0.5,312,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.9,91.8,970.7,0.5,312,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,5.0,2.0,INTERMEDIATE,2.0,1,True,False,122.057,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MSC,47,Haas F1 Team,5.0,2.0,INTERMEDIATE,2.0,1,True,False,125.841,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,5.0,2.0,INTERMEDIATE,2.0,1,True,False,122.038,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MAZ,9,Haas F1 Team,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,5.0,2.0,INTERMEDIATE,2.0,1,True,False,121.969,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,5.0,2.0,INTERMEDIATE,3.0,1,True,False,127.712,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,5.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,5.0,2.0,INTERMEDIATE,2.0,1,True,False,121.485,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,5.0,2.0,INTERMEDIATE,1.0,1,False,False,148.805,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,6.0,2.0,INTERMEDIATE,2.0,1,True,False,120.035,14.8,18.8,92.1,970.9,0.3,308,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,5.0,2.0,INTERMEDIATE,2.0,1,True,False,119.606,14.8,18.7,91.6,970.8,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,6.0,2.0,INTERMEDIATE,1.0,1,False,False,,14.8,18.7,91.6,970.8,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,6.0,2.0,INTERMEDIATE,2.0,1,True,False,118.776,14.8,18.7,91.6,970.8,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+TSU,22,AlphaTauri,6.0,2.0,INTERMEDIATE,2.0,1,True,False,123.593,14.8,18.7,91.6,970.8,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,6.0,2.0,INTERMEDIATE,2.0,1,True,False,125.24,14.8,18.7,91.6,970.8,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,6.0,2.0,INTERMEDIATE,2.0,1,True,False,123.188,14.8,18.7,91.6,970.8,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,6.0,2.0,INTERMEDIATE,2.0,1,True,False,120.561,14.8,18.7,91.6,970.8,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,6.0,2.0,INTERMEDIATE,2.0,1,True,False,121.115,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,6.0,2.0,INTERMEDIATE,2.0,1,True,False,121.646,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,6.0,2.0,INTERMEDIATE,3.0,1,True,False,128.86,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MSC,47,Haas F1 Team,6.0,2.0,INTERMEDIATE,3.0,1,True,False,124.31,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,6.0,2.0,INTERMEDIATE,3.0,1,True,False,120.539,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MAZ,9,Haas F1 Team,6.0,2.0,INTERMEDIATE,2.0,1,True,False,124.939,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,6.0,2.0,INTERMEDIATE,2.0,1,True,False,138.208,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,6.0,2.0,INTERMEDIATE,4.0,1,True,False,121.824,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,6.0,2.0,INTERMEDIATE,2.0,1,True,False,122.698,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,6.0,2.0,INTERMEDIATE,2.0,1,True,False,121.686,14.7,18.5,93.0,970.9,0.3,313,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,6.0,2.0,INTERMEDIATE,3.0,1,True,False,136.23,14.7,18.5,92.5,970.8,0.2,241,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,7.0,2.0,INTERMEDIATE,2.0,1,True,False,120.966,14.7,18.5,92.5,970.8,0.2,241,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,7.0,2.0,INTERMEDIATE,3.0,1,True,False,142.146,14.7,18.5,92.5,970.8,0.2,241,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,6.0,2.0,INTERMEDIATE,3.0,1,False,False,,14.7,18.5,92.5,970.8,0.2,241,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,6.0,2.0,INTERMEDIATE,3.0,1,False,False,,14.7,18.5,92.5,970.8,0.2,241,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,7.0,2.0,INTERMEDIATE,3.0,1,True,False,149.918,14.7,18.5,92.5,970.8,0.2,241,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+TSU,22,AlphaTauri,7.0,2.0,INTERMEDIATE,3.0,1,True,False,134.676,14.7,18.5,92.5,970.8,0.2,241,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,7.0,2.0,INTERMEDIATE,3.0,1,True,False,129.508,14.7,18.5,92.5,970.8,0.2,241,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,7.0,2.0,INTERMEDIATE,3.0,1,True,False,119.218,14.7,18.5,92.5,970.8,0.2,241,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,7.0,2.0,INTERMEDIATE,3.0,1,True,False,134.913,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,7.0,2.0,INTERMEDIATE,3.0,1,True,False,120.387,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,7.0,2.0,INTERMEDIATE,3.0,1,True,False,119.87,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,7.0,2.0,INTERMEDIATE,4.0,1,True,False,121.184,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MSC,47,Haas F1 Team,7.0,2.0,INTERMEDIATE,4.0,1,True,False,123.973,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,7.0,2.0,INTERMEDIATE,3.0,1,True,False,121.411,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,7.0,2.0,INTERMEDIATE,5.0,1,True,False,123.196,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,7.0,2.0,INTERMEDIATE,3.0,1,True,False,121.653,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,7.0,2.0,INTERMEDIATE,4.0,1,True,False,142.807,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,7.0,2.0,INTERMEDIATE,3.0,1,True,False,121.838,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MAZ,9,Haas F1 Team,7.0,2.0,INTERMEDIATE,3.0,1,True,False,141.326,14.7,18.8,93.0,970.8,0.2,190,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,7.0,2.0,INTERMEDIATE,4.0,1,True,False,120.728,14.8,19.0,91.5,970.8,0.6,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,8.0,2.0,INTERMEDIATE,3.0,1,True,False,121.847,14.8,19.0,91.5,970.8,0.6,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,8.0,2.0,INTERMEDIATE,4.0,1,True,False,119.864,14.8,19.0,91.5,970.8,0.6,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,7.0,2.0,INTERMEDIATE,4.0,1,True,False,121.583,14.8,19.0,91.5,970.8,0.6,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,7.0,2.0,INTERMEDIATE,4.0,1,True,False,118.717,14.8,19.0,91.5,970.8,0.6,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,8.0,2.0,INTERMEDIATE,4.0,1,True,False,118.301,14.8,19.0,91.5,970.8,0.6,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+TSU,22,AlphaTauri,8.0,2.0,INTERMEDIATE,4.0,1,True,False,122.413,14.8,19.0,91.5,970.8,0.6,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,8.0,2.0,INTERMEDIATE,4.0,1,True,False,124.452,14.8,19.0,91.5,970.8,0.6,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,8.0,2.0,INTERMEDIATE,4.0,1,True,False,122.306,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,8.0,2.0,INTERMEDIATE,4.0,1,True,False,121.593,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,8.0,2.0,INTERMEDIATE,4.0,1,False,False,138.054,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,8.0,2.0,INTERMEDIATE,4.0,1,False,False,134.723,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,8.0,2.0,INTERMEDIATE,5.0,1,False,False,128.405,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MSC,47,Haas F1 Team,8.0,2.0,INTERMEDIATE,5.0,1,True,False,124.929,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,8.0,2.0,INTERMEDIATE,4.0,1,True,False,120.175,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,8.0,2.0,INTERMEDIATE,5.0,1,True,False,119.334,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,8.0,2.0,INTERMEDIATE,6.0,1,False,False,128.067,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,8.0,2.0,INTERMEDIATE,4.0,1,True,False,121.597,14.7,19.1,91.6,970.9,0.5,257,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,8.0,2.0,INTERMEDIATE,5.0,1,False,False,128.257,14.6,19.0,92.7,970.9,0.4,20,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,8.0,2.0,INTERMEDIATE,4.0,1,False,False,151.387,14.6,19.0,92.7,970.9,0.4,20,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MAZ,9,Haas F1 Team,8.0,2.0,INTERMEDIATE,4.0,1,False,False,147.082,14.6,19.0,92.7,970.9,0.4,20,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,9.0,2.0,INTERMEDIATE,4.0,1,False,False,143.775,14.6,19.0,92.7,970.9,0.4,20,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,9.0,2.0,INTERMEDIATE,5.0,1,False,False,146.796,14.6,19.0,92.7,970.9,0.4,20,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,8.0,2.0,INTERMEDIATE,5.0,1,False,False,143.543,14.6,19.0,92.7,970.9,0.4,20,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,8.0,2.0,INTERMEDIATE,5.0,1,False,False,140.663,14.6,19.0,92.7,970.9,0.4,20,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,9.0,2.0,INTERMEDIATE,5.0,1,False,False,139.09,14.6,19.0,92.7,970.9,0.4,20,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+TSU,22,AlphaTauri,9.0,2.0,INTERMEDIATE,5.0,1,False,False,147.945,14.7,18.8,91.8,970.8,0.4,307,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,9.0,2.0,INTERMEDIATE,5.0,1,False,False,142.921,14.7,18.8,91.8,970.8,0.4,307,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,9.0,2.0,INTERMEDIATE,5.0,1,False,False,,14.7,18.8,91.8,970.8,0.4,307,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,9.0,2.0,INTERMEDIATE,5.0,1,False,False,142.357,14.7,18.8,91.8,970.8,0.4,307,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+MSC,47,Haas F1 Team,9.0,2.0,INTERMEDIATE,6.0,1,False,False,142.042,14.7,18.8,91.8,970.8,0.4,307,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,9.0,2.0,INTERMEDIATE,5.0,1,False,False,144.787,14.7,18.8,92.0,970.9,0.5,342,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,9.0,2.0,INTERMEDIATE,6.0,1,False,False,142.503,14.7,18.8,92.0,970.9,0.5,342,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,9.0,2.0,INTERMEDIATE,5.0,1,False,False,141.097,14.7,18.8,92.0,970.9,0.5,342,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,10.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.6,18.7,90.8,970.8,0.5,357,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,10.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.6,18.7,90.8,970.8,0.5,357,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,10.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.6,18.7,90.8,970.8,0.5,357,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,9.0,3.0,INTERMEDIATE,5.0,1,False,False,,14.6,18.7,90.8,970.8,0.5,357,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,9.0,3.0,INTERMEDIATE,5.0,1,False,False,,14.6,18.7,90.8,970.8,0.5,357,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,9.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.6,18.7,90.8,970.8,0.5,357,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,10.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.7,18.8,90.9,970.8,0.3,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,9.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.7,18.8,90.9,970.8,0.3,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,9.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.7,18.8,90.9,970.8,0.3,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,9.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.7,18.8,90.9,970.8,0.3,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,9.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.7,18.8,90.9,970.8,0.3,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,10.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.7,18.8,90.9,970.8,0.3,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,10.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.7,18.8,90.9,970.8,0.3,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,9.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.7,18.8,90.9,971.0,0.1,354,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,10.0,3.0,INTERMEDIATE,1.0,1,False,False,,14.7,18.8,90.9,971.0,0.1,354,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,11.0,3.0,INTERMEDIATE,2.0,1,True,False,119.362,14.7,18.8,90.9,971.0,0.1,354,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,11.0,3.0,INTERMEDIATE,2.0,1,True,False,117.235,14.7,18.8,90.9,971.0,0.1,354,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,11.0,3.0,INTERMEDIATE,2.0,1,True,False,118.968,14.7,18.8,90.9,971.0,0.1,354,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,10.0,3.0,INTERMEDIATE,2.0,1,True,False,119.179,14.7,18.8,90.9,971.0,0.1,354,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,11.0,3.0,INTERMEDIATE,2.0,1,True,False,117.936,14.8,18.6,90.3,970.9,0.2,329,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,10.0,3.0,INTERMEDIATE,2.0,1,True,False,120.026,14.8,18.6,90.3,970.9,0.2,329,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,10.0,4.0,INTERMEDIATE,1.0,1,False,False,149.849,14.8,18.6,90.3,970.9,0.2,329,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,10.0,4.0,INTERMEDIATE,1.0,1,False,False,147.899,14.8,18.6,90.3,970.9,0.2,329,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,10.0,3.0,INTERMEDIATE,2.0,1,True,False,118.993,14.8,18.6,90.3,970.9,0.2,329,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,10.0,3.0,INTERMEDIATE,2.0,1,True,False,118.766,14.8,18.6,90.3,970.9,0.2,329,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,10.0,3.0,INTERMEDIATE,2.0,1,True,False,120.382,14.8,18.6,90.3,970.9,0.2,329,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,11.0,3.0,INTERMEDIATE,2.0,1,True,False,117.866,14.8,18.6,90.3,970.9,0.2,329,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,11.0,3.0,INTERMEDIATE,2.0,1,True,False,118.792,14.8,18.6,90.3,970.9,0.2,329,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,10.0,3.0,INTERMEDIATE,2.0,1,True,False,117.371,14.9,18.6,90.5,970.8,0.6,276,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,11.0,3.0,INTERMEDIATE,2.0,1,True,False,118.118,14.9,18.6,90.5,970.8,0.6,276,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,12.0,3.0,INTERMEDIATE,3.0,1,True,False,140.968,14.9,18.6,90.5,970.8,0.6,276,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,12.0,3.0,INTERMEDIATE,3.0,1,True,False,149.219,14.9,18.4,90.5,970.9,0.3,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,12.0,3.0,INTERMEDIATE,3.0,1,True,False,147.881,14.9,18.4,90.5,970.9,0.3,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,11.0,3.0,INTERMEDIATE,3.0,1,False,False,139.021,14.9,18.4,90.5,970.9,0.3,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,12.0,3.0,INTERMEDIATE,3.0,1,True,False,138.571,14.9,18.4,90.5,970.9,0.3,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,11.0,4.0,INTERMEDIATE,2.0,1,True,False,128.935,14.9,18.4,90.5,970.9,0.3,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,11.0,4.0,INTERMEDIATE,2.0,1,True,False,131.58,14.9,18.4,90.5,970.9,0.3,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,11.0,3.0,INTERMEDIATE,3.0,1,True,False,149.108,14.9,18.4,90.5,970.9,0.3,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,11.0,3.0,INTERMEDIATE,3.0,1,False,False,137.23,14.9,18.4,90.5,970.9,0.3,353,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,11.0,3.0,INTERMEDIATE,3.0,1,False,False,,14.9,18.2,91.0,971.0,0.7,320,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,11.0,3.0,INTERMEDIATE,3.0,1,False,False,,14.9,18.2,91.0,971.0,0.7,320,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,12.0,3.0,INTERMEDIATE,3.0,1,False,False,,14.9,18.2,91.0,971.0,0.7,320,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,12.0,3.0,INTERMEDIATE,3.0,1,False,False,,14.9,18.2,91.0,971.0,0.7,320,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,11.0,3.0,INTERMEDIATE,3.0,1,False,False,,14.9,18.2,91.0,971.0,0.7,320,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,13.0,3.0,INTERMEDIATE,4.0,1,True,False,120.137,14.9,18.2,91.0,971.0,0.7,320,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,12.0,3.0,INTERMEDIATE,3.0,1,False,False,,14.9,18.2,91.0,971.0,0.7,320,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,13.0,3.0,INTERMEDIATE,4.0,1,True,False,117.041,15.0,18.2,90.2,970.9,0.5,321,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,13.0,3.0,INTERMEDIATE,4.0,1,True,False,118.299,15.0,18.2,90.2,970.9,0.5,321,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,13.0,3.0,INTERMEDIATE,4.0,1,True,False,118.315,15.0,18.2,90.2,970.9,0.5,321,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,12.0,4.0,INTERMEDIATE,3.0,1,True,False,118.539,15.0,18.2,90.2,970.9,0.5,321,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,12.0,4.0,INTERMEDIATE,3.0,1,True,False,118.767,15.0,18.2,90.2,970.9,0.5,321,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,12.0,4.0,INTERMEDIATE,1.0,1,False,False,144.967,15.0,18.2,90.2,970.9,0.5,321,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,12.0,3.0,INTERMEDIATE,4.0,1,True,False,119.672,15.0,18.2,90.2,970.9,0.5,321,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,12.0,3.0,INTERMEDIATE,4.0,1,True,False,118.082,14.9,18.1,90.6,971.0,0.5,301,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,12.0,3.0,INTERMEDIATE,4.0,1,True,False,119.675,14.9,18.1,90.6,971.0,0.5,301,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,13.0,3.0,INTERMEDIATE,4.0,1,False,False,126.051,14.9,18.1,90.6,971.0,0.5,301,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,12.0,4.0,INTERMEDIATE,1.0,1,False,False,,14.9,18.1,90.6,971.0,0.5,301,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,13.0,3.0,INTERMEDIATE,4.0,1,True,False,118.231,14.9,18.1,90.6,971.0,0.5,301,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,12.0,3.0,INTERMEDIATE,4.0,1,True,False,116.559,14.9,18.1,90.6,971.0,0.5,301,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,13.0,3.0,INTERMEDIATE,4.0,1,True,False,117.209,14.9,18.1,90.6,971.0,0.5,301,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,14.0,3.0,INTERMEDIATE,5.0,1,False,False,141.172,14.9,17.9,90.1,970.9,0.3,0,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,14.0,3.0,INTERMEDIATE,5.0,1,False,False,135.081,14.9,17.9,90.1,970.9,0.3,0,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,14.0,3.0,INTERMEDIATE,5.0,1,False,False,138.92,14.9,17.9,90.1,970.9,0.3,0,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,14.0,3.0,INTERMEDIATE,5.0,1,False,False,134.763,14.9,17.9,90.1,970.9,0.3,0,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,13.0,4.0,INTERMEDIATE,2.0,1,True,False,118.137,14.9,17.9,90.1,970.9,0.3,0,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,13.0,4.0,INTERMEDIATE,4.0,1,False,False,130.506,14.9,17.9,90.1,970.9,0.3,0,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,13.0,4.0,INTERMEDIATE,4.0,1,False,False,132.543,14.9,17.9,90.1,970.9,0.3,0,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,13.0,3.0,INTERMEDIATE,5.0,1,False,False,133.093,14.9,17.9,90.1,970.9,0.3,0,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,13.0,3.0,INTERMEDIATE,5.0,1,False,False,139.019,14.9,17.8,89.8,970.9,0.5,323,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,13.0,4.0,INTERMEDIATE,2.0,1,True,False,117.721,14.9,17.8,89.8,970.9,0.5,323,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,13.0,3.0,INTERMEDIATE,5.0,1,False,False,149.12,14.9,17.8,89.8,970.9,0.5,323,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,14.0,3.0,INTERMEDIATE,5.0,1,False,False,132.203,14.9,17.8,89.8,970.9,0.5,323,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,14.0,4.0,INTERMEDIATE,1.0,1,False,False,,14.8,17.7,90.3,970.9,0.9,328,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,13.0,3.0,INTERMEDIATE,5.0,1,False,False,,14.8,17.7,90.3,970.9,0.9,328,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,14.0,3.0,INTERMEDIATE,5.0,1,False,False,,14.8,17.7,90.3,970.9,0.9,328,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,15.0,4.0,INTERMEDIATE,1.0,1,False,False,,14.8,17.7,90.3,970.9,0.9,328,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,15.0,4.0,INTERMEDIATE,1.0,1,False,False,,14.9,17.4,91.1,971.0,0.3,339,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,15.0,4.0,INTERMEDIATE,6.0,1,False,False,,14.9,17.4,91.1,971.0,0.3,339,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,14.0,4.0,INTERMEDIATE,3.0,1,False,False,,14.9,17.4,91.1,971.0,0.3,339,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,14.0,5.0,INTERMEDIATE,1.0,1,False,False,,14.9,17.4,91.1,971.0,0.3,339,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,15.0,4.0,INTERMEDIATE,1.0,1,False,False,,14.9,17.4,91.1,971.0,0.3,339,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,14.0,5.0,INTERMEDIATE,1.0,1,False,False,,14.9,17.4,91.1,971.0,0.3,339,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,14.0,4.0,INTERMEDIATE,1.0,1,False,False,,14.9,17.4,91.1,971.0,0.3,339,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,14.0,4.0,INTERMEDIATE,3.0,1,True,False,139.79,14.9,17.4,91.1,971.0,0.3,339,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,14.0,4.0,INTERMEDIATE,1.0,1,False,False,,14.9,17.4,91.2,970.9,0.5,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,15.0,4.0,INTERMEDIATE,2.0,1,True,False,116.814,14.9,17.4,91.2,970.9,0.5,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,14.0,4.0,INTERMEDIATE,1.0,1,False,False,148.332,14.9,17.4,91.2,970.9,0.5,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,15.0,4.0,INTERMEDIATE,1.0,1,False,False,144.785,14.9,17.4,91.2,970.9,0.5,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,15.0,3.0,INTERMEDIATE,6.0,1,True,False,116.886,14.9,17.4,91.2,970.9,0.5,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,14.0,3.0,INTERMEDIATE,6.0,1,False,False,127.143,14.9,17.4,91.2,970.9,0.5,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,16.0,4.0,INTERMEDIATE,2.0,1,True,False,118.056,14.9,17.4,91.2,970.9,0.5,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,16.0,4.0,INTERMEDIATE,2.0,1,True,False,116.025,14.9,17.4,91.2,970.9,0.5,334,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,16.0,4.0,INTERMEDIATE,7.0,1,True,False,116.95,14.8,17.3,91.4,971.0,0.5,287,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,15.0,5.0,INTERMEDIATE,2.0,1,True,False,116.229,14.8,17.3,91.4,971.0,0.5,287,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+SAI,55,Ferrari,15.0,4.0,INTERMEDIATE,4.0,1,False,False,126.537,14.8,17.3,91.4,971.0,0.5,287,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,16.0,4.0,INTERMEDIATE,2.0,1,True,False,116.44,14.8,17.3,91.4,971.0,0.5,287,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,15.0,5.0,INTERMEDIATE,2.0,1,True,False,116.295,14.8,17.3,91.4,971.0,0.5,287,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,15.0,4.0,INTERMEDIATE,2.0,1,True,False,117.354,14.8,17.3,91.4,971.0,0.5,287,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,15.0,4.0,INTERMEDIATE,4.0,1,True,False,118.813,14.8,17.3,91.4,971.0,0.5,287,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,15.0,4.0,INTERMEDIATE,2.0,1,True,False,117.127,14.8,17.4,91.4,971.0,0.4,304,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,15.0,4.0,INTERMEDIATE,2.0,1,True,False,118.205,14.8,17.4,91.4,971.0,0.4,304,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,16.0,4.0,INTERMEDIATE,2.0,1,False,False,130.234,14.8,17.4,91.4,971.0,0.4,304,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,16.0,4.0,INTERMEDIATE,3.0,1,False,False,151.39,14.8,17.4,91.4,971.0,0.4,304,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,16.0,3.0,INTERMEDIATE,7.0,1,False,False,141.501,14.8,17.4,91.4,971.0,0.4,304,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+LAT,6,Williams,17.0,4.0,INTERMEDIATE,3.0,1,False,False,152.952,14.7,17.4,91.2,971.0,0.6,331,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,17.0,4.0,INTERMEDIATE,3.0,1,False,False,146.233,14.7,17.4,91.2,971.0,0.6,331,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,16.0,5.0,INTERMEDIATE,3.0,1,False,False,136.395,14.7,17.4,91.2,971.0,0.6,331,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,17.0,4.0,INTERMEDIATE,8.0,1,False,False,152.132,14.7,17.4,91.2,971.0,0.6,331,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,17.0,4.0,INTERMEDIATE,3.0,1,False,False,152.168,14.7,17.4,91.2,971.0,0.6,331,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,16.0,5.0,INTERMEDIATE,3.0,1,False,False,150.636,14.8,17.2,92.0,971.1,0.7,329,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,16.0,4.0,INTERMEDIATE,3.0,1,False,False,143.38,14.8,17.2,92.0,971.1,0.7,329,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,16.0,4.0,INTERMEDIATE,5.0,1,False,False,,14.8,17.2,92.0,971.1,0.7,329,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,16.0,4.0,INTERMEDIATE,3.0,1,False,False,157.537,14.8,17.2,92.0,971.1,0.7,329,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+ALO,14,Alpine,16.0,4.0,INTERMEDIATE,3.0,1,False,False,151.656,14.8,17.2,92.0,971.1,0.7,329,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,18.0,5.0,WET,1.0,1,False,False,,14.3,16.8,93.0,971.1,0.6,346,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,18.0,5.0,WET,1.0,1,False,False,,14.3,16.8,93.0,971.1,0.6,346,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,18.0,5.0,INTERMEDIATE,1.0,1,False,False,,14.2,16.6,93.6,970.9,0.3,313,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,17.0,5.0,WET,1.0,1,False,False,,14.2,16.6,93.6,970.9,0.3,313,True,Spa,2021,12,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,19.0,5.0,WET,2.0,125,False,False,,13.9,17.1,94.1,970.9,0.3,330,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,17.0,5.0,WET,1.0,125,False,False,,14.0,17.4,93.5,970.8,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,19.0,5.0,WET,2.0,125,False,False,,14.0,17.4,93.5,970.8,0.5,327,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,17.0,6.0,WET,1.0,125,False,False,,14.1,17.5,93.2,970.9,0.5,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,17.0,6.0,WET,1.0,125,False,False,,14.1,17.5,93.2,970.9,0.5,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,18.0,5.0,WET,2.0,125,False,False,,14.1,17.5,93.2,970.9,0.5,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,15.0,4.0,WET,1.0,125,False,False,,14.1,17.5,93.2,970.9,0.5,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,17.0,4.0,WET,1.0,125,False,False,,14.1,17.5,93.2,970.9,0.5,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,17.0,5.0,WET,1.0,125,False,False,,14.2,17.4,94.2,970.8,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,18.0,6.0,WET,1.0,1,False,False,,14.2,17.4,94.2,970.8,0.5,345,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,20.0,6.0,WET,3.0,1,False,False,,14.2,17.4,93.8,970.9,0.5,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,18.0,7.0,INTERMEDIATE,1.0,1,False,False,,14.2,17.4,93.8,970.9,0.5,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,18.0,7.0,INTERMEDIATE,1.0,1,False,False,,14.2,17.4,93.8,970.9,0.5,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,19.0,6.0,INTERMEDIATE,1.0,1,False,False,,14.2,17.4,93.8,970.9,0.5,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,16.0,5.0,INTERMEDIATE,1.0,1,False,False,,14.2,17.4,93.8,970.9,0.5,311,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,18.0,5.0,INTERMEDIATE,1.0,1,False,False,,14.2,17.4,92.9,970.9,0.6,277,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,19.0,6.0,INTERMEDIATE,2.0,1,False,False,,14.2,17.4,92.9,970.9,0.6,277,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,18.0,6.0,INTERMEDIATE,1.0,1,False,False,,14.2,17.4,92.9,970.9,0.6,277,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,19.0,7.0,INTERMEDIATE,1.0,1,False,False,146.64,14.2,17.7,93.6,970.9,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,19.0,7.0,INTERMEDIATE,2.0,1,True,False,121.552,14.2,17.7,93.6,970.9,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,19.0,7.0,INTERMEDIATE,2.0,1,True,False,123.093,14.2,17.7,93.6,970.9,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,20.0,6.0,INTERMEDIATE,2.0,1,True,False,123.321,14.2,17.7,93.6,970.9,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,21.0,7.0,INTERMEDIATE,5.0,1,False,False,,14.2,17.7,93.6,970.9,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,17.0,5.0,INTERMEDIATE,2.0,1,True,False,122.525,14.2,17.7,93.6,970.9,0.4,333,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,19.0,5.0,INTERMEDIATE,2.0,1,True,False,124.013,14.2,17.8,93.6,970.9,0.3,314,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,20.0,6.0,INTERMEDIATE,3.0,1,True,False,123.801,14.2,17.8,93.6,970.9,0.3,314,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,19.0,6.0,INTERMEDIATE,2.0,1,True,False,124.07,14.2,17.8,93.6,970.9,0.3,314,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,20.0,7.0,INTERMEDIATE,2.0,1,True,False,125.073,14.2,17.8,93.7,970.9,0.5,357,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,22.0,7.0,INTERMEDIATE,6.0,1,True,False,128.059,14.3,17.8,93.8,970.9,0.2,279,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,20.0,7.0,INTERMEDIATE,3.0,1,False,False,,14.3,17.8,93.8,970.9,0.2,279,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,20.0,5.0,INTERMEDIATE,3.0,1,True,False,122.112,14.3,17.8,93.8,970.9,0.2,279,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,20.0,7.0,INTERMEDIATE,3.0,1,False,False,,14.3,17.8,93.8,970.9,0.2,279,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,21.0,6.0,INTERMEDIATE,3.0,1,False,False,,14.3,17.8,93.8,970.9,0.2,279,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,18.0,5.0,INTERMEDIATE,3.0,1,False,False,,14.3,17.8,93.8,970.9,0.2,279,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,21.0,6.0,INTERMEDIATE,4.0,1,True,False,139.458,14.3,17.8,93.8,970.9,0.2,279,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,20.0,6.0,INTERMEDIATE,3.0,1,True,False,133.504,14.4,17.8,94.0,970.9,0.3,342,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,21.0,7.0,INTERMEDIATE,3.0,1,True,False,123.953,14.4,17.8,94.0,970.9,0.3,342,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,23.0,7.0,INTERMEDIATE,7.0,1,True,False,120.086,14.4,17.8,93.4,970.9,0.3,331,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,21.0,7.0,INTERMEDIATE,4.0,1,True,False,120.099,14.4,17.8,93.4,970.9,0.3,331,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,21.0,5.0,INTERMEDIATE,4.0,1,True,False,122.399,14.4,17.8,93.4,970.9,0.3,331,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,21.0,7.0,INTERMEDIATE,4.0,1,True,False,122.502,14.4,17.8,93.4,970.9,0.3,331,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,22.0,6.0,INTERMEDIATE,4.0,1,True,False,120.935,14.4,17.8,93.4,970.9,0.3,331,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,19.0,5.0,INTERMEDIATE,4.0,1,True,False,119.765,14.4,17.8,93.4,970.9,0.3,331,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,22.0,6.0,INTERMEDIATE,5.0,1,True,False,121.164,14.4,17.8,93.4,970.9,0.3,331,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,21.0,6.0,INTERMEDIATE,4.0,1,True,False,120.864,14.4,17.8,93.2,970.9,0.6,307,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,22.0,7.0,INTERMEDIATE,4.0,1,True,False,123.513,14.4,17.8,93.2,970.9,0.6,307,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RUS,63,Williams,24.0,7.0,INTERMEDIATE,8.0,1,False,False,,14.4,17.6,93.4,970.8,0.3,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,22.0,7.0,INTERMEDIATE,5.0,1,False,False,,14.4,17.6,93.4,970.8,0.3,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+PER,11,Red Bull Racing,22.0,5.0,INTERMEDIATE,5.0,1,False,False,,14.4,17.6,93.4,970.8,0.3,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VET,5,Aston Martin,23.0,6.0,INTERMEDIATE,5.0,1,False,False,,14.4,17.6,93.4,970.8,0.3,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,22.0,7.0,INTERMEDIATE,5.0,1,False,False,,14.4,17.6,93.4,970.8,0.3,289,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,20.0,5.0,INTERMEDIATE,5.0,1,False,False,,14.4,17.8,93.7,970.8,0.2,322,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+GAS,10,AlphaTauri,23.0,6.0,INTERMEDIATE,6.0,1,False,False,,14.4,17.8,93.7,970.8,0.2,322,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+RIC,3,McLaren,22.0,6.0,INTERMEDIATE,5.0,1,False,False,,14.4,17.8,93.7,970.8,0.2,322,False,Spa,2021,12,Belgian Grand Prix,conventional,False
+OCO,31,Alpine,23.0,7.0,INTERMEDIATE,5.0,1,False,False,,14.4,17.8,93.7,970.8,0.2,322,False,Spa,2021,12,Belgian Grand Prix,conventional,False

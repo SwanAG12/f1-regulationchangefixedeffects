@@ -1,0 +1,265 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+MAG,20,Haas F1 Team,1.0,,nan,,,False,False,,26.2,52.2,38.9,1006.5,1.9,234,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,1.0,,nan,,,False,False,,26.2,52.2,38.9,1006.5,1.9,234,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,1.0,,nan,,,False,False,,26.4,52.2,38.1,1006.5,1.3,168,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SIR,35,Williams,1.0,,nan,,,False,False,,26.4,52.2,38.1,1006.5,1.3,168,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,1.0,,nan,,,False,False,,26.4,52.2,38.1,1006.5,1.3,168,False,Silverstone,2018,10,British Grand Prix,conventional,False
+STR,18,Williams,1.0,,nan,,,False,False,,26.4,52.2,38.1,1006.5,1.3,168,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,1.0,,nan,,,False,False,,26.4,52.2,38.1,1006.5,1.3,168,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,1.0,,nan,,,False,False,,26.3,51.9,37.9,1006.4,1.0,56,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,1.0,,nan,,,False,False,,26.3,51.9,37.9,1006.4,1.0,56,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,2.0,,nan,,2,True,False,91.413,26.3,51.9,37.9,1006.4,1.0,56,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,2.0,1.0,SOFT,1.0,2,True,False,89.657,26.3,51.9,37.9,1006.4,1.0,56,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,2.0,1.0,SOFT,1.0,2,True,False,88.895,26.3,51.9,37.9,1006.4,1.0,56,False,Silverstone,2018,10,British Grand Prix,conventional,False
+STR,18,Williams,2.0,1.0,SOFT,1.0,25,False,False,,26.4,52.6,36.7,1006.4,1.4,167,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,2.0,1.0,SOFT,1.0,251,False,False,,25.8,51.9,37.8,1006.4,1.6,42,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,2.0,1.0,MEDIUM,1.0,251,False,False,,25.8,51.9,37.8,1006.4,1.6,42,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VAN,2,McLaren,1.0,1.0,SOFT,1.0,251,False,False,,25.8,51.9,37.8,1006.4,1.6,42,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,3.0,1.0,SOFT,1.0,251,False,False,,25.8,51.9,37.8,1006.4,1.6,42,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,2.0,1.0,SOFT,1.0,251,False,False,,25.8,51.9,37.8,1006.4,1.6,42,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SIR,35,Williams,2.0,1.0,SOFT,1.0,251,False,False,,25.8,51.9,37.8,1006.4,1.6,42,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,3.0,1.0,SOFT,2.0,251,False,False,,25.8,51.9,37.8,1006.4,1.6,42,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,2.0,1.0,SOFT,1.0,251,False,False,,25.8,51.9,37.8,1006.4,1.6,42,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,3.0,2.0,MEDIUM,3.0,1,False,False,,26.0,52.8,37.3,1006.4,1.7,61,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,1.0,1.0,SOFT,1.0,1,False,False,,26.0,52.8,37.3,1006.4,1.7,61,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,3.0,2.0,SOFT,1.0,1,False,False,,26.0,52.8,37.3,1006.4,1.7,61,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VAN,2,McLaren,2.0,2.0,SOFT,1.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,1.0,1.0,SOFT,1.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,4.0,2.0,SOFT,4.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SAI,55,Renault,1.0,1.0,SOFT,1.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,3.0,2.0,SOFT,1.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,4.0,2.0,SOFT,4.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SIR,35,Williams,3.0,2.0,SOFT,1.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,3.0,2.0,SOFT,3.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,26.2,52.4,37.0,1006.4,1.4,314,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,1.0,1.0,SOFT,1.0,1,False,False,,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,4.0,2.0,MEDIUM,4.0,1,True,False,87.647,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,3.0,1.0,SOFT,2.0,251,False,False,,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,2.0,1.0,SOFT,2.0,1,True,False,88.679,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,4.0,2.0,SOFT,2.0,1,True,False,88.108,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VAN,2,McLaren,3.0,2.0,SOFT,2.0,1,True,False,89.695,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,2.0,1.0,SOFT,2.0,1,True,False,88.836,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,5.0,2.0,SOFT,5.0,1,True,False,88.475,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SAI,55,Renault,2.0,1.0,SOFT,2.0,1,True,False,89.154,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,4.0,2.0,SOFT,2.0,1,True,False,88.859,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,5.0,2.0,SOFT,5.0,12,True,False,88.715,26.3,52.1,37.2,1006.5,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,4.0,2.0,SOFT,4.0,12,True,False,89.516,26.3,52.1,38.6,1006.5,2.2,239,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,2.0,1.0,SOFT,2.0,12,True,False,88.632,26.3,52.1,38.6,1006.5,2.2,239,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,2.0,1.0,SOFT,2.0,12,False,False,95.659,26.3,52.1,38.6,1006.5,2.2,239,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,2.0,1.0,SOFT,2.0,12,True,False,88.544,26.3,52.1,38.6,1006.5,2.2,239,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SIR,35,Williams,4.0,2.0,SOFT,2.0,12,False,False,122.666,26.3,52.1,38.6,1006.5,2.2,239,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,1.0,1.0,SOFT,1.0,12,False,False,,26.3,52.1,38.6,1006.5,2.2,239,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,5.0,2.0,MEDIUM,5.0,12,True,False,110.706,26.4,52.1,38.3,1006.4,2.0,221,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,4.0,2.0,SOFT,1.0,12,False,False,,26.4,52.1,38.3,1006.4,2.0,221,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,3.0,1.0,SOFT,3.0,12,True,False,134.281,26.4,52.1,38.3,1006.4,2.0,221,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VAN,2,McLaren,4.0,2.0,SOFT,3.0,12,True,False,128.723,26.4,52.1,38.3,1006.4,2.0,221,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,5.0,2.0,SOFT,3.0,12,True,False,140.002,26.4,52.1,38.3,1006.4,2.0,221,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,6.0,2.0,SOFT,6.0,21,False,False,109.98,26.4,52.1,38.3,1006.4,2.0,221,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,6.0,2.0,SOFT,6.0,12,False,False,127.168,26.4,52.1,38.3,1006.4,2.0,221,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,3.0,1.0,SOFT,3.0,12,True,False,135.239,26.4,52.1,38.3,1006.4,2.0,221,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SAI,55,Renault,3.0,1.0,SOFT,3.0,12,True,False,129.869,26.4,52.1,38.3,1006.4,2.0,221,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,5.0,2.0,SOFT,3.0,12,True,False,138.113,26.3,52.1,38.0,1006.5,1.5,0,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,88.124,26.3,52.1,38.0,1006.5,1.5,0,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,5.0,2.0,SOFT,5.0,21,True,False,123.133,26.3,52.1,38.0,1006.5,1.5,0,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,1.0,1.0,MEDIUM,1.0,1,False,False,,26.3,52.1,38.0,1006.5,1.5,0,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,3.0,1.0,SOFT,3.0,1,False,False,113.704,26.3,52.1,38.0,1006.5,1.5,0,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,128.334,26.3,52.1,38.0,1006.5,1.5,0,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,6.0,2.0,MEDIUM,6.0,1,True,False,87.549,26.3,52.1,38.0,1006.5,1.5,0,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,1.0,1.0,MEDIUM,1.0,1,False,False,,26.3,52.1,38.0,1006.5,1.5,0,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,5.0,2.0,SOFT,2.0,1,True,False,88.686,26.3,52.1,38.0,1006.5,1.5,0,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,4.0,1.0,SOFT,4.0,1,True,False,88.425,26.1,52.0,38.9,1006.4,1.4,232,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VAN,2,McLaren,5.0,2.0,SOFT,4.0,1,True,False,89.173,26.1,52.0,38.9,1006.4,1.4,232,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,6.0,2.0,SOFT,4.0,1,True,False,88.026,26.1,52.0,38.9,1006.4,1.4,232,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,4.0,1.0,SOFT,4.0,1,True,False,88.474,26.1,52.0,38.9,1006.4,1.4,232,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SAI,55,Renault,4.0,1.0,SOFT,4.0,1,True,False,88.819,26.1,52.0,38.9,1006.4,1.4,232,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,6.0,2.0,SOFT,4.0,1,True,False,88.466,26.1,52.0,38.9,1006.4,1.4,232,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,6.0,2.0,SOFT,6.0,1,True,False,86.585,26.1,52.0,38.9,1006.4,1.4,232,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,2.0,1.0,MEDIUM,2.0,1,True,False,86.818,26.1,52.0,38.9,1006.4,1.4,232,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,4.0,1.0,SOFT,4.0,1,True,False,87.309,26.1,52.0,38.9,1006.4,1.4,232,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,2.0,1.0,MEDIUM,2.0,1,True,False,87.025,26.2,52.0,39.2,1006.4,4.0,225,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,7.0,2.0,MEDIUM,7.0,1,False,False,106.739,26.2,52.0,39.2,1006.4,4.0,225,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,136.505,26.2,52.0,39.2,1006.4,4.0,225,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,6.0,2.0,SOFT,3.0,1,False,False,110.683,26.2,52.0,39.2,1006.4,4.0,225,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,5.0,1.0,SOFT,5.0,1,False,False,100.601,26.2,52.0,39.2,1006.4,4.0,225,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,3.0,2.0,SOFT,1.0,1,False,False,,26.2,52.0,39.2,1006.4,4.0,225,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VAN,2,McLaren,6.0,2.0,SOFT,5.0,1,False,False,103.316,26.2,52.0,39.2,1006.4,4.0,225,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,7.0,2.0,SOFT,5.0,1,False,False,108.677,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,5.0,1.0,SOFT,5.0,1,False,False,110.077,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SAI,55,Renault,5.0,1.0,SOFT,5.0,1,False,False,111.078,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,7.0,2.0,SOFT,5.0,1,False,False,101.544,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,7.0,2.0,SOFT,7.0,1,False,False,112.935,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,5.0,1.0,SOFT,5.0,1,False,False,104.003,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,3.0,1.0,MEDIUM,3.0,1,False,False,111.713,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,3.0,1.0,MEDIUM,3.0,1,False,False,108.483,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,4.0,1.0,SOFT,4.0,1,True,False,87.979,26.5,51.9,37.7,1006.5,3.2,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,4.0,2.0,SOFT,2.0,1,True,False,88.187,26.6,51.9,37.5,1006.4,2.4,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,7.0,3.0,SOFT,1.0,1,False,False,,26.6,51.9,37.5,1006.4,2.4,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,8.0,3.0,SOFT,2.0,12,True,False,88.143,26.5,51.6,37.6,1006.5,1.8,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,5.0,1.0,SOFT,5.0,12,False,False,100.109,26.5,51.6,37.6,1006.5,1.8,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,8.0,3.0,SOFT,2.0,12,True,False,88.086,26.5,51.6,37.6,1006.5,1.8,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,5.0,2.0,SOFT,3.0,12,True,False,125.918,26.4,51.8,37.9,1006.4,2.7,228,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,8.0,3.0,SOFT,1.0,12,False,False,,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,7.0,3.0,SOFT,1.0,12,False,False,,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VAN,2,McLaren,7.0,3.0,SOFT,1.0,12,False,False,,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SIR,35,Williams,5.0,3.0,SOFT,1.0,12,False,False,,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,6.0,2.0,SOFT,1.0,12,False,False,,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,8.0,3.0,SOFT,1.0,12,False,False,,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,9.0,3.0,SOFT,3.0,21,True,False,139.793,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SAI,55,Renault,6.0,2.0,SOFT,1.0,12,False,False,,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,6.0,2.0,SOFT,1.0,12,False,False,,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,4.0,2.0,SOFT,1.0,12,False,False,,26.6,51.9,38.0,1006.4,2.1,243,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,9.0,3.0,SOFT,3.0,1,True,False,131.471,26.8,52.2,37.7,1006.4,2.2,252,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,6.0,2.0,SOFT,4.0,1,False,False,101.631,26.8,52.2,37.7,1006.4,2.2,252,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,9.0,3.0,SOFT,2.0,1,True,False,87.962,26.8,52.2,37.7,1006.4,2.2,252,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,8.0,3.0,SOFT,2.0,1,True,False,88.399,26.8,52.2,37.7,1006.4,2.2,252,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VAN,2,McLaren,8.0,3.0,SOFT,2.0,1,True,False,89.096,26.8,52.2,37.7,1006.4,2.2,252,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SIR,35,Williams,6.0,3.0,SOFT,2.0,1,True,False,89.252,26.8,52.2,37.7,1006.4,2.2,252,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,7.0,2.0,SOFT,2.0,1,True,False,88.279,26.8,52.2,37.7,1006.4,2.2,252,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,9.0,3.0,SOFT,2.0,1,True,False,88.249,26.8,52.2,37.7,1006.4,2.2,252,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SAI,55,Renault,7.0,2.0,SOFT,2.0,1,True,False,88.456,26.7,52.3,38.0,1006.4,2.2,244,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,7.0,2.0,SOFT,2.0,1,True,False,88.21,26.7,52.3,38.0,1006.4,2.2,244,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,5.0,2.0,SOFT,2.0,1,True,False,88.017,26.7,52.3,38.0,1006.4,2.2,244,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,10.0,3.0,SOFT,4.0,1,False,False,109.959,26.7,52.3,38.0,1006.4,2.2,244,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,10.0,3.0,SOFT,4.0,1,True,False,88.446,26.7,52.3,38.0,1006.4,2.2,244,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,10.0,3.0,SOFT,3.0,1,False,False,112.821,26.8,52.2,37.5,1006.3,2.7,240,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,9.0,3.0,SOFT,3.0,1,False,False,116.122,26.8,52.2,37.5,1006.3,2.7,240,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VAN,2,McLaren,9.0,3.0,SOFT,3.0,1,False,False,116.598,26.8,52.2,37.5,1006.3,2.7,240,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,8.0,2.0,SOFT,3.0,1,False,False,110.944,26.8,52.2,37.5,1006.3,2.7,240,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SIR,35,Williams,7.0,3.0,SOFT,3.0,1,False,False,123.359,26.8,52.2,37.5,1006.3,2.7,240,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,10.0,3.0,SOFT,3.0,1,False,False,115.02,26.8,52.2,37.5,1006.3,2.7,240,False,Silverstone,2018,10,British Grand Prix,conventional,False
+SAI,55,Renault,8.0,2.0,SOFT,3.0,1,False,False,113.498,26.7,52.2,37.6,1006.3,2.1,234,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,8.0,2.0,SOFT,3.0,1,False,False,113.659,26.7,52.2,37.6,1006.3,2.1,234,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,6.0,2.0,SOFT,3.0,1,False,False,109.539,26.7,52.2,37.6,1006.3,2.1,234,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,4.0,1.0,MEDIUM,4.0,12,False,False,,26.2,52.3,38.2,1006.4,1.1,269,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,4.0,2.0,SOFT,1.0,12,False,False,,26.2,52.3,38.2,1006.4,1.1,269,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,10.0,4.0,SOFT,4.0,1,False,False,,26.2,52.3,38.2,1006.4,1.1,269,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,8.0,3.0,SOFT,1.0,12,False,False,,26.2,52.3,38.2,1006.4,1.1,269,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,6.0,2.0,SOFT,1.0,12,False,False,,26.2,52.3,38.2,1006.4,1.1,269,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,8.0,3.0,SOFT,1.0,12,False,False,,26.5,52.8,36.9,1006.5,2.6,258,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,6.0,2.0,SOFT,1.0,1,False,False,,26.5,52.8,36.9,1006.5,2.6,258,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,9.0,3.0,SOFT,1.0,1,False,False,,26.5,52.8,36.9,1006.5,2.6,258,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,7.0,3.0,SOFT,1.0,1,False,False,,26.5,52.8,36.9,1006.5,2.6,258,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,5.0,2.0,SOFT,2.0,1,True,False,86.413,26.5,52.8,36.9,1006.5,2.6,258,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,5.0,2.0,SOFT,1.0,1,True,False,106.982,26.5,52.8,36.9,1006.5,2.6,258,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,11.0,3.0,SOFT,5.0,1,False,False,,26.5,52.8,36.5,1006.3,1.1,281,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,11.0,4.0,SOFT,5.0,1,True,False,89.057,26.5,52.8,36.5,1006.3,1.1,281,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,9.0,3.0,SOFT,2.0,1,True,False,86.372,26.5,52.8,36.5,1006.3,1.1,281,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,7.0,2.0,SOFT,2.0,1,True,False,87.013,26.5,52.8,36.5,1006.3,1.1,281,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,9.0,3.0,SOFT,2.0,1,True,False,86.483,26.5,52.8,36.5,1006.3,1.1,281,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,7.0,2.0,SOFT,2.0,1,True,False,87.369,26.5,52.8,36.5,1006.3,1.1,281,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,10.0,3.0,SOFT,2.0,1,True,False,87.928,26.5,52.8,36.5,1006.3,1.1,281,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,8.0,3.0,SOFT,2.0,1,True,False,88.139,26.2,51.5,37.8,1006.3,1.7,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,11.0,4.0,SOFT,1.0,1,False,False,,26.2,51.5,37.8,1006.3,1.7,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,6.0,2.0,SOFT,2.0,1,True,False,86.256,26.2,51.5,37.8,1006.3,1.7,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,9.0,3.0,SOFT,1.0,1,False,False,,26.2,51.5,37.8,1006.3,1.7,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,6.0,2.0,SOFT,3.0,1,False,False,112.502,26.2,51.5,37.8,1006.3,1.7,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,7.0,3.0,SOFT,1.0,1,False,False,,26.2,51.5,37.8,1006.3,1.7,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,12.0,4.0,SOFT,6.0,1,False,False,107.786,26.2,51.5,37.8,1006.3,1.7,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,12.0,4.0,SOFT,1.0,1,False,False,,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,10.0,3.0,SOFT,3.0,1,False,False,115.079,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,10.0,3.0,SOFT,3.0,1,False,False,110.153,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,8.0,2.0,SOFT,3.0,1,False,False,117.287,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,11.0,4.0,SOFT,3.0,1,False,False,,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,8.0,2.0,SOFT,3.0,1,False,False,115.906,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,11.0,4.0,SOFT,3.0,1,False,False,,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,12.0,4.0,SOFT,2.0,1,True,False,87.73,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,11.0,3.0,SOFT,3.0,1,False,False,115.645,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,10.0,3.0,SOFT,2.0,1,True,False,87.843,26.2,51.5,37.8,1006.3,2.1,235,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,9.0,3.0,SOFT,3.0,1,False,False,122.824,26.5,52.4,37.4,1006.3,2.4,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,7.0,2.0,SOFT,3.0,1,False,False,111.096,26.5,52.4,37.4,1006.3,2.4,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,8.0,3.0,SOFT,2.0,1,True,False,87.901,26.5,52.4,37.4,1006.3,2.4,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,13.0,4.0,SOFT,2.0,1,True,False,87.522,26.5,52.4,37.4,1006.3,2.4,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,12.0,4.0,SOFT,4.0,1,True,False,88.391,26.5,52.4,37.4,1006.3,2.4,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,12.0,4.0,SOFT,4.0,1,True,False,87.79,26.5,52.4,37.4,1006.3,2.4,251,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,11.0,3.0,SOFT,3.0,1,False,False,99.395,26.4,51.7,37.9,1006.4,2.5,237,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,13.0,4.0,SOFT,3.0,1,False,False,118.643,26.4,51.7,37.9,1006.4,2.5,237,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,9.0,3.0,SOFT,3.0,1,False,False,104.916,26.3,51.2,38.0,1006.4,1.9,328,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,14.0,4.0,SOFT,3.0,1,False,False,113.488,26.3,51.2,38.0,1006.4,1.9,328,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,13.0,4.0,SOFT,5.0,1,False,False,101.876,26.3,51.2,38.0,1006.4,1.9,328,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,13.0,4.0,SOFT,5.0,1,False,False,107.246,26.3,51.2,38.0,1006.4,1.9,328,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,8.0,3.0,SOFT,1.0,1,False,False,,26.4,52.4,37.8,1006.3,1.3,186,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,7.0,3.0,SOFT,1.0,1,False,False,,26.4,52.4,37.8,1006.3,1.3,186,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,12.0,4.0,SOFT,1.0,1,False,False,,26.4,52.4,37.8,1006.3,1.3,186,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,14.0,5.0,SOFT,1.0,1,False,False,,26.4,52.4,37.8,1006.3,1.3,186,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,10.0,4.0,SOFT,1.0,1,False,False,,26.4,52.4,37.8,1006.3,1.3,186,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,12.0,4.0,SOFT,1.0,1,False,False,,26.3,52.4,38.5,1006.3,1.7,195,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,14.0,5.0,SOFT,1.0,1,False,False,,26.3,52.4,38.5,1006.3,1.7,195,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,14.0,5.0,SOFT,1.0,1,False,False,,26.3,52.4,38.5,1006.3,1.7,195,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,15.0,5.0,SOFT,1.0,1,False,False,,26.3,52.4,38.5,1006.3,1.7,195,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,13.0,5.0,SOFT,1.0,1,False,False,,26.3,52.4,38.5,1006.3,1.7,195,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,10.0,4.0,SOFT,1.0,1,False,False,,26.3,52.4,38.5,1006.3,1.7,195,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,9.0,3.0,SOFT,2.0,1,False,False,91.87,26.3,52.4,38.5,1006.3,1.7,195,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,8.0,3.0,SOFT,2.0,1,True,False,88.041,26.4,52.5,38.2,1006.3,1.9,166,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,13.0,4.0,SOFT,2.0,1,True,False,88.115,26.4,52.5,38.2,1006.3,1.9,166,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,15.0,5.0,SOFT,2.0,1,True,False,87.913,26.4,52.5,38.2,1006.3,1.9,166,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,11.0,4.0,SOFT,2.0,1,True,False,88.498,26.4,52.5,38.2,1006.3,1.9,166,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,13.0,4.0,SOFT,2.0,1,True,False,88.065,26.4,52.5,38.2,1006.3,1.9,166,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,15.0,5.0,SOFT,2.0,1,True,False,89.097,26.4,52.5,38.2,1006.3,1.9,166,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,15.0,5.0,SOFT,2.0,1,True,False,87.919,26.4,52.5,38.2,1006.3,1.9,166,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,16.0,5.0,SOFT,2.0,1,True,False,87.702,26.4,52.5,38.2,1006.3,1.9,166,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,14.0,5.0,SOFT,2.0,1,True,False,88.343,26.6,52.8,37.2,1006.3,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,11.0,4.0,SOFT,2.0,1,True,False,88.14,26.6,52.8,37.2,1006.3,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,9.0,3.0,SOFT,3.0,1,False,False,108.012,26.6,52.8,37.2,1006.3,1.0,211,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,14.0,4.0,SOFT,3.0,1,False,False,118.038,26.8,52.9,36.2,1006.3,1.0,279,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,16.0,5.0,SOFT,3.0,1,False,False,115.133,26.8,52.9,36.2,1006.3,1.0,279,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ALO,14,McLaren,12.0,4.0,SOFT,3.0,1,False,False,113.991,26.8,52.9,36.2,1006.3,1.0,279,False,Silverstone,2018,10,British Grand Prix,conventional,False
+PER,11,Force India,14.0,4.0,SOFT,3.0,1,False,False,116.731,26.8,52.9,36.2,1006.3,1.0,279,False,Silverstone,2018,10,British Grand Prix,conventional,False
+ERI,9,Sauber,16.0,5.0,SOFT,3.0,1,False,False,116.263,26.8,52.9,36.2,1006.3,1.0,279,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,16.0,5.0,SOFT,3.0,1,False,False,120.682,26.8,52.9,36.2,1006.3,1.0,279,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,17.0,5.0,SOFT,3.0,1,False,False,118.167,26.8,52.9,36.2,1006.3,1.0,279,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GAS,10,Toro Rosso,15.0,5.0,SOFT,3.0,1,False,False,114.112,26.8,52.9,36.2,1006.3,1.0,279,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HUL,27,Renault,12.0,4.0,SOFT,3.0,1,False,False,,26.8,53.2,36.5,1006.3,0.9,202,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,11.0,3.0,SOFT,4.0,1,False,False,,27.0,53.5,35.1,1006.3,1.2,250,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,10.0,4.0,SOFT,1.0,1,False,False,,27.1,54.1,35.5,1006.3,1.1,205,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,10.0,4.0,SOFT,1.0,1,False,False,,27.1,54.1,35.5,1006.3,1.1,205,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,9.0,3.0,SOFT,1.0,1,False,False,,27.1,54.1,35.5,1006.3,1.1,205,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,9.0,3.0,SOFT,1.0,1,False,False,,27.1,54.1,35.5,1006.3,1.1,205,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,11.0,4.0,SOFT,1.0,1,False,False,,27.1,54.1,35.5,1006.3,1.1,205,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,15.0,5.0,SOFT,4.0,1,False,False,,27.1,54.1,35.5,1006.3,1.1,205,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,12.0,4.0,SOFT,1.0,1,True,False,86.296,27.4,54.1,35.0,1006.3,2.0,220,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,11.0,4.0,SOFT,2.0,1,True,False,85.993,27.4,54.1,35.0,1006.3,2.0,220,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,11.0,4.0,SOFT,2.0,1,True,False,86.217,27.4,54.1,35.0,1006.3,2.0,220,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,10.0,3.0,SOFT,2.0,1,True,False,86.684,27.4,54.1,35.0,1006.3,2.0,220,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,10.0,3.0,SOFT,2.0,1,True,False,87.099,27.4,54.1,35.0,1006.3,2.0,220,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,12.0,4.0,SOFT,2.0,1,True,False,85.936,27.4,54.1,35.0,1006.3,2.0,220,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,16.0,5.0,SOFT,5.0,1,True,False,88.768,27.3,53.9,34.5,1006.3,1.4,213,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,13.0,4.0,SOFT,2.0,1,False,False,109.046,27.3,53.2,34.8,1006.3,2.0,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,12.0,4.0,SOFT,3.0,1,False,False,107.72,27.3,53.2,34.8,1006.3,2.0,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,12.0,4.0,SOFT,3.0,1,False,False,108.7,27.3,53.2,34.8,1006.3,2.0,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,11.0,3.0,SOFT,3.0,1,False,False,104.083,27.3,53.2,34.8,1006.3,2.0,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,11.0,3.0,SOFT,3.0,1,False,False,102.81,27.3,53.2,34.8,1006.3,2.0,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,13.0,4.0,SOFT,3.0,1,False,False,109.842,27.3,53.2,34.8,1006.3,2.0,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,17.0,5.0,SOFT,6.0,1,False,False,100.411,27.3,53.2,34.8,1006.3,2.0,241,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,17.0,5.0,SOFT,4.0,1,False,False,,27.3,53.3,33.9,1006.3,2.5,210,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,18.0,6.0,SOFT,1.0,1,False,False,,27.3,53.3,33.9,1006.3,2.5,210,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,18.0,6.0,SOFT,1.0,1,True,False,87.244,27.0,53.3,34.8,1006.2,2.5,254,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,19.0,6.0,SOFT,2.0,1,True,False,87.455,26.7,53.2,35.9,1006.3,0.8,285,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,13.0,5.0,SOFT,1.0,1,False,False,,26.6,52.9,36.3,1006.3,1.0,228,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,13.0,5.0,SOFT,1.0,1,False,False,,26.6,52.9,36.3,1006.3,1.0,228,False,Silverstone,2018,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,19.0,6.0,SOFT,2.0,1,False,False,122.199,26.6,52.9,36.3,1006.3,1.0,228,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,18.0,6.0,SOFT,1.0,1,False,False,,26.6,52.9,36.3,1006.3,1.0,228,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,14.0,5.0,SOFT,1.0,1,False,False,,26.8,53.2,36.1,1006.3,1.5,245,False,Silverstone,2018,10,British Grand Prix,conventional,False
+GRO,8,Haas F1 Team,20.0,6.0,SOFT,3.0,1,False,False,120.866,26.8,53.2,36.1,1006.3,1.5,245,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,12.0,4.0,SOFT,1.0,1,False,False,,26.8,53.2,36.1,1006.3,1.5,245,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,12.0,4.0,SOFT,1.0,1,False,False,,26.8,53.2,36.1,1006.3,1.5,245,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,14.0,5.0,SOFT,1.0,1,False,False,,26.8,53.2,36.1,1006.3,1.5,245,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,17.0,6.0,SOFT,1.0,1,False,False,,26.8,53.2,36.1,1006.3,1.5,245,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,14.0,5.0,SOFT,2.0,1,True,False,85.892,26.8,53.2,36.1,1006.3,1.5,245,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,14.0,5.0,SOFT,2.0,1,True,False,86.288,26.8,53.2,36.1,1006.3,1.5,245,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,19.0,6.0,SOFT,2.0,1,True,False,88.194,27.0,53.4,35.4,1006.3,1.4,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,15.0,5.0,SOFT,2.0,1,True,False,85.988,27.0,53.4,35.4,1006.3,1.4,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,13.0,4.0,SOFT,2.0,1,True,False,86.602,27.0,53.4,35.4,1006.3,1.4,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,13.0,4.0,SOFT,2.0,1,True,False,87.344,27.0,53.4,35.4,1006.3,1.4,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,15.0,5.0,SOFT,2.0,1,True,False,85.99,27.0,53.4,35.4,1006.3,1.4,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,18.0,6.0,SOFT,2.0,1,True,False,87.879,27.0,53.4,35.4,1006.3,1.4,253,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,15.0,5.0,SOFT,3.0,1,True,False,124.727,27.0,54.1,35.8,1006.3,1.1,44,False,Silverstone,2018,10,British Grand Prix,conventional,False
+BOT,77,Mercedes,15.0,5.0,SOFT,3.0,1,False,False,121.875,27.0,54.1,35.8,1006.3,1.1,44,False,Silverstone,2018,10,British Grand Prix,conventional,False
+OCO,31,Force India,20.0,6.0,SOFT,3.0,1,False,False,119.889,27.2,54.3,35.6,1006.3,0.7,335,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VER,33,Red Bull Racing,14.0,4.0,SOFT,3.0,1,False,False,115.571,27.2,54.3,35.6,1006.3,0.7,335,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RIC,3,Red Bull Racing,14.0,4.0,SOFT,3.0,1,False,False,113.838,27.2,54.3,35.6,1006.3,0.7,335,False,Silverstone,2018,10,British Grand Prix,conventional,False
+VET,5,Ferrari,16.0,5.0,SOFT,3.0,1,True,False,127.55,27.2,54.3,35.6,1006.3,0.7,335,False,Silverstone,2018,10,British Grand Prix,conventional,False
+RAI,7,Ferrari,16.0,5.0,SOFT,3.0,1,True,False,119.223,27.2,54.3,35.6,1006.3,0.7,335,False,Silverstone,2018,10,British Grand Prix,conventional,False
+LEC,16,Sauber,19.0,6.0,SOFT,3.0,1,False,False,113.304,27.2,54.3,35.6,1006.3,0.7,335,False,Silverstone,2018,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,16.0,5.0,SOFT,4.0,1,False,False,,27.2,54.3,35.6,1006.3,0.7,335,False,Silverstone,2018,10,British Grand Prix,conventional,False

@@ -1,0 +1,270 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+STR,18,Aston Martin,1.0,1.0,SOFT,5.0,1,False,False,,22.1,37.5,54.9,968.3,2.3,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOT,77,Cadillac,1.0,1.0,SOFT,1.0,1,False,False,,22.1,37.5,54.9,968.3,2.3,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PER,11,Cadillac,1.0,1.0,SOFT,1.0,1,False,False,,22.1,37.5,54.9,968.3,2.3,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOT,77,Cadillac,2.0,1.0,SOFT,2.0,1,True,False,110.011,21.9,38.8,54.2,968.3,3.8,342,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PER,11,Cadillac,2.0,1.0,SOFT,2.0,1,True,False,109.307,21.9,38.8,54.2,968.3,3.8,342,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,2.0,1.0,SOFT,6.0,1,False,False,136.858,21.9,38.8,54.2,968.3,3.8,342,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,21.7,37.5,53.5,968.3,3.8,340,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,21.7,37.5,53.5,968.3,3.8,340,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,21.7,37.5,53.5,968.3,3.8,340,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,21.7,37.5,53.5,968.3,3.8,340,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,21.7,37.5,53.5,968.3,3.8,340,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALO,14,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,21.7,37.5,53.5,968.3,3.8,340,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,21.7,37.5,53.5,968.3,3.8,340,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,21.7,37.5,53.5,968.3,3.8,340,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALB,23,Williams,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOT,77,Cadillac,3.0,1.0,SOFT,3.0,1,True,False,143.179,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PER,11,Cadillac,3.0,1.0,SOFT,3.0,1,True,False,143.711,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,2.0,1.0,SOFT,2.0,1,True,False,107.539,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,2.0,1.0,SOFT,2.0,1,True,False,107.731,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,105.93,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,106.304,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,106.42,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALO,14,Aston Martin,2.0,1.0,SOFT,2.0,1,True,False,110.196,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,108.255,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,107.616,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,2.0,1.0,SOFT,2.0,1,True,False,106.191,21.8,37.8,54.5,968.3,2.5,318,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,2.0,1.0,SOFT,2.0,1,True,False,107.499,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALB,23,Williams,2.0,1.0,SOFT,2.0,1,True,False,107.701,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,3.0,2.0,SOFT,1.0,1,False,False,,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,2.0,1.0,SOFT,2.0,1,True,False,106.501,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,106.376,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,2.0,1.0,SOFT,2.0,1,True,False,106.609,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOT,77,Cadillac,4.0,1.0,SOFT,4.0,1,True,False,108.622,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PER,11,Cadillac,4.0,1.0,SOFT,4.0,1,True,False,108.504,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,2.0,1.0,SOFT,2.0,1,True,False,107.643,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,106.502,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,106.062,21.7,37.9,55.0,968.3,1.3,284,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,2.0,1.0,SOFT,2.0,1,True,False,106.48,21.7,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,2.0,1.0,SOFT,2.0,1,True,False,105.865,21.7,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,3.0,1.0,SOFT,3.0,1,False,False,148.592,21.7,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,3.0,1.0,SOFT,3.0,1,False,False,145.248,21.7,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,3.0,1.0,SOFT,3.0,1,False,False,137.95,21.7,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALO,14,Aston Martin,3.0,1.0,SOFT,3.0,1,False,False,136.484,21.7,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,133.783,21.7,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,3.0,1.0,SOFT,3.0,1,False,False,132.439,21.7,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,3.0,1.0,SOFT,3.0,1,False,False,146.307,21.7,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,4.0,2.0,SOFT,2.0,1,True,False,111.121,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,3.0,1.0,SOFT,3.0,1,False,False,,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,3.0,1.0,SOFT,3.0,1,False,False,141.08,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,3.0,1.0,SOFT,3.0,1,False,False,138.859,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,3.0,1.0,SOFT,3.0,1,False,False,135.396,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,3.0,1.0,SOFT,3.0,1,False,False,136.156,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOT,77,Cadillac,5.0,1.0,SOFT,5.0,1,False,False,131.218,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PER,11,Cadillac,5.0,1.0,SOFT,5.0,1,False,False,132.34,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,3.0,1.0,SOFT,3.0,1,False,False,144.576,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,3.0,1.0,SOFT,3.0,1,False,False,135.81,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALB,23,Williams,3.0,1.0,SOFT,3.0,1,False,False,,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,3.0,1.0,SOFT,3.0,1,False,False,141.404,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,3.0,1.0,SOFT,3.0,1,False,False,145.07,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,3.0,1.0,SOFT,3.0,1,False,False,144.694,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,3.0,1.0,SOFT,3.0,1,False,False,,21.6,37.8,54.8,968.3,3.3,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,5.0,2.0,SOFT,3.0,1,False,False,,21.7,38.0,54.8,968.3,3.2,324,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,4.0,2.0,SOFT,4.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,4.0,2.0,SOFT,4.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOT,77,Cadillac,6.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PER,11,Cadillac,6.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,4.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,4.0,2.0,SOFT,4.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,4.0,2.0,SOFT,4.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,4.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,4.0,2.0,SOFT,4.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALO,14,Aston Martin,4.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALB,23,Williams,4.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,4.0,2.0,SOFT,4.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,4.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,4.0,2.0,SOFT,4.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,4.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,4.0,2.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,6.0,3.0,SOFT,1.0,1,False,False,,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,5.0,2.0,SOFT,5.0,1,True,False,106.617,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,5.0,2.0,SOFT,5.0,1,True,False,106.185,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOT,77,Cadillac,7.0,2.0,SOFT,2.0,1,True,False,107.823,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PER,11,Cadillac,7.0,2.0,SOFT,2.0,1,True,False,107.971,21.3,37.0,54.2,968.4,2.3,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,5.0,2.0,SOFT,2.0,1,True,False,107.08,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,5.0,2.0,SOFT,5.0,1,True,False,106.425,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,4.0,2.0,SOFT,4.0,1,False,False,,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,5.0,2.0,SOFT,5.0,1,True,False,106.652,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,107.801,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,5.0,2.0,SOFT,2.0,1,True,False,107.113,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,5.0,2.0,SOFT,5.0,1,True,False,106.278,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALO,14,Aston Martin,5.0,2.0,SOFT,2.0,1,True,False,110.002,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALB,23,Williams,5.0,2.0,SOFT,2.0,1,True,False,107.12,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,5.0,2.0,SOFT,5.0,1,True,False,106.433,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,5.0,2.0,SOFT,2.0,1,True,False,106.893,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,5.0,2.0,SOFT,5.0,1,True,False,106.124,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,5.0,2.0,SOFT,2.0,1,True,False,106.679,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,5.0,2.0,SOFT,2.0,1,True,False,106.795,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,7.0,3.0,SOFT,2.0,1,True,False,110.177,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,6.0,2.0,SOFT,6.0,1,False,False,127.022,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,5.0,2.0,SOFT,5.0,1,True,False,107.118,21.2,37.7,55.9,968.4,2.8,303,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,6.0,2.0,SOFT,6.0,1,False,False,137.387,21.1,36.5,54.3,968.4,4.3,305,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOT,77,Cadillac,8.0,2.0,SOFT,3.0,1,False,False,136.677,21.1,36.5,54.3,968.4,4.3,305,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PER,11,Cadillac,8.0,2.0,SOFT,3.0,1,False,False,136.679,21.1,36.5,54.3,968.4,4.3,305,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,6.0,2.0,SOFT,3.0,1,False,False,142.027,21.1,36.5,54.3,968.4,4.3,305,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,6.0,2.0,SOFT,6.0,1,False,False,139.55,21.1,36.5,54.3,968.4,4.3,305,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,6.0,2.0,SOFT,6.0,1,False,False,138.934,21.1,36.5,54.3,968.4,4.3,305,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,148.304,21.1,36.5,54.3,968.4,4.3,305,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,6.0,2.0,SOFT,6.0,1,False,False,146.291,21.1,36.5,54.3,968.4,4.3,305,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALO,14,Aston Martin,6.0,2.0,SOFT,3.0,1,False,False,142.934,21.1,36.5,54.3,968.4,4.3,305,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,6.0,2.0,SOFT,6.0,1,False,False,133.332,21.3,36.6,54.5,968.3,1.6,325,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ALB,23,Williams,6.0,2.0,SOFT,3.0,1,False,False,145.768,21.3,36.6,54.5,968.3,1.6,325,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,6.0,2.0,SOFT,3.0,1,False,False,143.578,21.3,36.6,54.5,968.3,1.6,325,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,6.0,2.0,SOFT,6.0,1,False,False,140.034,21.3,36.6,54.5,968.3,1.6,325,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+OCO,31,Haas F1 Team,6.0,2.0,SOFT,3.0,1,False,False,181.108,21.3,36.6,54.5,968.3,1.6,325,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,6.0,2.0,SOFT,3.0,1,False,False,151.24,21.3,36.6,54.5,968.3,1.6,325,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,6.0,2.0,SOFT,3.0,1,False,False,149.69,21.3,36.6,54.5,968.3,1.6,325,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+STR,18,Aston Martin,8.0,3.0,SOFT,3.0,1,False,False,149.634,21.3,36.6,54.5,968.3,1.6,325,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,6.0,2.0,SOFT,6.0,1,False,False,135.477,20.7,36.6,54.5,968.3,1.6,325,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,7.0,3.0,SOFT,1.0,1,False,False,,20.9,35.2,55.9,968.5,3.1,306,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,7.0,3.0,SOFT,1.0,1,False,False,,20.9,35.2,55.9,968.5,3.1,306,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,7.0,3.0,SOFT,1.0,1,False,False,,20.9,35.2,55.9,968.5,3.1,306,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,7.0,3.0,SOFT,1.0,1,False,False,,20.9,35.2,55.9,968.5,3.1,306,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,7.0,3.0,SOFT,4.0,1,False,False,,20.9,35.2,55.9,968.5,3.1,306,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,7.0,3.0,SOFT,4.0,1,False,False,,20.9,34.6,56.3,968.6,1.4,308,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,4.0,2.0,SOFT,1.0,1,False,False,,20.9,34.6,56.3,968.6,1.4,308,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,4.0,2.0,SOFT,1.0,1,False,False,,20.9,34.6,56.3,968.6,1.4,308,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,7.0,3.0,SOFT,1.0,1,False,False,,20.9,34.6,56.3,968.6,1.4,308,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,7.0,3.0,SOFT,1.0,1,False,False,,20.9,34.6,56.3,968.6,1.4,308,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,7.0,3.0,SOFT,1.0,1,False,False,,20.9,34.6,56.3,968.6,1.4,308,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,7.0,3.0,SOFT,1.0,1,False,False,,20.9,34.6,56.3,968.6,1.4,308,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,4.0,2.0,SOFT,1.0,1,False,False,,20.9,34.6,56.3,968.6,1.4,308,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,7.0,3.0,SOFT,1.0,1,False,False,,20.7,34.5,57.3,968.5,1.3,271,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,7.0,3.0,SOFT,1.0,1,False,False,,20.7,34.5,57.3,968.5,1.3,271,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,7.0,3.0,SOFT,4.0,1,False,False,,20.7,34.5,57.3,968.5,1.3,271,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,8.0,3.0,SOFT,2.0,1,True,False,107.086,20.7,34.5,57.3,968.5,1.3,271,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,8.0,3.0,SOFT,2.0,1,True,False,106.382,20.7,34.5,57.3,968.5,1.3,271,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,8.0,3.0,SOFT,2.0,1,True,False,105.142,20.7,34.5,57.3,968.5,1.3,271,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,8.0,3.0,SOFT,2.0,1,True,False,105.689,20.7,34.5,57.3,968.5,1.3,271,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,8.0,3.0,SOFT,5.0,1,True,False,107.59,20.7,34.5,57.3,968.5,1.3,271,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,8.0,3.0,SOFT,5.0,1,True,False,107.403,20.7,34.5,57.3,968.5,1.3,271,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,5.0,2.0,SOFT,2.0,1,True,False,105.873,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,5.0,2.0,SOFT,2.0,1,True,False,105.589,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,8.0,3.0,SOFT,2.0,1,True,False,106.082,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,8.0,3.0,SOFT,2.0,1,True,False,105.671,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,8.0,3.0,SOFT,2.0,1,True,False,105.629,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,8.0,3.0,SOFT,2.0,1,True,False,106.161,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,5.0,2.0,SOFT,2.0,1,True,False,105.454,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,8.0,3.0,SOFT,2.0,1,True,False,105.397,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,8.0,3.0,SOFT,2.0,1,True,False,105.543,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,8.0,3.0,SOFT,5.0,1,True,False,106.715,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,9.0,3.0,SOFT,3.0,1,False,False,148.609,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,9.0,3.0,SOFT,3.0,1,False,False,147.387,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,9.0,3.0,SOFT,6.0,1,False,False,128.817,20.8,35.0,57.6,968.4,2.7,315,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,9.0,3.0,SOFT,3.0,1,False,False,144.216,20.8,34.7,55.6,968.5,2.1,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,9.0,3.0,SOFT,6.0,1,False,False,131.822,20.8,34.7,55.6,968.5,2.1,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,6.0,2.0,SOFT,3.0,1,False,False,131.906,20.8,34.7,55.6,968.5,2.1,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,6.0,2.0,SOFT,3.0,1,False,False,132.279,20.8,34.7,55.6,968.5,2.1,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,9.0,3.0,SOFT,3.0,1,False,False,176.166,20.8,34.7,55.6,968.5,2.1,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,9.0,3.0,SOFT,3.0,1,False,False,137.547,20.8,34.7,55.6,968.5,2.1,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,9.0,3.0,SOFT,3.0,1,False,False,136.948,20.8,34.7,55.6,968.5,2.1,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,9.0,3.0,SOFT,3.0,1,False,False,131.558,20.8,34.7,55.6,968.5,2.1,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,9.0,3.0,SOFT,6.0,1,False,False,122.697,20.8,34.2,56.1,968.4,1.4,285,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,6.0,2.0,SOFT,3.0,1,False,False,142.779,20.8,34.2,56.1,968.4,1.4,285,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,9.0,3.0,SOFT,3.0,1,False,False,144.66,20.8,34.2,56.1,968.4,1.4,285,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,9.0,3.0,SOFT,3.0,1,False,False,,20.8,34.2,56.1,968.4,1.4,285,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,9.0,3.0,SOFT,3.0,1,False,False,141.22,20.8,34.2,56.1,968.4,1.4,285,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,7.0,3.0,SOFT,1.0,1,False,False,,20.8,34.0,56.4,968.6,2.5,291,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,10.0,4.0,SOFT,1.0,1,False,False,,20.8,34.0,56.4,968.6,2.5,291,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,10.0,4.0,SOFT,1.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,10.0,4.0,SOFT,1.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,10.0,4.0,SOFT,4.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,10.0,4.0,SOFT,1.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,10.0,4.0,SOFT,4.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,10.0,4.0,SOFT,1.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,10.0,4.0,SOFT,1.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,10.0,4.0,SOFT,1.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,10.0,4.0,SOFT,1.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,10.0,4.0,SOFT,1.0,1,False,False,,20.5,34.7,56.8,968.5,2.4,326,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,105.823,20.7,34.3,56.3,968.6,1.8,312,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,11.0,4.0,SOFT,2.0,1,True,False,106.331,20.7,34.3,56.3,968.6,1.8,312,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,11.0,4.0,SOFT,2.0,1,True,False,106.392,20.7,34.3,56.3,968.6,1.8,312,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,11.0,4.0,SOFT,2.0,1,True,False,106.777,20.7,34.3,56.3,968.6,1.8,312,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,11.0,4.0,SOFT,5.0,1,True,False,105.897,20.5,33.9,56.5,968.4,2.9,327,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,11.0,4.0,SOFT,2.0,1,True,False,106.779,20.5,33.9,56.5,968.4,2.9,327,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,11.0,4.0,SOFT,5.0,1,True,False,105.691,20.5,33.9,56.5,968.4,2.9,327,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,11.0,4.0,SOFT,2.0,1,True,False,105.83,20.5,33.9,56.5,968.4,2.9,327,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,11.0,4.0,SOFT,2.0,1,True,False,106.671,20.5,33.9,56.5,968.4,2.9,327,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,11.0,4.0,SOFT,2.0,1,True,False,106.187,20.5,33.9,56.5,968.4,2.9,327,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,11.0,4.0,SOFT,2.0,1,True,False,106.12,20.5,33.9,56.5,968.4,2.9,327,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,11.0,4.0,SOFT,2.0,1,False,False,139.835,20.5,34.1,56.1,968.5,2.6,322,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,9.0,3.0,SOFT,3.0,12,False,False,136.279,20.5,34.1,56.1,968.5,2.6,322,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+GAS,10,Alpine,12.0,4.0,SOFT,3.0,12,False,False,144.666,20.3,33.7,57.0,968.4,1.9,291,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+COL,43,Alpine,12.0,4.0,SOFT,3.0,12,False,False,145.793,20.3,33.7,57.0,968.4,1.9,291,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+SAI,55,Williams,12.0,4.0,SOFT,3.0,12,False,False,143.292,20.3,33.7,57.0,968.4,1.9,291,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,12.0,4.0,SOFT,6.0,12,False,False,141.083,20.3,33.7,57.0,968.4,1.9,291,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BEA,87,Haas F1 Team,12.0,4.0,SOFT,3.0,12,False,False,140.155,20.3,33.7,57.0,968.4,1.9,291,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,12.0,4.0,SOFT,6.0,12,False,False,142.787,20.3,33.7,57.0,968.4,1.9,291,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,12.0,4.0,SOFT,3.0,12,False,False,141.668,20.3,33.7,57.0,968.4,1.9,291,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LAW,30,Racing Bulls,12.0,4.0,SOFT,3.0,12,False,False,,20.6,33.9,57.3,968.4,3.5,313,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,12.0,4.0,SOFT,3.0,12,False,False,149.855,20.6,33.9,57.3,968.4,3.5,313,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HUL,27,Audi,12.0,4.0,SOFT,3.0,12,False,False,,20.6,34.9,57.4,968.4,3.9,306,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,10.0,4.0,SOFT,4.0,21,False,False,,21.0,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,7.0,3.0,SOFT,1.0,12,False,False,,21.0,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,10.0,4.0,SOFT,1.0,12,False,False,,21.0,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,13.0,5.0,SOFT,1.0,21,False,False,,21.0,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,13.0,5.0,SOFT,4.0,21,False,False,,21.0,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,13.0,5.0,SOFT,1.0,21,False,False,,21.0,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,13.0,5.0,SOFT,4.0,21,False,False,,21.0,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,12.0,5.0,SOFT,3.0,12,False,False,,21.0,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,10.0,4.0,SOFT,1.0,12,False,False,,21.0,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,7.0,3.0,SOFT,1.0,12,False,False,,20.8,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,104.984,20.8,35.1,55.0,968.3,2.3,298,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,11.0,4.0,SOFT,5.0,1,False,False,123.555,21.1,34.8,55.8,968.4,3.0,300,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,11.0,4.0,SOFT,2.0,1,True,False,104.84,21.1,34.8,55.8,968.4,3.0,300,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,14.0,5.0,SOFT,2.0,1,True,False,105.156,21.1,34.8,55.8,968.4,3.0,300,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,14.0,5.0,SOFT,5.0,1,True,False,106.054,21.1,34.8,55.8,968.4,3.0,300,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,14.0,5.0,SOFT,2.0,1,True,False,104.893,21.1,34.8,55.8,968.4,3.0,300,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,14.0,5.0,SOFT,5.0,1,True,False,106.479,21.1,34.8,55.8,968.4,3.0,300,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,13.0,5.0,SOFT,4.0,1,True,False,105.462,21.1,34.8,55.8,968.4,3.0,300,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,11.0,4.0,SOFT,2.0,1,True,False,105.062,21.1,34.8,55.8,968.4,3.0,300,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,8.0,3.0,SOFT,2.0,1,True,False,104.801,21.1,34.8,55.8,968.4,3.0,300,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,9.0,3.0,SOFT,3.0,1,False,False,126.509,21.2,35.1,55.7,968.4,3.5,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,12.0,4.0,SOFT,3.0,1,False,False,125.44,21.2,35.1,55.7,968.4,3.5,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,15.0,5.0,SOFT,3.0,1,False,False,134.308,21.2,35.1,55.7,968.4,3.5,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,15.0,5.0,SOFT,6.0,1,False,False,131.147,21.2,35.1,55.7,968.4,3.5,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,15.0,5.0,SOFT,3.0,1,False,False,136.054,21.2,35.1,55.7,968.4,3.5,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,15.0,5.0,SOFT,6.0,1,False,False,135.433,21.2,35.1,55.7,968.4,3.5,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,14.0,5.0,SOFT,5.0,1,False,False,133.463,21.2,35.1,55.7,968.4,3.5,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,12.0,4.0,SOFT,3.0,1,False,False,129.302,21.2,35.1,55.7,968.4,3.5,319,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,9.0,3.0,SOFT,3.0,152,False,False,,20.4,35.3,56.3,968.5,2.8,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,12.0,5.0,SOFT,4.0,1,False,False,,20.8,34.7,56.7,968.4,3.2,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,10.0,4.0,SOFT,1.0,1,False,False,,20.8,34.7,56.7,968.4,3.2,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,13.0,5.0,SOFT,1.0,1,False,False,,20.8,34.7,56.7,968.4,3.2,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,16.0,6.0,SOFT,1.0,1,False,False,,20.8,34.7,56.7,968.4,3.2,317,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,16.0,6.0,SOFT,1.0,1,False,False,,20.7,35.0,55.8,968.5,2.7,321,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,16.0,6.0,SOFT,1.0,1,False,False,,20.7,35.0,55.8,968.5,2.7,321,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,13.0,5.0,SOFT,1.0,1,False,False,,20.7,35.0,55.8,968.5,2.7,321,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,16.0,6.0,SOFT,1.0,1,False,False,,20.7,35.0,55.8,968.5,2.7,321,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,15.0,6.0,SOFT,1.0,1,False,False,,20.7,35.0,55.8,968.5,2.7,321,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,10.0,4.0,SOFT,1.0,1,False,False,,20.7,35.0,55.8,968.5,2.7,321,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,11.0,4.0,SOFT,2.0,1,True,False,104.678,20.7,35.2,56.9,968.5,2.4,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAD,6,Red Bull Racing,13.0,5.0,SOFT,5.0,1,False,False,,20.7,35.2,56.9,968.5,2.4,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,14.0,5.0,SOFT,2.0,1,True,False,104.361,20.7,35.2,56.9,968.5,2.4,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,17.0,6.0,SOFT,2.0,1,True,False,105.628,20.7,35.2,56.9,968.5,2.4,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,17.0,6.0,SOFT,2.0,1,True,False,104.869,20.7,35.2,56.9,968.5,2.4,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,17.0,6.0,SOFT,2.0,1,True,False,104.921,20.7,35.2,56.9,968.5,2.4,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,14.0,5.0,SOFT,2.0,1,True,False,104.895,21.0,34.8,55.5,968.4,4.2,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,17.0,6.0,SOFT,2.0,1,True,False,105.143,21.0,34.8,55.5,968.4,4.2,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,16.0,6.0,SOFT,2.0,1,True,False,105.016,21.0,34.8,55.5,968.4,4.2,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+NOR,1,McLaren,11.0,4.0,SOFT,2.0,1,False,False,122.629,21.0,34.8,55.5,968.4,4.2,323,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+VER,3,Red Bull Racing,12.0,4.0,SOFT,3.0,1,False,False,148.382,20.8,34.7,55.5,968.4,3.5,307,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+BOR,5,Audi,18.0,6.0,SOFT,3.0,1,False,False,,20.8,34.7,55.5,968.4,3.5,307,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+ANT,12,Mercedes,15.0,5.0,SOFT,3.0,1,False,False,148.787,20.8,34.7,55.5,968.4,3.5,307,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+RUS,63,Mercedes,18.0,6.0,SOFT,3.0,1,False,False,,20.8,34.7,55.5,968.4,3.5,307,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+HAM,44,Ferrari,15.0,5.0,SOFT,3.0,1,False,False,,20.8,34.7,55.5,968.4,3.5,307,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,18.0,6.0,SOFT,3.0,1,False,False,,20.8,34.7,55.5,968.4,3.5,307,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+LIN,41,Racing Bulls,18.0,6.0,SOFT,3.0,1,False,False,,20.8,34.7,55.5,968.4,3.5,307,False,Spa,2026,10,Belgian Grand Prix,conventional,False
+PIA,81,McLaren,17.0,6.0,SOFT,3.0,1,False,False,,20.8,34.7,55.5,968.4,3.5,307,False,Spa,2026,10,Belgian Grand Prix,conventional,False

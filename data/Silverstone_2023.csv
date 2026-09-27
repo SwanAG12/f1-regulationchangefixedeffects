@@ -1,0 +1,387 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+RUS,63,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,1.0,1.0,INTERMEDIATE,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,1.0,1.0,INTERMEDIATE,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,1.0,1.0,INTERMEDIATE,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,1.0,1.0,INTERMEDIATE,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,1.0,1.0,INTERMEDIATE,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,79.0,999.5,3.4,204,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,80.0,999.5,3.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,80.0,999.5,3.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,80.0,999.5,3.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,80.0,999.5,3.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,80.0,999.5,3.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,1.0,1.0,SOFT,1.0,1,False,False,,20.8,21.6,80.0,999.5,3.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,95.257,20.8,21.6,80.0,999.5,3.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,2.0,1.0,SOFT,2.0,12,True,False,96.619,20.8,21.6,80.0,999.5,3.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,2.0,1.0,SOFT,2.0,12,True,False,99.388,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,2.0,1.0,SOFT,2.0,12,True,False,97.649,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,2.0,1.0,SOFT,2.0,12,True,False,96.716,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,2.0,1.0,SOFT,2.0,12,True,True,115.058,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,2.0,1.0,SOFT,2.0,12,True,False,95.357,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,2.0,1.0,SOFT,2.0,12,True,True,96.078,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,2.0,1.0,SOFT,2.0,12,True,False,97.631,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,2.0,1.0,SOFT,2.0,12,True,False,94.596,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,2.0,2.0,SOFT,1.0,12,False,True,129.195,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,2.0,1.0,SOFT,2.0,12,True,False,94.204,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,2.0,2.0,SOFT,1.0,12,False,False,136.37,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,2.0,1.0,SOFT,2.0,12,True,True,93.535,20.8,21.6,80.0,999.7,3.0,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,2.0,1.0,SOFT,2.0,12,True,False,103.884,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,2.0,1.0,SOFT,2.0,12,True,False,95.006,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,2.0,2.0,SOFT,1.0,12,False,False,148.024,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,2.0,2.0,SOFT,1.0,12,False,False,149.941,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,2.0,1.0,SOFT,2.0,12,True,False,96.009,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,3.0,1.0,SOFT,3.0,12,True,False,93.78,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,2.0,2.0,SOFT,1.0,12,False,False,,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,3.0,1.0,SOFT,3.0,21,True,False,94.136,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,3.0,1.0,SOFT,3.0,1,True,False,94.468,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,3.0,1.0,SOFT,3.0,1,True,False,91.437,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,3.0,1.0,SOFT,3.0,1,True,False,92.941,20.8,21.5,80.0,999.5,4.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,3.0,1.0,SOFT,3.0,1,True,False,93.653,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,3.0,1.0,SOFT,3.0,1,True,False,93.772,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,3.0,1.0,SOFT,3.0,1,True,True,94.531,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,3.0,1.0,SOFT,3.0,1,True,True,120.681,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,3.0,2.0,SOFT,2.0,1,True,False,98.523,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,3.0,2.0,SOFT,2.0,1,True,False,93.303,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,3.0,1.0,SOFT,3.0,1,True,False,126.387,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,92.145,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,3.0,1.0,SOFT,3.0,1,True,False,110.503,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,3.0,1.0,SOFT,3.0,1,True,False,93.782,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,94.186,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,3.0,2.0,SOFT,2.0,1,True,True,94.051,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,3.0,2.0,SOFT,2.0,1,True,False,94.05,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,3.0,1.0,SOFT,3.0,1,True,False,100.756,20.8,21.5,80.0,999.7,3.0,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,3.0,2.0,SOFT,2.0,1,True,False,93.901,20.8,21.5,80.0,999.5,3.0,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,4.0,1.0,SOFT,4.0,1,True,False,109.503,20.8,21.5,80.0,999.5,3.0,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,4.0,1.0,SOFT,4.0,1,True,False,104.289,20.8,21.5,80.0,999.5,3.0,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,4.0,1.0,SOFT,4.0,1,True,False,118.085,20.8,21.5,80.0,999.5,3.0,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,4.0,1.0,SOFT,4.0,1,True,False,92.413,20.8,21.5,80.0,999.5,3.0,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,4.0,1.0,SOFT,4.0,1,True,False,121.798,20.8,21.5,80.0,999.5,3.0,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,4.0,2.0,SOFT,3.0,1,True,False,92.541,20.8,21.5,80.0,999.5,3.0,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,4.0,2.0,SOFT,3.0,1,True,False,92.126,20.8,21.5,80.0,999.5,3.0,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,4.0,1.0,SOFT,4.0,1,True,False,92.822,20.8,21.5,80.0,999.5,3.0,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,4.0,1.0,SOFT,4.0,1,True,False,92.353,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,4.0,1.0,SOFT,4.0,1,True,False,128.573,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,4.0,1.0,SOFT,4.0,1,True,False,139.833,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,4.0,2.0,SOFT,3.0,1,True,False,92.567,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,4.0,1.0,SOFT,4.0,1,True,False,132.205,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,4.0,1.0,SOFT,4.0,1,True,False,133.975,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,4.0,1.0,SOFT,4.0,1,True,False,93.601,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,4.0,1.0,SOFT,4.0,1,True,False,121.038,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,5.0,1.0,SOFT,5.0,1,True,False,91.414,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,5.0,1.0,SOFT,5.0,1,True,False,92.577,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,4.0,2.0,SOFT,3.0,1,True,False,124.81,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,4.0,1.0,SOFT,4.0,1,True,False,140.533,20.8,21.5,80.0,999.7,2.5,209,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,4.0,1.0,SOFT,4.0,1,False,False,,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,4.0,2.0,SOFT,3.0,1,True,False,132.884,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,5.0,1.0,SOFT,5.0,1,True,False,92.389,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,5.0,1.0,SOFT,5.0,1,True,False,92.124,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,5.0,1.0,SOFT,5.0,1,True,False,90.73,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,5.0,1.0,SOFT,5.0,1,True,False,92.023,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,5.0,1.0,SOFT,5.0,1,True,False,91.844,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,5.0,1.0,SOFT,5.0,1,True,False,91.566,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,5.0,2.0,SOFT,4.0,1,True,False,119.533,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,5.0,1.0,SOFT,5.0,1,True,False,91.703,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,5.0,1.0,SOFT,5.0,1,True,False,91.602,20.8,21.5,80.0,999.5,2.7,216,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,5.0,2.0,SOFT,4.0,1,True,False,128.472,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,5.0,1.0,SOFT,5.0,1,True,False,122.384,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,5.0,1.0,SOFT,5.0,1,True,False,91.961,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,5.0,2.0,SOFT,4.0,1,True,False,121.113,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,5.0,2.0,SOFT,4.0,1,True,True,92.223,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,5.0,1.0,SOFT,5.0,1,True,False,92.162,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,5.0,1.0,SOFT,5.0,1,True,False,90.719,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,5.0,1.0,SOFT,5.0,1,True,False,131.16,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,6.0,1.0,SOFT,6.0,1,True,False,116.694,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,5.0,2.0,SOFT,4.0,1,True,False,92.378,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,6.0,1.0,SOFT,6.0,1,True,False,137.501,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,6.0,1.0,SOFT,6.0,1,False,False,99.455,20.8,21.4,81.0,999.5,3.5,185,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,6.0,1.0,SOFT,6.0,1,False,False,110.331,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,6.0,1.0,SOFT,6.0,1,True,False,121.062,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,6.0,2.0,SOFT,5.0,1,True,False,91.865,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,6.0,1.0,SOFT,6.0,1,False,False,101.26,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,6.0,2.0,SOFT,5.0,1,True,False,91.064,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,6.0,1.0,SOFT,6.0,1,True,False,91.504,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,6.0,1.0,SOFT,6.0,1,True,False,135.899,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,6.0,1.0,SOFT,6.0,1,False,False,125.787,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,6.0,1.0,SOFT,6.0,1,False,False,120.304,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,6.0,1.0,SOFT,6.0,1,False,False,117.992,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,6.0,2.0,SOFT,5.0,1,False,False,102.23,20.8,21.4,81.0,999.7,2.7,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,6.0,1.0,SOFT,6.0,1,True,False,123.704,20.8,21.5,81.0,999.7,2.5,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,6.0,1.0,SOFT,6.0,1,True,True,91.999,20.8,21.5,81.0,999.7,2.5,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,6.0,2.0,SOFT,5.0,1,True,False,114.217,20.8,21.5,81.0,999.7,2.5,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,7.0,1.0,SOFT,7.0,1,False,False,102.0,20.8,21.5,81.0,999.7,2.5,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,6.0,1.0,SOFT,6.0,1,True,False,127.043,20.8,21.5,81.0,999.7,2.5,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,7.0,1.0,SOFT,7.0,1,False,False,96.838,20.8,21.5,81.0,999.7,2.5,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,7.0,1.0,SOFT,7.0,1,False,False,118.297,20.8,21.5,81.0,999.7,2.5,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,6.0,1.0,SOFT,6.0,1,True,False,149.043,20.8,21.5,81.0,999.5,3.2,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,6.0,2.0,SOFT,5.0,1,True,False,148.006,20.8,21.5,81.0,999.5,3.2,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,7.0,1.0,SOFT,7.0,1,True,False,91.256,20.8,21.5,81.0,999.5,3.2,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,7.0,2.0,SOFT,6.0,1,True,False,120.151,20.8,21.5,81.0,999.5,3.2,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,7.0,1.0,SOFT,7.0,1,True,False,121.513,20.8,21.5,81.0,999.5,3.2,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,7.0,1.0,SOFT,7.0,1,True,False,92.383,20.8,21.5,81.0,999.5,3.2,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,7.0,2.0,SOFT,6.0,1,True,False,92.292,20.8,21.5,81.0,999.5,3.2,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,7.0,2.0,SOFT,6.0,1,True,False,144.233,20.8,21.5,81.0,999.5,3.2,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,7.0,1.0,SOFT,7.0,1,False,False,106.883,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,7.0,2.0,SOFT,1.0,1,False,False,135.503,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,7.0,2.0,SOFT,1.0,1,False,False,137.416,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,7.0,3.0,SOFT,1.0,1,False,False,136.726,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,7.0,1.0,SOFT,7.0,1,False,False,98.134,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,7.0,2.0,SOFT,1.0,1,False,False,149.444,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,7.0,2.0,SOFT,1.0,1,False,False,,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,7.0,2.0,SOFT,1.0,1,False,False,,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,7.0,1.0,SOFT,7.0,12,True,False,99.699,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,8.0,2.0,SOFT,7.0,12,True,False,91.153,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+MAG,20,Haas F1 Team,7.0,2.0,SOFT,6.0,12,False,False,102.667,20.8,21.5,81.0,999.5,2.7,193,True,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,8.0,2.0,SOFT,1.0,125,False,False,,20.8,21.9,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,8.0,2.0,SOFT,1.0,125,False,False,,20.8,21.9,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,8.0,3.0,SOFT,2.0,125,False,False,,20.8,21.9,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,8.0,2.0,SOFT,1.0,125,False,False,,20.8,21.9,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,8.0,2.0,SOFT,1.0,125,False,False,,20.8,21.9,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,8.0,2.0,SOFT,2.0,125,False,False,,20.8,21.9,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,8.0,2.0,SOFT,2.0,125,False,False,,20.8,21.9,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,8.0,2.0,SOFT,2.0,125,False,False,,20.8,21.9,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,8.0,2.0,SOFT,2.0,125,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,7.0,2.0,SOFT,1.0,125,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,8.0,2.0,SOFT,7.0,125,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,8.0,2.0,SOFT,2.0,125,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,8.0,1.0,SOFT,8.0,125,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,8.0,2.0,SOFT,7.0,125,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,9.0,2.0,SOFT,8.0,251,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,8.0,1.0,SOFT,8.0,125,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,8.0,1.0,SOFT,8.0,251,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,8.0,1.0,SOFT,8.0,125,False,False,,20.8,21.9,82.0,999.5,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,9.0,3.0,SOFT,2.0,1,False,False,,20.8,21.9,81.0,999.7,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,9.0,3.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.7,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,9.0,4.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.7,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,9.0,3.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.7,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,9.0,3.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.7,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,9.0,3.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.7,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,9.0,3.0,SOFT,3.0,1,False,False,,20.8,21.9,81.0,999.7,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,9.0,3.0,SOFT,3.0,1,False,False,,20.8,21.9,81.0,999.7,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,9.0,3.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.7,2.5,199,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,8.0,3.0,SOFT,7.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,9.0,3.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,9.0,3.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,8.0,2.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,9.0,2.0,SOFT,9.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,9.0,2.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,9.0,2.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,10.0,3.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,9.0,3.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,9.0,2.0,SOFT,1.0,1,False,False,,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,10.0,3.0,SOFT,3.0,1,True,False,89.968,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,10.0,3.0,SOFT,2.0,1,True,False,89.466,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,10.0,4.0,SOFT,2.0,1,True,False,89.873,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,10.0,3.0,SOFT,2.0,1,True,False,89.798,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,10.0,3.0,SOFT,2.0,1,True,False,90.123,20.8,21.9,81.0,999.5,2.5,212,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,10.0,3.0,SOFT,2.0,1,True,False,90.513,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,10.0,3.0,SOFT,4.0,1,True,False,88.917,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,10.0,3.0,SOFT,4.0,1,True,False,89.874,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,10.0,3.0,SOFT,2.0,1,True,False,89.448,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,9.0,3.0,SOFT,8.0,1,True,False,89.949,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,10.0,3.0,SOFT,2.0,1,True,False,89.603,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,10.0,3.0,SOFT,2.0,1,True,False,90.025,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,9.0,2.0,SOFT,2.0,1,True,False,89.412,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,10.0,2.0,SOFT,10.0,1,True,False,89.428,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,10.0,2.0,SOFT,2.0,1,True,False,89.415,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,10.0,2.0,SOFT,2.0,1,True,False,89.7,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,11.0,3.0,SOFT,2.0,1,True,False,89.865,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,10.0,3.0,SOFT,2.0,1,True,False,89.143,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,10.0,2.0,SOFT,2.0,1,True,False,89.533,20.8,21.8,81.0,999.5,2.7,191,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PER,11,Red Bull Racing,11.0,3.0,SOFT,4.0,12,False,False,116.005,20.8,21.7,81.0,999.7,3.4,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,11.0,3.0,SOFT,3.0,12,False,False,114.929,20.8,21.7,81.0,999.7,3.4,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,11.0,4.0,SOFT,3.0,12,False,False,112.346,20.8,21.7,81.0,999.7,3.4,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ZHO,24,Alfa Romeo,11.0,3.0,SOFT,3.0,12,False,False,116.677,20.8,21.7,81.0,999.7,3.4,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+DEV,21,AlphaTauri,11.0,3.0,SOFT,3.0,12,False,False,112.425,20.8,21.7,81.0,999.7,3.4,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,11.0,3.0,SOFT,5.0,12,False,False,109.798,20.8,21.7,81.0,999.7,3.4,200,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,11.0,3.0,SOFT,5.0,12,False,False,112.003,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,11.0,3.0,SOFT,3.0,12,False,False,113.683,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,10.0,3.0,SOFT,9.0,12,False,False,114.013,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,11.0,3.0,SOFT,3.0,12,False,False,111.034,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+TSU,22,AlphaTauri,11.0,3.0,SOFT,3.0,12,False,False,116.707,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,11.0,2.0,SOFT,11.0,12,False,False,112.522,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,11.0,2.0,SOFT,3.0,12,False,False,113.44,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,11.0,2.0,SOFT,3.0,12,False,False,116.576,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,10.0,2.0,SOFT,3.0,12,False,False,124.042,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,12.0,3.0,SOFT,3.0,12,False,False,118.5,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,11.0,3.0,SOFT,3.0,12,False,False,117.454,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,11.0,2.0,SOFT,3.0,12,False,False,120.187,20.8,21.5,81.0,999.5,2.5,198,False,Silverstone,2023,10,British Grand Prix,conventional,False
+BOT,77,Alfa Romeo,11.0,3.0,SOFT,3.0,12,False,False,,20.7,21.5,81.0,999.5,2.7,196,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,11.0,4.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,12.0,4.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,12.0,5.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,12.0,4.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,12.0,4.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,12.0,4.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,12.0,4.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,13.0,4.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,11.0,3.0,SOFT,4.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,12.0,3.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,12.0,3.0,SOFT,1.0,21,False,False,,20.8,21.5,80.0,999.5,2.7,190,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,12.0,3.0,SOFT,4.0,21,False,False,,20.8,21.8,81.0,999.7,3.0,224,True,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,12.0,3.0,SOFT,1.0,21,False,False,,20.8,21.8,81.0,999.7,3.0,224,True,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,12.0,4.0,SOFT,1.0,21,False,False,,20.8,21.8,81.0,999.7,3.0,224,True,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,12.0,4.0,SOFT,2.0,1,True,False,90.66,20.8,21.8,81.0,999.7,3.0,224,True,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,13.0,4.0,SOFT,2.0,1,True,False,90.716,20.8,21.8,81.0,999.7,3.0,224,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,13.0,5.0,SOFT,2.0,1,True,True,91.104,20.8,21.8,81.0,999.7,3.0,224,True,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,13.0,4.0,SOFT,2.0,1,True,False,90.749,20.8,21.8,81.0,999.7,3.0,224,True,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,13.0,4.0,SOFT,2.0,1,True,False,89.934,20.8,21.8,81.0,999.7,3.0,224,True,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,13.0,4.0,SOFT,2.0,1,True,False,89.427,20.8,21.8,81.0,999.7,3.0,224,True,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,13.0,4.0,SOFT,2.0,1,True,False,90.025,21.0,21.8,81.0,999.5,2.5,194,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,14.0,4.0,SOFT,2.0,1,True,False,89.589,21.0,21.8,81.0,999.5,2.5,194,True,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,12.0,3.0,SOFT,5.0,1,True,False,89.829,21.0,21.8,81.0,999.5,2.5,194,True,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,13.0,3.0,SOFT,2.0,1,True,False,89.615,21.0,21.8,81.0,999.5,2.5,194,True,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,13.0,3.0,SOFT,2.0,1,True,False,89.505,21.0,21.8,81.0,999.5,2.5,194,True,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,13.0,3.0,SOFT,5.0,1,True,False,90.217,21.0,21.8,81.0,999.5,2.5,194,True,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,13.0,3.0,SOFT,2.0,1,True,False,89.471,21.0,21.8,81.0,999.5,2.5,194,True,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,13.0,4.0,SOFT,2.0,1,True,False,89.566,21.0,21.8,81.0,999.5,2.5,194,True,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,13.0,4.0,SOFT,3.0,1,True,False,115.319,21.1,23.3,81.0,999.5,2.9,202,True,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,14.0,4.0,SOFT,3.0,1,True,False,116.439,21.1,23.3,81.0,999.5,2.9,202,True,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,14.0,4.0,SOFT,3.0,1,False,False,102.038,21.1,23.3,81.0,999.5,2.9,202,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,14.0,5.0,SOFT,3.0,1,True,False,116.808,21.1,23.3,81.0,999.5,2.9,202,True,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,13.0,3.0,SOFT,6.0,1,False,False,98.02,21.1,23.3,81.0,999.5,2.9,202,True,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,14.0,4.0,SOFT,3.0,1,True,False,115.28,21.1,23.3,81.0,999.5,2.9,202,True,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,14.0,4.0,SOFT,3.0,1,True,False,124.11,21.1,23.3,81.0,999.5,2.9,202,True,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,14.0,4.0,SOFT,3.0,1,True,False,123.778,21.3,23.7,81.0,999.5,2.5,201,True,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,14.0,3.0,SOFT,6.0,1,False,False,96.589,21.3,23.7,81.0,999.5,2.5,201,True,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,14.0,3.0,SOFT,3.0,1,True,False,118.663,21.3,23.7,81.0,999.5,2.5,201,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,15.0,4.0,SOFT,3.0,1,True,False,138.045,21.3,23.7,81.0,999.5,2.5,201,True,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,14.0,3.0,SOFT,3.0,1,True,False,130.292,21.3,23.7,81.0,999.5,2.5,201,True,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,14.0,3.0,SOFT,3.0,1,True,False,141.769,21.3,23.7,81.0,999.5,2.5,201,True,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,14.0,4.0,SOFT,3.0,1,True,False,131.473,21.3,23.7,81.0,999.5,2.5,201,True,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,14.0,4.0,SOFT,4.0,1,True,False,89.052,21.3,23.7,81.0,999.5,2.5,201,True,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,15.0,4.0,SOFT,4.0,1,True,True,89.704,21.5,24.0,80.0,999.5,2.9,204,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,15.0,5.0,SOFT,4.0,1,True,True,89.811,21.5,24.0,80.0,999.5,2.9,204,True,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,15.0,4.0,SOFT,4.0,1,True,False,89.247,21.5,24.0,80.0,999.5,2.9,204,True,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,15.0,4.0,SOFT,4.0,1,True,False,89.152,21.5,24.0,80.0,999.5,2.9,204,True,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,15.0,4.0,SOFT,4.0,1,False,False,90.292,21.5,24.0,80.0,999.5,2.9,204,True,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,15.0,3.0,SOFT,4.0,1,False,False,92.755,21.5,24.0,80.0,999.5,2.9,204,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,16.0,4.0,SOFT,4.0,1,True,False,89.396,21.5,24.0,80.0,999.5,2.9,204,True,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,15.0,3.0,SOFT,4.0,1,False,False,94.937,21.6,24.8,81.0,999.5,2.7,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,15.0,3.0,SOFT,4.0,1,True,False,108.425,21.6,24.8,81.0,999.5,2.7,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,15.0,4.0,SOFT,5.0,1,False,False,101.084,21.6,24.8,81.0,999.5,2.7,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,15.0,4.0,SOFT,4.0,1,True,False,109.688,21.6,24.8,81.0,999.5,2.7,200,True,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,16.0,4.0,SOFT,5.0,1,False,False,112.827,21.7,25.0,79.0,999.5,2.7,225,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,16.0,5.0,SOFT,5.0,1,False,False,107.874,21.7,25.0,79.0,999.5,2.7,225,True,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,16.0,4.0,SOFT,5.0,1,False,False,100.559,21.7,25.0,79.0,999.5,2.7,225,True,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,16.0,4.0,SOFT,5.0,1,False,False,110.589,21.7,25.0,79.0,999.5,2.7,225,True,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,15.0,4.0,SOFT,1.0,1,False,False,,21.7,25.0,79.0,999.5,2.7,225,True,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,17.0,4.0,SOFT,5.0,1,False,False,100.17,21.7,25.0,79.0,999.5,2.7,225,True,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,14.0,4.0,SOFT,1.0,1,False,False,,21.7,25.0,79.0,999.5,2.7,225,True,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,16.0,3.0,SOFT,5.0,1,True,False,88.57,21.8,25.0,79.0,999.4,2.5,192,True,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,16.0,4.0,SOFT,5.0,1,True,False,88.567,21.8,25.0,79.0,999.4,2.5,192,True,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,16.0,5.0,SOFT,1.0,1,False,False,,21.8,25.0,79.0,999.4,2.5,192,True,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,16.0,4.0,SOFT,2.0,1,True,False,88.545,21.8,25.0,79.0,999.4,2.5,192,True,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,15.0,4.0,SOFT,2.0,1,True,False,88.782,21.9,24.9,77.0,999.5,3.2,202,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,17.0,3.0,SOFT,6.0,1,False,False,95.377,21.9,24.9,77.0,999.5,3.2,202,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,17.0,5.0,SOFT,2.0,1,True,False,88.042,21.9,24.9,77.0,999.5,3.2,202,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,17.0,4.0,SOFT,6.0,1,False,False,102.065,21.9,24.9,77.0,999.5,3.2,202,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,17.0,4.0,SOFT,3.0,1,False,False,103.463,21.8,24.9,77.0,999.4,3.5,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,17.0,5.0,SOFT,4.0,1,False,False,,21.8,24.9,77.0,999.4,3.5,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,16.0,4.0,SOFT,3.0,1,False,False,97.652,21.8,24.9,77.0,999.4,3.5,193,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,18.0,5.0,SOFT,1.0,1,False,False,,22.0,24.8,76.0,999.4,3.4,194,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,17.0,5.0,SOFT,2.0,1,False,False,,22.0,24.8,76.0,999.4,3.4,194,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,17.0,6.0,SOFT,3.0,1,False,False,,22.0,24.8,76.0,999.4,3.4,194,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,16.0,5.0,SOFT,1.0,1,False,False,,22.0,24.8,76.0,999.4,3.4,194,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,18.0,4.0,SOFT,1.0,1,False,False,129.886,22.0,24.8,76.0,999.4,3.4,194,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,18.0,5.0,SOFT,1.0,1,False,False,125.798,22.0,24.8,76.0,999.4,3.4,194,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,18.0,5.0,SOFT,3.0,1,False,False,,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,17.0,5.0,SOFT,3.0,1,False,False,,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,18.0,5.0,SOFT,5.0,1,True,False,88.361,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,16.0,4.0,SOFT,1.0,1,False,False,,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,15.0,5.0,SOFT,1.0,1,False,False,,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,19.0,5.0,SOFT,2.0,1,True,False,88.265,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,18.0,5.0,SOFT,3.0,1,True,False,88.067,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,16.0,4.0,SOFT,1.0,1,False,False,,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,18.0,6.0,SOFT,4.0,1,True,False,89.031,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,17.0,5.0,SOFT,2.0,1,True,False,88.368,22.0,24.8,78.0,999.2,3.5,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,18.0,5.0,SOFT,1.0,1,False,False,144.558,22.0,24.8,77.0,999.2,2.7,228,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,17.0,5.0,SOFT,1.0,1,False,False,132.563,22.0,24.8,77.0,999.2,2.7,228,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,19.0,4.0,SOFT,2.0,1,True,False,87.702,22.0,24.8,77.0,999.2,2.7,228,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,19.0,5.0,SOFT,2.0,1,True,False,87.845,22.0,24.8,77.0,999.2,2.7,228,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,19.0,5.0,SOFT,4.0,1,True,True,88.783,22.0,24.8,77.0,999.2,2.7,228,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,18.0,5.0,SOFT,4.0,1,True,False,88.935,22.0,24.8,77.0,999.2,2.7,228,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,17.0,4.0,SOFT,2.0,1,True,False,88.956,22.0,24.8,77.0,999.2,2.7,228,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,16.0,5.0,SOFT,2.0,1,True,False,88.896,22.0,24.8,77.0,999.2,2.7,228,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,19.0,5.0,SOFT,6.0,1,False,False,96.411,22.0,24.8,77.0,999.2,2.7,228,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,17.0,4.0,SOFT,2.0,1,True,False,88.751,22.0,24.7,77.0,999.2,2.2,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,20.0,5.0,SOFT,3.0,1,False,False,113.657,22.0,24.7,77.0,999.2,2.2,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,19.0,5.0,SOFT,2.0,1,False,False,92.419,22.0,24.7,77.0,999.2,2.2,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,19.0,5.0,SOFT,4.0,1,False,False,118.509,22.0,24.7,77.0,999.2,2.2,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,18.0,5.0,SOFT,2.0,1,False,False,92.019,22.0,24.7,77.0,999.2,2.2,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAR,2,Williams,19.0,6.0,SOFT,5.0,1,False,False,118.088,22.0,24.7,77.0,999.2,2.2,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,18.0,5.0,SOFT,3.0,1,False,False,117.532,22.0,24.7,77.0,999.2,2.2,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,20.0,4.0,SOFT,3.0,1,False,False,102.04,22.0,24.7,77.0,999.2,2.2,221,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,20.0,5.0,SOFT,3.0,1,False,False,112.362,22.0,24.7,77.0,999.2,2.5,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,20.0,5.0,SOFT,5.0,1,False,False,104.768,22.0,24.7,77.0,999.2,2.5,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+STR,18,Aston Martin,19.0,5.0,SOFT,5.0,1,False,False,107.826,22.0,24.7,77.0,999.2,2.5,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HUL,27,Haas F1 Team,17.0,5.0,SOFT,3.0,1,False,False,105.616,22.0,24.7,77.0,999.2,2.5,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+OCO,31,Alpine,18.0,4.0,SOFT,3.0,1,False,False,121.741,22.0,24.7,77.0,999.2,2.5,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,18.0,4.0,SOFT,3.0,1,False,False,115.267,22.1,24.9,75.0,999.2,2.5,224,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,19.0,6.0,SOFT,3.0,1,False,False,,22.1,24.6,73.0,999.0,2.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,20.0,6.0,SOFT,3.0,1,False,False,,22.1,24.6,73.0,999.0,2.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,20.0,6.0,SOFT,4.0,1,False,False,,22.1,24.6,73.0,999.0,2.2,219,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,21.0,6.0,SOFT,5.0,1,False,False,,22.1,24.5,74.0,999.0,3.2,195,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,19.0,6.0,SOFT,2.0,1,False,False,,22.1,24.5,74.0,999.0,3.2,195,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,21.0,5.0,SOFT,1.0,1,False,False,,22.1,24.5,74.0,999.0,3.2,195,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,20.0,6.0,SOFT,7.0,1,False,False,,22.1,24.5,74.0,999.0,3.2,195,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,21.0,6.0,SOFT,4.0,1,False,False,,22.1,24.5,74.0,999.0,3.2,195,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,21.0,6.0,SOFT,4.0,1,False,False,,22.1,24.5,74.0,999.0,3.2,195,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,19.0,5.0,SOFT,4.0,1,False,False,,22.1,24.5,74.0,999.0,3.2,195,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,20.0,6.0,SOFT,4.0,1,True,False,88.184,22.2,23.7,72.0,999.0,3.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,21.0,6.0,SOFT,4.0,1,True,False,87.717,22.2,23.7,72.0,999.0,3.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,21.0,6.0,SOFT,5.0,1,True,False,87.911,22.2,23.7,72.0,999.0,3.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,22.0,6.0,SOFT,6.0,1,True,False,88.414,22.2,23.7,72.0,999.0,3.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,20.0,6.0,SOFT,3.0,1,True,False,87.841,22.2,23.7,72.0,999.0,3.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,22.0,5.0,SOFT,2.0,1,True,False,87.084,22.2,23.7,72.0,999.0,3.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,21.0,6.0,SOFT,8.0,1,True,False,87.76,22.2,23.7,72.0,999.0,3.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,22.0,6.0,SOFT,5.0,1,True,False,87.832,22.2,23.7,72.0,999.0,3.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,22.0,6.0,SOFT,5.0,1,True,False,87.756,22.3,23.7,71.0,998.9,1.8,263,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,20.0,5.0,SOFT,5.0,1,True,False,88.047,22.3,23.7,71.0,998.9,1.8,263,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,21.0,6.0,SOFT,5.0,1,False,False,101.099,22.3,23.7,71.0,998.9,1.8,263,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,22.0,6.0,SOFT,5.0,1,False,False,99.69,22.3,24.4,73.0,999.0,2.0,220,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,22.0,6.0,SOFT,6.0,1,False,False,105.573,22.3,24.4,73.0,999.0,2.0,220,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,23.0,6.0,SOFT,7.0,1,False,False,103.686,22.3,24.4,73.0,999.0,2.0,220,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,21.0,6.0,SOFT,4.0,1,False,False,105.189,22.3,24.4,73.0,999.0,2.0,220,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,23.0,5.0,SOFT,3.0,1,False,False,99.142,22.3,24.4,73.0,999.0,2.0,220,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,22.0,6.0,SOFT,9.0,1,False,False,98.434,22.3,24.4,73.0,999.0,2.0,220,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,23.0,6.0,SOFT,6.0,1,False,False,103.098,22.3,24.4,73.0,999.0,2.0,220,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,23.0,6.0,SOFT,6.0,1,False,False,111.143,22.3,24.4,73.0,999.0,2.0,220,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,21.0,5.0,SOFT,6.0,1,False,False,107.376,22.3,24.4,73.0,999.0,2.0,220,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,23.0,7.0,SOFT,1.0,1,False,False,,22.7,26.5,71.0,998.9,2.5,225,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,24.0,7.0,SOFT,1.0,1,False,False,,22.7,26.5,72.0,998.7,2.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,22.0,7.0,SOFT,1.0,1,False,False,,22.7,26.5,72.0,998.7,2.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,22.0,7.0,SOFT,1.0,1,False,False,,22.7,26.5,72.0,998.7,2.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,23.0,7.0,SOFT,1.0,1,False,False,,22.7,26.5,72.0,998.7,2.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,24.0,7.0,SOFT,1.0,1,False,False,,22.7,26.5,72.0,998.7,2.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,24.0,7.0,SOFT,1.0,1,False,False,,22.7,26.5,72.0,998.7,2.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,24.0,6.0,SOFT,1.0,1,False,False,,22.7,26.5,72.0,998.7,2.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,22.0,6.0,SOFT,1.0,1,False,False,,22.7,26.5,72.0,998.7,2.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,23.0,7.0,SOFT,1.0,1,False,False,,22.7,26.5,72.0,998.7,2.2,237,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,24.0,7.0,SOFT,2.0,1,True,False,87.136,22.8,26.3,71.0,998.9,2.4,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,25.0,7.0,SOFT,2.0,1,True,False,87.148,22.8,26.3,71.0,998.9,2.4,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,23.0,7.0,SOFT,2.0,1,True,False,87.155,22.8,26.3,71.0,998.9,2.4,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,23.0,7.0,SOFT,2.0,1,True,False,87.659,22.8,26.3,71.0,998.9,2.4,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,24.0,7.0,SOFT,2.0,1,True,False,87.211,22.8,26.3,71.0,998.9,2.4,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,25.0,7.0,SOFT,2.0,1,True,False,86.961,22.8,26.3,71.0,998.9,2.4,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,25.0,7.0,SOFT,2.0,1,True,False,87.092,22.8,26.3,71.0,998.9,2.4,217,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,25.0,6.0,SOFT,2.0,1,True,False,86.72,22.8,26.9,70.0,998.7,3.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,23.0,6.0,SOFT,2.0,1,True,False,87.689,22.8,26.9,70.0,998.7,3.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,24.0,7.0,SOFT,2.0,1,True,False,87.53,22.8,26.9,70.0,998.7,3.0,206,False,Silverstone,2023,10,British Grand Prix,conventional,False
+LEC,16,Ferrari,25.0,7.0,SOFT,3.0,1,False,False,115.169,22.8,26.9,69.0,998.7,2.9,192,False,Silverstone,2023,10,British Grand Prix,conventional,False
+RUS,63,Mercedes,24.0,7.0,SOFT,3.0,1,False,False,,22.8,26.9,69.0,998.7,2.9,192,False,Silverstone,2023,10,British Grand Prix,conventional,False
+SAI,55,Ferrari,26.0,7.0,SOFT,3.0,1,False,False,116.074,22.8,26.9,69.0,998.7,2.9,192,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALO,14,Aston Martin,24.0,7.0,SOFT,3.0,1,False,False,,22.8,26.9,69.0,998.7,2.9,192,False,Silverstone,2023,10,British Grand Prix,conventional,False
+NOR,4,McLaren,26.0,7.0,SOFT,3.0,1,False,False,,22.8,26.9,69.0,998.7,2.9,192,False,Silverstone,2023,10,British Grand Prix,conventional,False
+PIA,81,McLaren,26.0,7.0,SOFT,3.0,1,False,False,,22.8,26.9,69.0,998.7,2.9,192,False,Silverstone,2023,10,British Grand Prix,conventional,False
+VER,1,Red Bull Racing,26.0,6.0,SOFT,3.0,1,False,False,,22.8,26.9,69.0,998.7,2.9,192,False,Silverstone,2023,10,British Grand Prix,conventional,False
+HAM,44,Mercedes,25.0,7.0,SOFT,3.0,1,False,False,120.743,22.8,26.9,69.0,998.7,2.9,192,False,Silverstone,2023,10,British Grand Prix,conventional,False
+GAS,10,Alpine,24.0,6.0,SOFT,3.0,1,False,False,113.662,22.7,26.9,70.0,998.7,3.2,201,False,Silverstone,2023,10,British Grand Prix,conventional,False
+ALB,23,Williams,25.0,7.0,SOFT,3.0,1,False,False,125.521,22.7,26.9,70.0,998.7,3.2,201,False,Silverstone,2023,10,British Grand Prix,conventional,False

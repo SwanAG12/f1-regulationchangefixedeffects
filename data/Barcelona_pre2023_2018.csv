@@ -1,0 +1,308 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+STR,18,Williams,1.0,,nan,,,False,False,,18.7,27.8,76.9,999.6,2.0,194,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,1.0,,nan,,,False,False,,18.7,27.7,76.9,999.6,2.7,206,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,1.0,,nan,,,False,False,,18.7,27.7,76.9,999.6,2.7,206,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,1.0,,nan,,,False,False,,18.7,27.7,76.9,999.6,2.7,206,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,1.0,,nan,,,False,False,,18.7,27.7,76.9,999.6,2.7,206,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,1.0,,nan,,,False,False,,18.7,27.7,76.8,999.6,2.3,226,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,1.0,,nan,,,False,False,,18.7,27.7,76.8,999.6,2.3,226,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,1.0,,nan,,,False,False,,18.7,27.7,76.8,999.6,2.3,226,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+STR,18,Williams,2.0,,nan,,,False,False,80.623,18.7,27.7,76.8,999.6,2.3,226,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,1.0,1.0,SOFT,1.0,,False,False,,18.7,27.7,76.8,999.6,2.3,226,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,1.0,1.0,SUPERSOFT,1.0,,False,False,,18.7,27.7,76.8,999.6,2.3,226,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,1.0,1.0,MEDIUM,1.0,,False,False,,18.7,27.7,76.8,999.6,2.3,226,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,2.0,1.0,SUPERSOFT,1.0,,False,False,80.302,18.7,27.7,76.8,999.6,2.3,226,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,2.0,1.0,SUPERSOFT,1.0,,False,False,77.986,18.7,27.7,76.8,999.6,2.3,226,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,2.0,1.0,SUPERSOFT,1.0,,False,False,77.806,18.6,27.5,77.0,999.5,3.0,198,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,2.0,1.0,SUPERSOFT,1.0,,False,False,79.065,18.6,27.5,77.0,999.5,3.0,198,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ERI,9,Sauber,1.0,1.0,SUPERSOFT,1.0,,False,False,,18.6,27.5,77.0,999.5,3.0,198,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,2.0,1.0,SOFT,1.0,,False,False,79.756,18.6,27.5,77.0,999.5,3.0,198,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,2.0,1.0,MEDIUM,1.0,,False,False,79.653,18.6,27.5,77.0,999.5,3.0,198,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,2.0,1.0,SUPERSOFT,1.0,,False,False,78.866,18.6,27.5,77.0,999.5,3.0,198,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,2.0,1.0,SOFT,2.0,,False,False,79.293,18.6,27.5,77.0,999.5,3.0,198,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,2.0,1.0,SUPERSOFT,2.0,,False,False,79.541,18.6,27.5,77.0,999.5,3.0,198,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+STR,18,Williams,3.0,1.0,SUPERSOFT,1.0,,False,False,100.474,18.6,27.5,77.0,999.5,3.0,198,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,2.0,1.0,MEDIUM,2.0,,False,False,89.438,18.6,27.5,77.3,999.6,2.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,1.0,1.0,SUPERSOFT,1.0,,False,False,,18.6,27.5,77.3,999.6,2.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,3.0,1.0,SUPERSOFT,2.0,,False,False,99.25,18.6,27.5,77.3,999.6,2.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,1.0,1.0,SUPERSOFT,1.0,,False,False,,18.6,27.5,77.3,999.6,2.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,3.0,1.0,SUPERSOFT,2.0,,False,False,113.313,18.6,27.5,77.3,999.6,2.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ERI,9,Sauber,2.0,1.0,SUPERSOFT,2.0,,False,False,79.846,18.6,27.5,77.3,999.6,2.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,3.0,1.0,SUPERSOFT,2.0,,False,False,106.557,18.6,27.5,77.3,999.6,2.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,3.0,1.0,SUPERSOFT,2.0,,False,False,99.255,18.6,27.5,77.3,999.6,2.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,3.0,1.0,SUPERSOFT,2.0,,False,False,96.482,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,3.0,1.0,MEDIUM,2.0,,False,False,103.84,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,3.0,1.0,SOFT,2.0,,False,False,111.21,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+STR,18,Williams,4.0,1.0,SUPERSOFT,2.0,,False,False,80.225,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,1.0,1.0,SUPERSOFT,1.0,,False,False,,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,3.0,1.0,MEDIUM,3.0,,False,False,78.707,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,3.0,1.0,SOFT,3.0,,False,False,101.71,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,3.0,1.0,SUPERSOFT,3.0,,False,False,106.509,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,2.0,1.0,SUPERSOFT,2.0,,False,False,79.081,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,4.0,1.0,SUPERSOFT,3.0,,False,False,77.483,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,2.0,1.0,SUPERSOFT,2.0,,False,False,77.633,18.8,27.6,76.9,999.6,2.1,172,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,4.0,1.0,SUPERSOFT,3.0,,False,False,80.334,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,4.0,1.0,SUPERSOFT,3.0,,False,False,77.724,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,4.0,1.0,SUPERSOFT,3.0,,False,False,78.55,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,4.0,1.0,SUPERSOFT,3.0,,False,False,78.306,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ERI,9,Sauber,3.0,1.0,SUPERSOFT,3.0,,False,False,107.262,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,4.0,1.0,MEDIUM,3.0,,False,False,79.562,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,1.0,1.0,SUPERSOFT,1.0,,False,False,,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,4.0,1.0,SOFT,3.0,,False,False,79.08,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,2.0,1.0,SUPERSOFT,2.0,,False,False,77.674,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+STR,18,Williams,5.0,1.0,SUPERSOFT,3.0,,False,False,93.624,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,4.0,1.0,SUPERSOFT,4.0,,False,False,78.959,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,4.0,1.0,MEDIUM,4.0,,False,False,96.557,18.9,27.7,76.1,999.6,1.6,117,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,4.0,1.0,SOFT,4.0,,False,False,100.625,19.0,27.9,76.1,999.6,1.1,224,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,1.0,1.0,SUPERSOFT,1.0,,False,False,,19.0,27.9,76.1,999.6,1.1,224,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,3.0,1.0,SUPERSOFT,3.0,,False,False,100.801,19.0,27.9,76.1,999.6,1.1,224,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,1.0,1.0,SUPERSOFT,1.0,,False,False,,19.0,27.9,76.1,999.6,1.1,224,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,5.0,1.0,SUPERSOFT,4.0,,False,False,106.278,19.0,27.9,76.1,999.6,1.1,224,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,5.0,1.0,SUPERSOFT,4.0,,False,False,96.826,19.0,27.9,76.1,999.6,1.1,224,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,5.0,1.0,SUPERSOFT,4.0,,False,False,119.708,19.0,27.9,76.1,999.6,1.1,224,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,5.0,1.0,SUPERSOFT,4.0,,False,False,104.038,19.0,27.9,76.1,999.6,1.1,224,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,2.0,1.0,SUPERSOFT,2.0,,False,False,78.301,19.0,27.9,76.1,999.6,1.1,224,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,3.0,1.0,SUPERSOFT,3.0,,False,False,124.687,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,5.0,1.0,SUPERSOFT,4.0,,False,False,96.436,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,5.0,1.0,MEDIUM,4.0,,False,False,94.697,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,5.0,1.0,SOFT,4.0,,False,False,93.001,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ERI,9,Sauber,4.0,1.0,SUPERSOFT,4.0,,False,False,102.454,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,3.0,1.0,SUPERSOFT,3.0,,False,False,95.825,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,5.0,1.0,MEDIUM,5.0,,False,False,78.276,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HUL,27,Renault,1.0,1.0,SUPERSOFT,1.0,,False,False,,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,5.0,1.0,SOFT,5.0,,False,False,78.824,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,2.0,1.0,SUPERSOFT,2.0,,False,False,77.846,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,5.0,1.0,SUPERSOFT,5.0,,False,False,101.036,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,4.0,1.0,SUPERSOFT,4.0,,False,False,78.658,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,2.0,1.0,SUPERSOFT,2.0,,False,False,87.95,19.0,27.7,75.7,999.6,1.7,106,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,6.0,1.0,SUPERSOFT,5.0,,False,False,77.031,19.2,27.7,75.6,999.5,1.3,204,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,3.0,1.0,SUPERSOFT,3.0,,False,False,106.546,19.2,27.7,75.6,999.5,1.3,204,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,6.0,1.0,MEDIUM,6.0,,False,False,102.259,19.2,27.7,75.6,999.5,1.3,204,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,4.0,1.0,SUPERSOFT,4.0,,False,False,111.802,19.2,28.1,75.4,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HUL,27,Renault,2.0,1.0,SUPERSOFT,2.0,,False,False,105.434,19.2,28.1,75.4,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,6.0,1.0,SOFT,6.0,,False,False,102.099,19.2,28.1,75.4,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,3.0,1.0,SUPERSOFT,3.0,,False,False,101.059,19.2,28.1,75.4,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,3.0,1.0,SUPERSOFT,3.0,,False,False,78.48,19.2,28.1,75.4,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,5.0,1.0,SUPERSOFT,5.0,,False,False,97.707,19.2,28.1,75.4,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,6.0,2.0,SUPERSOFT,6.0,,False,False,145.429,19.2,28.1,75.4,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,7.0,1.0,SUPERSOFT,6.0,,False,False,94.441,19.2,28.1,75.4,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,4.0,1.0,SUPERSOFT,4.0,,False,False,77.623,19.2,28.1,75.4,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,4.0,1.0,SUPERSOFT,4.0,,False,False,77.411,19.2,28.0,75.3,999.5,1.2,188,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,6.0,2.0,SUPERSOFT,1.0,,False,False,,19.2,28.0,75.3,999.5,1.2,188,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,4.0,1.0,SUPERSOFT,4.0,,False,False,100.698,19.2,28.0,75.3,999.5,1.2,188,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HUL,27,Renault,3.0,1.0,SUPERSOFT,3.0,,False,False,126.63,19.1,27.8,75.6,999.4,1.5,223,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,6.0,2.0,SUPERSOFT,1.0,,False,False,,19.1,27.8,75.6,999.4,1.5,223,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,6.0,2.0,SUPERSOFT,1.0,,False,False,,19.1,27.8,75.6,999.4,1.5,223,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,5.0,1.0,SUPERSOFT,5.0,,False,False,93.75,19.1,27.8,75.6,999.4,1.5,223,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,6.0,2.0,SUPERSOFT,1.0,,False,False,,19.1,27.8,75.6,999.4,1.5,223,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,5.0,1.0,SUPERSOFT,5.0,,False,False,93.268,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,6.0,2.0,SUPERSOFT,1.0,,False,False,,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,7.0,2.0,SUPERSOFT,2.0,,False,False,78.305,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ERI,9,Sauber,5.0,2.0,SUPERSOFT,1.0,,False,False,,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,7.0,2.0,SUPERSOFT,1.0,,False,False,,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,6.0,2.0,SUPERSOFT,1.0,,False,False,,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,7.0,2.0,SUPERSOFT,2.0,,False,False,80.241,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,6.0,2.0,SUPERSOFT,1.0,,False,False,,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,7.0,2.0,SUPERSOFT,2.0,,False,False,80.367,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+STR,18,Williams,6.0,2.0,SUPERSOFT,1.0,,False,False,,19.0,27.8,76.2,999.4,1.7,160,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,7.0,2.0,SUPERSOFT,2.0,,False,False,78.907,18.9,27.6,76.6,999.4,1.4,212,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,7.0,2.0,SUPERSOFT,2.0,,False,False,79.102,18.9,27.6,76.6,999.4,1.4,212,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ERI,9,Sauber,6.0,2.0,SUPERSOFT,2.0,,False,False,79.673,18.9,27.6,76.6,999.4,1.4,212,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,8.0,2.0,SUPERSOFT,2.0,,False,False,78.538,18.9,27.6,76.6,999.4,1.4,212,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,7.0,2.0,SUPERSOFT,2.0,,False,False,79.068,18.9,27.6,76.6,999.4,1.4,212,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,8.0,2.0,SUPERSOFT,3.0,,False,False,104.125,18.9,27.6,76.6,999.4,1.4,212,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,7.0,2.0,SUPERSOFT,1.0,,False,False,,18.9,27.6,76.0,999.4,2.3,239,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+STR,18,Williams,7.0,2.0,SUPERSOFT,2.0,,False,False,81.206,18.9,27.6,76.0,999.4,2.3,239,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,7.0,2.0,SUPERSOFT,2.0,,False,False,97.409,18.9,27.6,76.0,999.4,2.3,239,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,8.0,2.0,SUPERSOFT,3.0,,False,False,102.828,18.9,27.6,76.0,999.4,2.3,239,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,8.0,2.0,SUPERSOFT,3.0,,False,False,110.372,18.9,27.6,76.0,999.4,2.3,239,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,8.0,2.0,SUPERSOFT,3.0,,False,False,101.239,18.9,27.6,76.0,999.4,2.3,239,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HUL,27,Renault,4.0,2.0,SUPERSOFT,1.0,,False,False,,18.9,27.6,76.0,999.4,2.3,239,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,8.0,2.0,SUPERSOFT,3.0,,False,False,107.494,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,9.0,2.0,SUPERSOFT,4.0,,False,False,78.34,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,9.0,2.0,SUPERSOFT,3.0,,False,False,99.141,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ERI,9,Sauber,7.0,2.0,SUPERSOFT,3.0,,False,False,111.589,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,8.0,2.0,SUPERSOFT,3.0,,False,False,100.802,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,9.0,2.0,SUPERSOFT,4.0,,False,False,78.169,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,8.0,2.0,SUPERSOFT,2.0,,False,False,98.475,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+STR,18,Williams,8.0,2.0,SUPERSOFT,3.0,,False,False,96.959,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,8.0,2.0,SUPERSOFT,3.0,,False,False,96.561,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,9.0,2.0,SUPERSOFT,4.0,,False,False,79.695,18.9,27.6,76.1,999.5,2.0,237,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,9.0,2.0,SUPERSOFT,4.0,,False,False,78.661,19.0,27.7,75.8,999.5,1.4,235,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HUL,27,Renault,5.0,2.0,SUPERSOFT,2.0,,False,False,78.923,19.0,27.7,75.8,999.5,1.4,235,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,9.0,2.0,SUPERSOFT,4.0,,False,False,78.813,19.0,27.7,75.8,999.5,1.4,235,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ERI,9,Sauber,8.0,2.0,SUPERSOFT,4.0,,False,False,79.493,19.0,27.7,75.8,999.5,1.4,235,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,9.0,2.0,SUPERSOFT,4.0,2,True,False,78.885,19.0,27.7,75.8,999.5,1.4,235,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,9.0,2.0,SUPERSOFT,3.0,2,True,False,78.74,19.0,27.7,75.8,999.5,1.4,235,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,10.0,2.0,SUPERSOFT,5.0,2,False,False,104.655,19.0,27.7,75.8,999.5,1.4,235,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,9.0,2.0,SUPERSOFT,4.0,2,True,False,78.55,19.0,27.6,75.6,999.5,1.6,258,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,10.0,2.0,SUPERSOFT,5.0,2,False,False,105.155,19.0,27.6,75.6,999.5,1.6,258,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SIR,35,Williams,10.0,2.0,SUPERSOFT,5.0,2,False,False,,19.0,27.6,75.6,999.5,1.6,258,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,10.0,2.0,SUPERSOFT,5.0,2,False,False,103.301,19.0,27.6,75.6,999.5,1.6,258,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HUL,27,Renault,6.0,2.0,SUPERSOFT,3.0,2,False,False,98.687,19.0,27.6,75.6,999.5,1.6,258,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,10.0,2.0,SUPERSOFT,5.0,2,False,False,94.491,19.0,27.5,75.8,999.5,1.4,169,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ERI,9,Sauber,9.0,2.0,SUPERSOFT,5.0,2,False,False,106.222,19.0,27.5,75.8,999.5,1.4,169,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,10.0,2.0,SUPERSOFT,5.0,2,False,False,103.422,19.0,27.5,75.8,999.5,1.4,169,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,10.0,2.0,SUPERSOFT,4.0,2,False,False,108.368,19.0,27.5,75.8,999.5,1.4,169,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,10.0,2.0,SUPERSOFT,5.0,2,False,False,108.759,19.0,27.5,75.8,999.5,1.4,169,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+STR,18,Williams,9.0,2.0,SUPERSOFT,4.0,2,False,False,,18.8,27.0,76.3,999.5,2.9,229,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,11.0,2.0,SUPERSOFT,6.0,21,False,False,,18.7,27.1,76.8,999.5,2.2,191,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,11.0,3.0,SOFT,1.0,21,False,False,,18.7,27.1,76.8,999.5,2.2,191,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,4.0,2.0,SOFT,1.0,21,False,False,,18.7,26.9,76.9,999.5,1.9,193,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,11.0,3.0,SUPERSOFT,1.0,21,False,False,,18.7,26.9,76.9,999.5,1.9,193,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,11.0,3.0,SUPERSOFT,6.0,21,False,False,,18.7,26.9,76.9,999.5,1.9,193,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,5.0,2.0,SOFT,1.0,21,False,False,,18.7,26.9,76.9,999.5,1.9,193,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,7.0,3.0,SOFT,1.0,21,False,False,,18.7,26.9,76.9,999.5,1.9,193,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,8.0,2.0,SOFT,1.0,21,False,False,,18.7,26.9,76.9,999.5,1.9,193,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,11.0,3.0,SUPERSOFT,1.0,21,False,False,,18.7,26.9,76.9,999.5,1.9,193,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,11.0,3.0,SOFT,1.0,21,False,False,,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,12.0,3.0,SOFT,1.0,1,True,False,78.069,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,12.0,3.0,SOFT,2.0,1,True,False,78.045,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,6.0,2.0,SOFT,1.0,21,False,False,,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,5.0,2.0,SUPERSOFT,1.0,21,False,False,,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,5.0,2.0,SOFT,2.0,1,True,False,77.166,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,6.0,2.0,SOFT,1.0,21,False,False,,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,12.0,3.0,SUPERSOFT,7.0,1,True,False,79.306,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,6.0,2.0,SOFT,2.0,1,True,False,77.111,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,12.0,3.0,SUPERSOFT,2.0,1,True,False,94.894,18.6,26.9,77.0,999.5,1.9,199,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,8.0,3.0,SOFT,2.0,1,True,False,77.071,18.6,26.9,77.5,999.5,2.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,9.0,2.0,SOFT,2.0,1,True,False,76.802,18.6,26.9,77.5,999.5,2.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,12.0,3.0,SOFT,2.0,1,True,False,78.491,18.6,26.9,77.5,999.5,2.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,12.0,3.0,SUPERSOFT,2.0,1,True,False,93.468,18.6,26.9,77.5,999.5,2.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,13.0,3.0,SOFT,2.0,1,True,False,94.822,18.6,26.9,77.5,999.5,2.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,13.0,3.0,SOFT,3.0,1,True,False,92.835,18.6,26.9,77.5,999.5,2.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,7.0,2.0,SOFT,2.0,1,True,False,77.638,18.6,26.9,77.5,999.5,2.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,7.0,2.0,SOFT,2.0,1,True,False,77.266,18.6,26.9,77.5,999.5,2.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,6.0,2.0,SUPERSOFT,2.0,1,True,False,92.78,18.7,27.1,77.0,999.5,0.9,74,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,6.0,2.0,SOFT,3.0,1,False,False,98.678,18.7,27.1,77.0,999.5,0.9,74,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,13.0,3.0,SUPERSOFT,3.0,1,True,False,78.696,18.7,27.1,77.0,999.5,0.9,74,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,13.0,3.0,SUPERSOFT,8.0,1,False,False,98.088,18.7,27.1,77.0,999.5,0.9,74,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,7.0,2.0,SOFT,3.0,1,False,False,100.988,18.7,27.1,77.0,999.5,0.9,74,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,9.0,3.0,SOFT,3.0,1,False,False,97.761,18.7,27.1,77.0,999.5,0.9,74,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,10.0,2.0,SOFT,3.0,1,False,False,101.365,18.7,27.1,77.0,999.5,0.9,74,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,13.0,3.0,SUPERSOFT,3.0,1,True,False,79.163,18.7,27.1,77.0,999.5,0.9,74,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,13.0,3.0,SOFT,3.0,1,True,False,97.561,18.7,27.1,77.0,999.5,0.9,74,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,14.0,3.0,SOFT,4.0,1,True,False,77.639,18.7,27.2,76.5,999.5,1.6,186,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,10.0,3.0,SUPERSOFT,1.0,21,False,False,,18.7,27.2,76.5,999.5,1.6,186,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,7.0,2.0,SUPERSOFT,3.0,1,True,False,78.31,18.7,27.2,76.5,999.5,1.6,186,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,8.0,2.0,SOFT,3.0,1,False,False,104.124,18.7,27.2,76.5,999.5,1.6,186,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,8.0,2.0,SOFT,3.0,1,False,False,100.989,18.7,27.2,76.5,999.5,1.6,186,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,14.0,3.0,SOFT,3.0,1,False,False,125.227,18.7,27.2,76.5,999.5,1.6,186,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,14.0,3.0,SUPERSOFT,4.0,1,False,False,96.112,18.7,27.2,76.5,999.5,1.6,186,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,14.0,3.0,SOFT,4.0,1,True,False,78.347,18.7,27.0,77.0,999.6,1.9,170,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,14.0,3.0,SUPERSOFT,4.0,1,False,False,95.216,18.7,27.0,77.0,999.6,1.9,170,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,11.0,3.0,SUPERSOFT,2.0,1,True,False,78.1,18.7,27.0,77.0,999.6,1.9,170,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,15.0,3.0,SOFT,5.0,1,False,False,98.622,18.7,27.0,77.0,999.6,1.9,170,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,11.0,3.0,SUPERSOFT,6.0,21,False,False,,18.7,27.0,77.0,999.6,1.9,170,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,8.0,2.0,SUPERSOFT,4.0,1,False,False,124.395,18.7,26.9,77.1,999.5,1.8,177,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,15.0,3.0,SOFT,5.0,1,False,False,96.947,18.7,26.9,77.1,999.5,1.8,177,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,12.0,3.0,SUPERSOFT,7.0,1,True,False,78.91,18.6,26.9,77.4,999.5,1.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,12.0,3.0,SUPERSOFT,3.0,1,False,False,103.093,18.6,26.9,77.4,999.5,1.4,0,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,13.0,3.0,SUPERSOFT,8.0,1,False,False,96.632,18.7,27.1,77.3,999.5,0.6,182,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,7.0,3.0,SUPERSOFT,4.0,1,False,False,,18.7,27.1,77.3,999.5,0.6,182,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,15.0,4.0,SOFT,1.0,1,False,False,,18.7,27.1,77.3,999.5,0.6,182,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,16.0,4.0,SOFT,1.0,1,False,False,,18.7,27.1,77.3,999.5,0.6,182,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,15.0,4.0,SUPERSOFT,1.0,1,False,False,,18.7,27.1,77.1,999.5,1.7,206,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,8.0,3.0,SUPERSOFT,5.0,1,True,False,78.47,18.6,26.9,77.5,999.5,1.4,192,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,16.0,4.0,SOFT,2.0,1,True,False,77.699,18.6,26.9,77.5,999.5,1.4,192,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,17.0,4.0,SOFT,2.0,1,True,False,77.618,18.6,26.9,77.5,999.5,1.4,192,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,9.0,3.0,SOFT,1.0,1,False,False,,18.6,26.9,77.5,999.5,1.4,192,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,15.0,4.0,SUPERSOFT,1.0,1,False,False,,18.6,26.9,77.5,999.5,1.4,192,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,16.0,4.0,SUPERSOFT,2.0,1,True,False,90.255,18.6,26.9,77.7,999.5,2.2,143,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,9.0,3.0,SUPERSOFT,6.0,1,True,False,87.907,18.6,26.9,77.7,999.5,2.2,143,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,9.0,3.0,SUPERSOFT,1.0,1,False,False,,18.6,26.9,77.7,999.5,2.2,143,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,14.0,4.0,SUPERSOFT,1.0,1,False,False,,18.6,26.9,77.7,999.5,2.2,143,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,16.0,4.0,SOFT,1.0,1,False,False,,18.6,26.9,77.7,999.5,2.2,143,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,17.0,4.0,SOFT,3.0,1,True,False,102.165,18.6,26.9,77.7,999.5,2.2,143,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,10.0,3.0,SOFT,2.0,1,True,False,90.299,18.6,26.9,77.7,999.5,2.2,143,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,18.0,4.0,SOFT,3.0,1,True,False,106.689,18.6,26.8,77.8,999.6,0.8,115,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,13.0,4.0,SOFT,1.0,1,False,False,,18.6,26.8,77.8,999.6,0.8,115,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,16.0,4.0,SUPERSOFT,2.0,1,True,False,97.377,18.6,26.8,77.8,999.6,0.8,115,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,9.0,3.0,SUPERSOFT,1.0,1,False,False,,18.6,26.8,77.8,999.6,0.8,115,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,14.0,4.0,SUPERSOFT,1.0,1,False,False,,18.6,26.8,77.8,999.6,0.8,115,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,17.0,4.0,SUPERSOFT,3.0,12,True,False,78.709,18.6,26.8,77.8,999.6,0.8,115,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,10.0,3.0,SUPERSOFT,2.0,12,True,False,78.936,18.6,26.8,77.8,999.6,0.8,115,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,15.0,4.0,SUPERSOFT,2.0,12,True,False,78.463,18.6,26.8,77.8,999.6,0.8,115,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,17.0,4.0,SOFT,2.0,12,True,False,78.323,18.7,26.8,77.6,999.4,0.8,98,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,11.0,3.0,SOFT,3.0,12,True,False,77.803,18.7,26.8,77.6,999.4,0.8,98,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,14.0,4.0,SOFT,2.0,12,True,False,78.674,18.7,26.8,77.6,999.4,0.8,98,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,10.0,3.0,SUPERSOFT,7.0,12,False,False,114.968,18.7,26.8,77.6,999.4,0.8,98,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,17.0,4.0,SUPERSOFT,3.0,12,True,False,79.098,18.7,26.8,77.6,999.4,0.8,98,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,19.0,4.0,SOFT,4.0,12,False,False,91.389,18.7,26.8,77.6,999.4,0.8,98,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,18.0,4.0,SOFT,4.0,12,False,False,105.676,18.7,26.8,77.6,999.4,0.8,98,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,10.0,3.0,SUPERSOFT,2.0,12,False,False,85.41,18.7,26.8,77.6,999.4,0.8,98,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+LEC,16,Sauber,15.0,4.0,SUPERSOFT,2.0,12,False,False,97.162,18.7,26.8,77.6,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+OCO,31,Force India,18.0,4.0,SUPERSOFT,4.0,21,False,False,,18.7,26.8,77.6,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,11.0,3.0,SUPERSOFT,3.0,1,False,False,96.845,18.7,26.8,77.6,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GAS,10,Toro Rosso,16.0,4.0,SUPERSOFT,3.0,1,False,False,109.061,18.7,26.8,77.6,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VAN,2,McLaren,18.0,4.0,SOFT,3.0,1,False,False,108.11,18.7,26.8,77.6,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,12.0,3.0,SOFT,4.0,1,False,False,104.294,18.7,26.8,77.6,999.5,0.9,179,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,15.0,4.0,SOFT,3.0,1,False,False,104.125,18.7,26.7,77.5,999.4,0.8,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+PER,11,Force India,18.0,4.0,SUPERSOFT,4.0,1,False,False,,18.7,26.7,77.5,999.4,0.8,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,13.0,3.0,SOFT,5.0,1,False,False,,18.3,26.4,79.1,999.3,2.6,181,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,19.0,5.0,SUPERSOFT,1.0,1,False,False,,18.3,26.4,79.1,999.3,2.6,181,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,20.0,5.0,SUPERSOFT,1.0,1,False,False,,18.3,26.4,79.1,999.3,2.6,181,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,12.0,4.0,SUPERSOFT,1.0,1,False,False,,18.3,26.4,79.1,999.3,2.6,181,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,11.0,4.0,SUPERSOFT,1.0,1,False,False,,18.3,26.4,79.3,999.3,2.3,212,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,10.0,4.0,SUPERSOFT,1.0,12,False,False,,18.3,26.4,79.3,999.3,2.3,212,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,11.0,4.0,SUPERSOFT,1.0,1,False,False,,18.3,26.4,79.3,999.3,2.3,212,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,11.0,3.0,SUPERSOFT,1.0,12,False,False,,18.3,26.4,79.3,999.3,2.3,212,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,16.0,5.0,SUPERSOFT,1.0,1,False,False,,18.3,26.4,79.3,999.3,2.3,212,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,8.0,3.0,SUPERSOFT,1.0,12,False,False,,18.3,26.4,79.3,999.3,2.3,212,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,20.0,5.0,SUPERSOFT,2.0,1,True,False,78.209,18.5,26.6,78.8,999.3,2.2,229,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,14.0,4.0,SUPERSOFT,1.0,1,True,False,89.157,18.5,26.6,78.8,999.3,2.2,229,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,13.0,4.0,SUPERSOFT,2.0,1,True,False,76.858,18.5,26.6,78.8,999.3,2.2,229,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,21.0,5.0,SUPERSOFT,2.0,1,True,False,93.627,18.5,26.6,78.8,999.3,2.2,229,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,12.0,4.0,SUPERSOFT,2.0,1,True,False,76.816,18.5,26.6,78.8,999.3,2.2,229,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,11.0,4.0,SUPERSOFT,2.0,1,True,False,78.192,18.5,26.6,78.8,999.3,2.2,229,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,12.0,4.0,SUPERSOFT,2.0,1,True,False,76.491,18.5,26.6,78.8,999.3,2.2,229,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,12.0,3.0,SUPERSOFT,2.0,1,True,False,77.255,18.5,26.6,78.8,999.3,2.2,229,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,17.0,5.0,SUPERSOFT,2.0,1,True,False,78.003,18.5,26.6,78.8,999.3,2.2,229,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,9.0,3.0,SUPERSOFT,2.0,1,True,False,76.909,18.5,26.4,78.9,999.4,1.9,242,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,15.0,4.0,SUPERSOFT,2.0,1,True,False,78.45,18.5,26.4,78.9,999.4,1.9,242,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,21.0,5.0,SUPERSOFT,3.0,1,True,False,96.107,18.5,26.4,78.9,999.4,1.9,242,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,22.0,5.0,SUPERSOFT,3.0,1,False,False,84.486,18.5,26.4,78.9,999.4,1.9,242,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,14.0,4.0,SUPERSOFT,3.0,1,False,False,97.143,18.5,26.4,78.9,999.4,1.9,242,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,13.0,4.0,SUPERSOFT,3.0,1,False,False,87.432,18.5,26.4,78.9,999.4,1.9,242,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,12.0,4.0,SUPERSOFT,3.0,1,False,False,86.326,18.5,26.7,78.6,999.3,1.3,159,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,13.0,4.0,SUPERSOFT,3.0,1,False,False,90.651,18.5,26.7,78.6,999.3,1.3,159,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,13.0,3.0,SUPERSOFT,3.0,1,False,False,93.759,18.5,26.7,78.6,999.3,1.3,159,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,18.0,5.0,SUPERSOFT,3.0,1,False,False,97.126,18.5,26.7,78.6,999.3,1.3,159,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,10.0,3.0,SUPERSOFT,3.0,1,False,False,98.686,18.5,26.7,78.6,999.3,1.3,159,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,22.0,5.0,SUPERSOFT,4.0,1,True,False,78.38,18.5,26.7,78.6,999.3,1.3,159,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,16.0,4.0,SUPERSOFT,3.0,1,False,False,103.1,18.5,26.8,78.1,999.2,1.0,18,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,23.0,5.0,SUPERSOFT,5.0,1,False,False,91.972,18.5,26.8,78.2,999.2,1.2,220,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,23.0,6.0,SUPERSOFT,1.0,1,False,False,,18.4,26.6,78.6,999.2,2.3,216,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,15.0,5.0,SOFT,1.0,1,False,False,,18.4,26.6,78.6,999.2,2.3,216,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,24.0,6.0,SUPERSOFT,2.0,1,True,False,77.676,18.4,26.4,79.1,999.2,1.6,211,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,16.0,5.0,SOFT,2.0,1,True,False,76.818,18.4,26.4,79.1,999.2,1.6,211,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,13.0,5.0,SOFT,1.0,1,False,False,,18.4,26.5,79.0,999.2,1.9,174,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,14.0,5.0,SUPERSOFT,1.0,1,False,False,,18.4,26.5,79.0,999.2,1.9,174,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,19.0,6.0,SOFT,1.0,1,False,False,,18.4,26.5,79.0,999.2,1.9,174,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,11.0,4.0,SUPERSOFT,1.0,1,False,False,,18.4,26.5,79.0,999.2,1.9,174,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,25.0,6.0,SUPERSOFT,3.0,1,True,False,93.92,18.4,26.5,79.0,999.2,1.9,174,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,24.0,6.0,SUPERSOFT,1.0,1,False,False,,18.4,26.5,79.0,999.2,1.9,174,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,17.0,5.0,SUPERSOFT,1.0,1,False,False,,18.4,26.4,79.2,999.3,1.8,239,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,14.0,4.0,SOFT,1.0,1,False,False,,18.4,26.4,79.2,999.3,1.8,239,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,17.0,5.0,SOFT,3.0,1,True,False,104.347,18.4,26.4,79.2,999.3,1.8,239,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,14.0,5.0,SUPERSOFT,1.0,1,False,False,,18.4,26.4,79.2,999.3,1.8,239,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,14.0,5.0,SOFT,2.0,1,True,False,76.612,18.4,26.4,79.2,999.3,1.8,239,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,15.0,5.0,SUPERSOFT,2.0,1,True,False,76.173,18.4,26.4,79.2,999.3,1.8,239,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,20.0,6.0,SOFT,2.0,1,True,False,77.721,18.4,26.4,79.2,999.3,1.8,239,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,12.0,4.0,SUPERSOFT,2.0,1,True,False,76.213,18.4,26.4,79.2,999.3,1.8,239,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,26.0,6.0,SUPERSOFT,4.0,1,True,False,77.778,18.5,26.3,79.3,999.2,0.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,25.0,6.0,SUPERSOFT,2.0,1,True,False,77.835,18.5,26.3,79.3,999.2,0.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,18.0,5.0,SUPERSOFT,2.0,1,True,False,77.79,18.5,26.3,79.3,999.2,0.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,15.0,4.0,SOFT,2.0,1,True,False,76.305,18.5,26.3,79.3,999.2,0.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,18.0,5.0,SOFT,4.0,1,True,False,76.829,18.5,26.3,79.3,999.2,0.9,201,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VER,33,Red Bull Racing,15.0,5.0,SUPERSOFT,2.0,1,False,False,106.408,18.4,26.2,79.2,999.3,1.4,205,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RAI,7,Ferrari,15.0,5.0,SOFT,3.0,1,False,False,114.538,18.4,26.2,79.2,999.3,1.4,205,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,16.0,5.0,SUPERSOFT,3.0,1,True,False,107.593,18.4,26.2,79.2,999.3,1.4,205,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+ALO,14,McLaren,21.0,6.0,SOFT,3.0,1,False,False,112.405,18.4,26.2,79.2,999.3,1.4,205,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+BOT,77,Mercedes,13.0,4.0,SUPERSOFT,3.0,1,True,False,110.707,18.4,26.2,79.2,999.3,1.4,205,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+MAG,20,Haas F1 Team,27.0,6.0,SUPERSOFT,5.0,1,False,False,,18.4,26.2,79.2,999.3,1.4,205,False,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+GRO,8,Haas F1 Team,26.0,6.0,SUPERSOFT,3.0,1,False,False,,18.4,26.2,79.3,999.2,1.0,119,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+RIC,3,Red Bull Racing,19.0,5.0,SOFT,5.0,1,False,False,,18.4,26.2,79.3,999.2,1.0,119,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+VET,5,Ferrari,16.0,4.0,SOFT,3.0,1,False,False,,18.4,26.2,79.3,999.2,1.0,119,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+HAM,44,Mercedes,17.0,5.0,SUPERSOFT,4.0,1,False,False,,18.4,26.2,79.3,999.2,1.0,119,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False
+SAI,55,Renault,19.0,5.0,SUPERSOFT,3.0,1,False,False,,18.4,26.2,79.3,999.2,1.0,119,True,Barcelona_pre2023,2018,5,Spanish Grand Prix,conventional,False

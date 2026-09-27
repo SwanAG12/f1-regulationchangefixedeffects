@@ -1,0 +1,243 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+RUS,63,Williams,1.0,1.0,SOFT,7.0,1,False,False,,29.1,41.8,37.4,964.6,2.8,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+KUB,88,Williams,1.0,1.0,SOFT,1.0,1,False,False,,29.1,42.0,37.2,964.5,2.8,142,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,29.1,42.0,37.2,964.5,2.8,142,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,28.9,41.4,37.8,964.5,2.5,157,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+KUB,88,Williams,2.0,1.0,SOFT,2.0,15,False,False,,29.0,41.4,38.8,964.4,2.3,169,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RUS,63,Williams,2.0,2.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GAS,10,Toro Rosso,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.5,36.0,964.2,4.1,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.4,36.1,964.2,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.4,36.1,964.2,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.4,36.1,964.2,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,1.0,1.0,SOFT,1.0,15,False,False,,29.2,41.4,36.1,964.2,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,2.0,2.0,SOFT,2.0,1,False,False,,29.2,41.4,36.4,964.3,3.4,168,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,2.0,2.0,SOFT,1.0,1,False,False,,29.2,41.4,36.4,964.3,3.4,168,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,3.0,2.0,SOFT,3.0,1,False,False,,29.2,41.4,36.4,964.3,3.4,168,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,3.0,2.0,SOFT,3.0,1,False,False,,29.2,41.4,36.4,964.3,3.4,168,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,2.0,2.0,SOFT,2.0,1,False,False,,29.2,41.4,36.4,964.3,3.4,168,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,2.0,2.0,SOFT,2.0,1,False,False,,29.2,41.4,36.4,964.3,3.4,168,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,2.0,2.0,SOFT,2.0,1,False,False,,29.2,41.4,36.4,964.3,3.4,168,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,2.0,2.0,SOFT,1.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RUS,63,Williams,3.0,3.0,SOFT,1.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,2.0,2.0,SOFT,1.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+KVY,26,Toro Rosso,1.0,1.0,SOFT,1.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,2.0,2.0,SOFT,2.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GAS,10,Toro Rosso,2.0,2.0,SOFT,1.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,2.0,2.0,SOFT,2.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,2.0,2.0,SOFT,1.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,2.0,2.0,SOFT,1.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,2.0,2.0,SOFT,2.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,2.0,2.0,SOFT,2.0,1,False,False,,29.0,41.3,36.9,964.3,2.9,182,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,3.0,2.0,SOFT,3.0,1,True,False,111.843,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,3.0,2.0,SOFT,2.0,1,True,False,105.899,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,4.0,2.0,SOFT,4.0,1,True,False,105.637,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,4.0,2.0,SOFT,4.0,1,True,False,105.842,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,3.0,2.0,SOFT,3.0,1,True,False,106.507,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,3.0,2.0,SOFT,3.0,1,True,False,106.0,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,3.0,2.0,SOFT,3.0,1,True,False,105.732,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,3.0,2.0,SOFT,2.0,1,True,False,105.56,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RUS,63,Williams,4.0,3.0,SOFT,2.0,1,True,False,107.548,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,3.0,2.0,SOFT,2.0,1,True,False,106.154,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+KVY,26,Toro Rosso,2.0,1.0,SOFT,2.0,1,True,False,106.518,29.0,41.4,36.6,964.3,2.8,170,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,105.26,29.1,41.4,35.5,964.1,3.0,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,3.0,2.0,SOFT,3.0,1,True,False,105.141,29.1,41.4,35.5,964.1,3.0,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GAS,10,Toro Rosso,3.0,2.0,SOFT,2.0,1,True,False,106.435,29.1,41.4,35.5,964.1,3.0,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,3.0,2.0,SOFT,3.0,1,True,False,105.528,29.1,41.4,35.5,964.1,3.0,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,3.0,2.0,SOFT,2.0,1,True,False,105.839,29.1,41.4,35.5,964.1,3.0,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,3.0,2.0,SOFT,2.0,1,True,False,105.694,29.1,41.4,35.5,964.1,3.0,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,3.0,2.0,SOFT,3.0,1,True,False,103.587,29.1,41.4,35.5,964.1,3.0,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,3.0,2.0,SOFT,3.0,1,True,False,104.109,29.1,41.4,35.5,964.1,3.0,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,5.0,2.0,SOFT,5.0,1,False,False,127.523,29.4,41.5,35.6,964.2,3.6,174,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,5.0,2.0,SOFT,5.0,1,False,False,125.851,29.4,41.5,35.6,964.2,3.6,174,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,4.0,2.0,SOFT,4.0,1,False,False,137.391,29.4,41.5,35.6,964.2,3.6,174,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,4.0,2.0,SOFT,4.0,1,False,False,125.49,29.4,41.5,35.6,964.2,3.6,174,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,4.0,2.0,SOFT,4.0,1,False,False,122.484,29.4,41.5,35.6,964.2,3.6,174,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,4.0,2.0,SOFT,4.0,1,False,False,128.229,29.4,41.5,35.6,964.2,3.6,174,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,4.0,2.0,SOFT,3.0,1,False,False,131.274,29.4,41.5,35.6,964.2,3.6,174,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RUS,63,Williams,5.0,3.0,SOFT,3.0,1,False,False,130.813,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,4.0,2.0,SOFT,3.0,1,False,False,132.247,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+KVY,26,Toro Rosso,3.0,1.0,SOFT,3.0,1,False,False,129.11,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GAS,10,Toro Rosso,4.0,2.0,SOFT,3.0,1,False,False,126.921,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,3.0,1.0,SOFT,3.0,1,False,False,,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,4.0,2.0,SOFT,3.0,1,False,False,133.829,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,4.0,2.0,SOFT,4.0,1,False,False,143.674,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,4.0,2.0,SOFT,3.0,1,False,False,137.997,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,4.0,2.0,SOFT,4.0,1,False,False,,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,4.0,2.0,SOFT,4.0,1,False,False,137.021,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,4.0,2.0,SOFT,4.0,1,False,False,134.819,29.5,42.0,35.8,964.2,3.5,149,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,4.0,1.0,SOFT,4.0,1,False,False,111.358,29.2,41.6,35.2,964.1,3.7,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,5.0,2.0,SOFT,5.0,1,False,False,114.366,29.2,41.6,35.2,964.1,3.7,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,5.0,3.0,SOFT,1.0,1,False,False,,29.1,41.4,35.9,964.2,2.3,159,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,4.0,2.0,SOFT,3.0,1,False,False,,29.1,41.4,35.9,964.2,2.3,159,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,6.0,3.0,SOFT,1.0,1,False,False,,29.3,41.5,35.6,964.1,3.0,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,6.0,3.0,SOFT,1.0,1,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,5.0,2.0,SOFT,1.0,1,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,5.0,3.0,SOFT,1.0,1,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,5.0,3.0,SOFT,1.0,1,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,5.0,3.0,SOFT,1.0,1,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,6.0,3.0,SOFT,2.0,1,True,False,104.622,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,6.0,3.0,SOFT,1.0,1,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,5.0,3.0,SOFT,1.0,12,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,5.0,3.0,SOFT,1.0,12,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+SAI,55,McLaren,6.0,3.0,SOFT,2.0,12,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,7.0,3.0,SOFT,2.0,12,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GAS,10,Toro Rosso,5.0,3.0,SOFT,1.0,125,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+KVY,26,Toro Rosso,4.0,2.0,SOFT,1.0,125,False,False,,29.1,41.7,35.5,964.1,1.9,143,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RUS,63,Williams,6.0,4.0,SOFT,2.0,125,False,False,,29.5,41.7,35.7,964.2,2.7,155,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,5.0,3.0,SOFT,1.0,125,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,7.0,3.0,SOFT,2.0,125,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,6.0,3.0,SOFT,2.0,125,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,6.0,3.0,SOFT,2.0,125,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,5.0,3.0,SOFT,1.0,125,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,6.0,3.0,SOFT,2.0,251,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,5.0,3.0,SOFT,1.0,125,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,6.0,3.0,SOFT,2.0,251,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,5.0,3.0,SOFT,1.0,125,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,7.0,3.0,SOFT,3.0,125,False,False,,29.5,41.6,35.2,964.0,3.4,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,6.0,2.0,SOFT,2.0,125,False,False,,29.4,41.6,36.3,964.0,3.1,165,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,7.0,3.0,SOFT,2.0,125,False,False,,29.4,41.6,36.3,964.0,3.1,165,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,8.0,4.0,SOFT,1.0,1,False,False,,29.3,41.4,36.0,963.9,2.6,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,7.0,4.0,SOFT,2.0,1,False,False,,29.3,41.4,36.0,963.9,2.6,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,7.0,4.0,SOFT,2.0,1,False,False,,29.3,41.4,36.0,963.9,2.6,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,6.0,4.0,SOFT,2.0,1,False,False,,29.3,41.4,36.0,963.9,2.6,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,6.0,4.0,SOFT,2.0,1,False,False,,29.3,41.4,36.0,963.9,2.6,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,7.0,4.0,SOFT,2.0,1,False,False,,29.3,41.4,36.0,963.9,2.6,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,6.0,4.0,SOFT,2.0,1,False,False,,29.3,41.4,36.0,963.9,2.6,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,7.0,4.0,SOFT,1.0,1,False,False,,29.3,41.4,36.0,963.9,2.6,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,6.0,4.0,SOFT,1.0,1,False,False,,29.4,41.4,35.2,964.0,2.6,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,8.0,4.0,SOFT,1.0,1,False,False,,29.4,41.4,35.2,964.0,2.6,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,7.0,3.0,SOFT,3.0,1,False,False,,29.4,41.4,35.2,964.0,2.6,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,8.0,4.0,SOFT,3.0,1,False,False,,29.4,41.4,35.2,964.0,2.6,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,5.0,3.0,SOFT,1.0,1,False,False,,29.4,41.4,35.2,964.0,2.6,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,5.0,3.0,SOFT,1.0,1,False,False,,29.4,41.4,35.2,964.0,2.6,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,9.0,4.0,SOFT,2.0,1,True,False,104.14,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,8.0,4.0,SOFT,3.0,1,True,False,105.149,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,8.0,4.0,SOFT,3.0,1,True,False,105.399,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,7.0,4.0,SOFT,3.0,1,True,False,105.799,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,7.0,4.0,SOFT,3.0,1,True,False,105.196,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,8.0,4.0,SOFT,3.0,1,True,False,105.626,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,7.0,4.0,SOFT,3.0,1,True,False,104.632,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,8.0,4.0,SOFT,2.0,1,True,False,104.707,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,7.0,4.0,SOFT,2.0,1,True,False,105.047,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,9.0,4.0,SOFT,2.0,1,True,False,104.132,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,8.0,3.0,SOFT,4.0,1,True,False,103.592,29.3,41.3,35.4,963.9,2.5,163,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,9.0,4.0,SOFT,4.0,1,True,False,103.98,29.2,41.1,35.5,964.0,1.9,176,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,6.0,3.0,SOFT,2.0,1,True,False,103.376,29.2,41.1,35.5,964.0,1.9,176,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,6.0,3.0,SOFT,2.0,1,True,False,103.506,29.2,41.1,35.5,964.0,1.9,176,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,10.0,4.0,SOFT,3.0,1,False,False,136.249,29.4,41.3,36.1,964.1,3.6,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,9.0,4.0,SOFT,4.0,1,False,False,133.698,29.4,41.3,36.1,964.1,3.6,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+ALB,23,Red Bull Racing,8.0,4.0,SOFT,4.0,1,False,False,135.168,29.4,41.3,36.1,964.1,3.6,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,8.0,4.0,SOFT,4.0,1,False,False,132.749,29.4,41.3,36.1,964.1,3.6,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,9.0,4.0,SOFT,4.0,1,False,False,135.19,29.4,41.3,36.1,964.1,3.6,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,8.0,4.0,SOFT,4.0,1,False,False,136.379,29.4,41.3,36.1,964.1,3.6,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,9.0,4.0,SOFT,3.0,1,False,False,133.347,29.4,41.3,36.1,964.1,3.6,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+STR,18,Racing Point,8.0,4.0,SOFT,3.0,1,False,False,131.982,29.4,41.3,36.1,964.1,3.6,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,10.0,4.0,SOFT,3.0,1,False,False,138.236,29.4,41.3,35.1,963.9,4.1,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,9.0,4.0,SOFT,4.0,1,False,False,,29.4,41.3,35.1,963.9,4.1,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,9.0,3.0,SOFT,5.0,1,False,False,138.752,29.4,41.3,35.1,963.9,4.1,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,10.0,4.0,SOFT,5.0,1,False,False,136.111,29.4,41.3,35.1,963.9,4.1,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,7.0,3.0,SOFT,3.0,1,False,False,138.86,29.4,41.3,35.1,963.9,4.1,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,7.0,3.0,SOFT,3.0,1,False,False,140.541,29.4,41.3,35.1,963.9,4.1,171,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,11.0,5.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,9.0,5.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,10.0,5.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,10.0,5.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,9.0,5.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,10.0,5.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,10.0,5.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,10.0,4.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,11.0,5.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,8.0,4.0,SOFT,1.0,1,False,False,,29.7,41.0,35.4,964.0,3.3,166,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,8.0,4.0,SOFT,1.0,1,False,False,,29.5,40.9,35.5,964.0,2.0,122,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,10.0,5.0,SOFT,2.0,1,True,False,104.549,29.5,40.9,35.5,964.0,2.0,122,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,11.0,5.0,SOFT,2.0,1,True,False,104.738,29.5,40.9,35.5,964.0,2.0,122,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,11.0,5.0,SOFT,2.0,1,True,False,104.79,29.4,40.6,35.4,963.8,3.0,175,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,10.0,5.0,SOFT,2.0,1,True,False,104.103,29.4,40.6,35.4,963.8,3.0,175,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,12.0,5.0,SOFT,2.0,1,False,False,124.098,29.4,40.6,35.4,963.8,3.0,175,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,11.0,5.0,SOFT,2.0,1,True,False,104.797,29.4,40.6,35.4,963.8,3.0,175,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,11.0,5.0,SOFT,2.0,1,True,False,104.847,29.4,40.6,35.4,963.8,3.0,175,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,11.0,4.0,SOFT,2.0,1,True,False,103.705,29.4,40.6,35.4,963.8,3.0,175,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,12.0,5.0,SOFT,2.0,1,True,False,104.365,29.4,40.6,35.4,963.8,3.0,175,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,9.0,4.0,SOFT,2.0,1,True,False,102.938,29.4,40.6,35.4,963.8,3.0,175,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,9.0,4.0,SOFT,2.0,1,True,False,103.037,29.4,40.6,35.4,963.8,3.0,175,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,11.0,5.0,SOFT,3.0,1,False,False,145.475,29.2,40.7,35.7,963.8,2.3,162,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,12.0,5.0,SOFT,3.0,1,False,False,144.206,29.2,40.7,35.7,963.8,2.3,162,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,12.0,5.0,SOFT,3.0,1,False,False,140.291,29.2,40.7,35.7,963.8,2.3,162,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,12.0,4.0,SOFT,3.0,1,False,False,129.382,29.2,40.7,35.7,963.8,2.3,162,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,11.0,5.0,SOFT,3.0,1,False,False,144.854,29.2,40.7,35.7,963.8,2.3,162,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+NOR,4,McLaren,12.0,5.0,SOFT,3.0,1,False,False,,29.2,40.7,35.7,963.8,2.3,162,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,12.0,5.0,SOFT,3.0,1,False,False,145.501,29.2,40.7,35.7,963.8,2.3,162,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,13.0,5.0,SOFT,3.0,1,False,False,135.205,29.2,40.7,35.7,963.8,2.3,162,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,10.0,4.0,SOFT,3.0,1,False,False,136.935,29.2,40.7,35.7,963.8,2.3,162,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,10.0,4.0,SOFT,3.0,1,False,False,141.257,29.2,40.9,35.9,963.9,2.0,135,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,13.0,6.0,SOFT,3.0,1,False,False,,29.1,40.2,36.8,963.8,2.5,132,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,13.0,6.0,SOFT,3.0,1,False,False,,29.1,40.2,36.8,963.8,2.5,132,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,12.0,6.0,SOFT,2.0,1,False,False,,29.1,40.2,36.8,963.8,2.5,132,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,13.0,6.0,SOFT,3.0,1,False,False,,29.2,40.8,37.2,963.7,2.1,165,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,14.0,6.0,SOFT,4.0,1,True,False,104.978,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,14.0,6.0,SOFT,4.0,1,True,False,105.711,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,12.0,6.0,SOFT,2.0,1,False,False,,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,14.0,6.0,SOFT,1.0,1,False,False,,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,13.0,6.0,SOFT,3.0,1,True,False,104.257,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,13.0,5.0,SOFT,1.0,1,False,False,,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,11.0,5.0,SOFT,1.0,1,False,False,,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,11.0,5.0,SOFT,1.0,1,False,False,,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,11.0,5.0,SOFT,1.0,1,False,False,,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,14.0,6.0,SOFT,4.0,1,True,False,104.902,29.2,40.8,36.3,963.7,3.1,189,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,15.0,6.0,SOFT,5.0,1,False,False,128.164,29.2,40.3,36.7,963.7,3.1,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,15.0,6.0,SOFT,2.0,1,True,False,103.578,29.2,40.3,36.7,963.7,3.1,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,14.0,5.0,SOFT,2.0,1,True,False,103.282,29.2,40.3,36.7,963.7,3.1,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,15.0,6.0,SOFT,5.0,1,False,False,134.39,29.2,40.3,36.7,963.7,3.1,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,12.0,5.0,SOFT,2.0,1,True,False,104.239,29.2,40.3,36.7,963.7,3.1,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,12.0,5.0,SOFT,2.0,1,True,False,102.644,29.2,40.3,36.7,963.7,3.1,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,13.0,6.0,SOFT,3.0,1,False,False,122.583,29.2,40.3,36.7,963.7,3.1,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,12.0,5.0,SOFT,2.0,1,True,False,103.476,29.2,40.3,36.7,963.7,3.1,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,14.0,6.0,SOFT,4.0,1,False,False,133.883,29.2,40.3,36.7,963.7,3.1,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,15.0,6.0,SOFT,5.0,1,False,False,135.918,29.1,40.4,37.3,963.6,3.8,152,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,16.0,6.0,SOFT,3.0,1,False,False,120.189,29.2,40.8,36.6,963.7,2.2,247,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,15.0,5.0,SOFT,3.0,1,False,False,119.112,29.2,40.8,36.6,963.7,2.2,247,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,13.0,5.0,SOFT,3.0,1,False,False,116.2,29.2,40.8,36.6,963.7,2.2,247,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,13.0,5.0,SOFT,3.0,1,False,False,118.852,29.2,40.8,36.6,963.7,2.2,247,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,13.0,5.0,SOFT,3.0,1,False,False,118.168,29.2,40.8,36.6,963.7,2.2,247,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,16.0,7.0,SOFT,1.0,1,False,False,,29.4,41.0,37.2,963.6,2.2,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,16.0,7.0,SOFT,1.0,1,False,False,,29.4,41.0,37.2,963.6,2.2,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,15.0,7.0,SOFT,1.0,1,False,False,,29.4,41.0,37.2,963.6,2.2,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,16.0,7.0,SOFT,1.0,1,False,False,,29.4,41.0,37.2,963.6,2.2,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,14.0,7.0,SOFT,1.0,1,False,False,,29.4,41.0,37.2,963.6,2.2,161,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,14.0,6.0,SOFT,1.0,1,False,False,,29.4,40.0,37.6,963.6,3.0,164,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,14.0,6.0,SOFT,1.0,1,False,False,,29.4,40.0,37.6,963.6,3.0,164,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,16.0,6.0,SOFT,1.0,1,False,False,,29.4,40.0,37.6,963.6,3.0,164,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,14.0,6.0,SOFT,1.0,1,False,False,,29.4,40.0,37.6,963.6,3.0,164,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,17.0,7.0,SOFT,1.0,1,False,False,,29.4,40.0,37.6,963.6,3.0,164,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,17.0,7.0,SOFT,2.0,1,True,False,104.557,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,17.0,7.0,SOFT,2.0,1,True,False,105.086,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,16.0,7.0,SOFT,2.0,1,True,False,104.514,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,17.0,7.0,SOFT,2.0,1,True,False,104.706,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,15.0,7.0,SOFT,2.0,1,True,False,104.542,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,15.0,6.0,SOFT,2.0,1,True,False,103.69,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,15.0,6.0,SOFT,2.0,1,True,False,102.519,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,17.0,6.0,SOFT,2.0,1,True,False,103.348,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,15.0,6.0,SOFT,2.0,1,True,False,103.267,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,18.0,7.0,SOFT,2.0,1,True,False,103.415,29.4,40.0,37.6,963.5,3.5,148,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,18.0,7.0,SOFT,3.0,1,False,False,,29.4,40.3,37.2,963.5,3.3,158,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,18.0,7.0,SOFT,3.0,1,False,False,,29.4,40.3,37.2,963.5,3.3,158,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+RIC,3,Renault,17.0,7.0,SOFT,3.0,1,False,False,,29.4,40.3,37.2,963.5,3.3,158,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+PER,11,Racing Point,18.0,7.0,SOFT,3.0,1,False,False,,29.4,40.3,37.2,963.5,3.3,158,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VER,33,Red Bull Racing,16.0,6.0,SOFT,3.0,1,False,False,,29.3,40.5,37.3,963.4,3.4,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HUL,27,Renault,16.0,7.0,SOFT,3.0,1,False,False,,29.3,40.5,37.3,963.4,3.4,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+LEC,16,Ferrari,16.0,6.0,SOFT,3.0,1,True,False,137.032,29.3,40.5,37.3,963.4,3.4,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+VET,5,Ferrari,16.0,6.0,SOFT,3.0,1,True,False,139.12,29.3,40.5,37.3,963.4,3.4,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+HAM,44,Mercedes,18.0,6.0,SOFT,3.0,1,True,False,142.385,29.3,40.5,37.3,963.4,3.4,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False
+BOT,77,Mercedes,19.0,7.0,SOFT,3.0,1,False,False,,29.3,40.5,37.3,963.4,3.4,144,False,Spa,2019,13,Belgian Grand Prix,conventional,False

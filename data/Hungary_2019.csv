@@ -1,0 +1,294 @@
+Driver,DriverNumber,Team,LapNumber,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Deleted,LapTimeSeconds,AirTemp,TrackTemp,Humidity,Pressure,WindSpeed,WindDirection,Rainfall,CircuitID,Season,RoundNumber,EventName,EventFormat,IsSprintWeekend
+STR,18,Racing Point,1.0,1.0,SOFT,1.0,1,False,False,,23.1,40.5,54.3,982.5,2.3,149,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,1.0,1.0,SOFT,1.0,1,False,False,,23.1,40.5,54.3,982.5,2.3,149,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KUB,88,Williams,1.0,1.0,SOFT,1.0,1,False,False,,23.1,40.5,54.3,982.5,2.3,149,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,2.0,1.0,SOFT,2.0,1,True,False,78.688,23.0,41.3,54.3,982.5,2.3,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,2.0,1.0,SOFT,2.0,1,True,False,78.143,23.0,41.3,54.3,982.5,2.3,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KUB,88,Williams,2.0,1.0,SOFT,2.0,1,True,False,78.843,23.0,41.3,54.3,982.5,2.3,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,1.0,1.0,SOFT,1.0,1,False,False,,23.0,42.3,55.4,982.5,2.3,114,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,3.0,1.0,SOFT,3.0,1,False,False,90.625,23.0,42.3,55.4,982.5,2.3,114,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,23.0,43.2,55.2,982.5,2.5,127,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,1.0,1.0,SOFT,1.0,1,False,False,,23.0,43.2,55.2,982.5,2.5,127,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,1.0,1.0,SOFT,1.0,1,False,False,,23.0,43.2,55.2,982.5,2.5,127,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,3.0,1.0,SOFT,3.0,1,False,False,87.425,23.0,43.2,55.2,982.5,2.5,127,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KUB,88,Williams,3.0,1.0,SOFT,3.0,1,False,False,91.721,23.0,43.2,55.2,982.5,2.5,127,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,23.0,43.2,55.2,982.5,2.5,127,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,22.8,43.0,55.3,982.4,2.7,126,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,2.0,1.0,SOFT,2.0,1,True,False,77.626,22.8,43.0,55.3,982.4,2.7,126,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,1.0,1.0,SOFT,1.0,1,False,False,,22.8,43.0,55.3,982.4,2.7,126,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,1,True,False,77.989,22.8,43.0,55.3,982.4,2.7,126,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,2.0,1.0,SOFT,2.0,1,True,False,77.6,22.8,43.0,55.3,982.4,2.7,126,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,1,True,False,77.131,22.8,43.0,55.3,982.4,2.7,126,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,22.8,43.0,55.3,982.4,2.7,126,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,1.0,1.0,SOFT,1.0,1,False,False,,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,1.0,1.0,SOFT,1.0,1,False,False,,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,2.0,1.0,SOFT,2.0,1,True,False,77.549,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,76.581,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,1.0,1.0,SOFT,1.0,1,False,False,,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,1.0,1.0,SOFT,1.0,1,False,False,,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,2.0,1.0,SOFT,2.0,1,True,False,76.337,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,1.0,1.0,SOFT,1.0,1,False,False,,22.4,42.9,57.2,982.4,2.5,108,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,3.0,1.0,SOFT,3.0,1,True,False,110.476,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,91.611,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,2.0,1.0,SOFT,2.0,1,True,False,77.446,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,3.0,1.0,SOFT,3.0,1,True,False,121.348,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,3.0,1.0,SOFT,3.0,1,True,False,118.428,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,76.716,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,2.0,1.0,SOFT,2.0,1,True,False,77.566,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,3.0,1.0,SOFT,3.0,1,True,False,122.289,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,76.501,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,2.0,1.0,SOFT,2.0,1,True,False,76.563,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,2.0,1.0,SOFT,2.0,1,True,False,77.208,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,3.0,1.0,SOFT,3.0,1,True,False,104.919,22.4,43.1,58.0,982.4,2.2,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,3.0,1.0,SOFT,3.0,1,True,False,100.039,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,2.0,1.0,SOFT,2.0,1,True,False,75.817,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,4.0,1.0,SOFT,4.0,1,True,False,77.525,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,3.0,1.0,SOFT,3.0,1,True,False,112.705,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,4.0,2.0,SOFT,1.0,1,False,False,,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,3.0,1.0,SOFT,3.0,1,True,False,77.933,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KUB,88,Williams,4.0,2.0,SOFT,1.0,1,False,False,,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,4.0,1.0,SOFT,4.0,1,True,False,77.617,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,4.0,1.0,SOFT,4.0,1,True,False,77.593,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,4.0,2.0,SOFT,1.0,1,False,False,,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,4.0,1.0,SOFT,4.0,1,True,False,78.735,23.0,43.9,54.8,982.4,2.8,123,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,1.0,1.0,SOFT,1.0,1,False,False,,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,3.0,1.0,SOFT,3.0,1,True,False,114.594,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,1.0,1.0,SOFT,1.0,1,False,False,,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,4.0,1.0,SOFT,4.0,1,True,False,77.391,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,3.0,1.0,SOFT,3.0,1,True,False,110.243,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,3.0,1.0,SOFT,3.0,1,True,False,119.469,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,3.0,1.0,SOFT,3.0,1,False,False,99.692,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,3.0,1.0,SOFT,3.0,1,True,False,111.271,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,4.0,1.0,SOFT,4.0,1,True,False,96.16,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,5.0,2.0,SOFT,2.0,12,True,False,77.46,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,4.0,1.0,SOFT,4.0,12,True,False,82.673,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,3.0,1.0,SOFT,3.0,12,True,False,127.166,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,3.0,1.0,SOFT,3.0,12,False,False,106.089,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KUB,88,Williams,5.0,2.0,SOFT,2.0,12,True,False,78.42,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,5.0,1.0,SOFT,5.0,12,False,False,100.206,22.9,43.9,54.8,982.3,3.1,132,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,5.0,2.0,SOFT,2.0,12,True,False,77.796,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,4.0,1.0,SOFT,4.0,12,False,False,96.461,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,5.0,1.0,SOFT,5.0,12,False,False,94.654,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,5.0,1.0,SOFT,5.0,12,False,False,95.194,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,2.0,1.0,SOFT,2.0,12,True,False,77.287,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,5.0,1.0,SOFT,5.0,12,False,False,94.93,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,2.0,1.0,SOFT,2.0,12,True,False,77.267,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,4.0,1.0,SOFT,4.0,12,True,False,76.697,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,4.0,1.0,SOFT,4.0,12,True,False,83.291,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,4.0,1.0,SOFT,4.0,12,False,False,96.649,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,5.0,1.0,SOFT,5.0,12,False,False,97.998,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,5.0,1.0,SOFT,5.0,12,True,False,76.452,23.0,43.8,55.0,982.2,2.9,113,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,6.0,2.0,SOFT,3.0,21,False,False,87.09,23.0,43.9,53.8,982.3,2.1,111,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,4.0,1.0,SOFT,4.0,12,True,False,109.188,23.0,43.9,53.8,982.3,2.1,111,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,5.0,1.0,SOFT,5.0,1,False,False,92.027,23.0,43.9,53.8,982.3,2.1,111,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KUB,88,Williams,6.0,2.0,SOFT,3.0,1,False,False,94.459,23.0,43.9,53.8,982.3,2.1,111,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,6.0,2.0,SOFT,3.0,1,False,False,89.926,23.0,43.9,53.8,982.3,2.1,111,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,4.0,1.0,SOFT,4.0,1,True,False,110.158,23.0,43.9,53.8,982.3,2.1,111,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,3.0,1.0,SOFT,3.0,1,False,False,92.859,23.0,43.9,53.8,982.3,2.1,111,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,3.0,1.0,SOFT,3.0,1,False,False,90.556,23.0,44.5,54.0,982.3,1.8,147,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,5.0,1.0,SOFT,5.0,1,False,False,94.112,23.0,44.5,54.0,982.3,1.8,147,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,5.0,1.0,SOFT,5.0,1,False,False,95.523,23.0,44.5,54.0,982.3,1.8,147,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,6.0,1.0,SOFT,6.0,1,False,False,89.8,23.0,44.5,54.0,982.3,1.8,147,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,5.0,1.0,SOFT,5.0,1,True,False,76.078,23.0,44.5,54.0,982.3,1.8,147,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,5.0,1.0,SOFT,5.0,1,True,False,76.345,23.0,44.5,54.0,982.3,1.8,147,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,5.0,2.0,SOFT,1.0,1,False,False,,23.1,44.5,53.4,982.2,2.0,142,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,6.0,1.0,SOFT,6.0,1,False,False,101.831,23.3,44.5,53.7,982.2,2.0,142,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,6.0,2.0,SOFT,2.0,1,True,False,76.978,23.3,44.5,53.7,982.2,2.0,142,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,6.0,1.0,SOFT,6.0,1,True,False,128.625,23.5,42.8,51.6,982.2,0.8,139,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,7.0,3.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,6.0,2.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,6.0,2.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,6.0,2.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KUB,88,Williams,7.0,3.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,6.0,2.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,7.0,3.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,5.0,2.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,6.0,2.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,7.0,1.0,SOFT,7.0,1,True,False,103.667,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,6.0,2.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,4.0,2.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,4.0,2.0,SOFT,1.0,1,False,False,,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,7.0,2.0,SOFT,3.0,1,True,False,132.63,23.2,41.5,53.6,982.3,1.4,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,4.0,2.0,SOFT,1.0,12,False,False,,23.4,41.9,53.1,982.2,2.1,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,8.0,3.0,SOFT,2.0,1,True,False,77.031,23.4,41.9,53.1,982.2,2.1,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,7.0,2.0,SOFT,2.0,1,True,False,76.912,23.4,41.9,53.1,982.2,2.1,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,7.0,2.0,SOFT,2.0,1,True,False,76.894,23.4,41.9,53.1,982.2,2.1,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,7.0,2.0,SOFT,2.0,1,True,False,76.506,23.4,41.9,53.1,982.2,2.1,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KUB,88,Williams,8.0,3.0,SOFT,2.0,1,True,False,78.324,23.4,41.9,53.1,982.2,2.1,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,7.0,2.0,SOFT,2.0,1,True,False,76.493,23.4,41.9,53.1,982.2,2.1,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,8.0,3.0,SOFT,2.0,1,True,False,77.542,23.4,41.9,53.1,982.2,2.1,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,6.0,2.0,SOFT,2.0,1,True,False,76.122,23.4,41.9,53.1,982.2,2.1,120,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,7.0,2.0,SOFT,2.0,1,True,False,76.75,23.4,41.9,51.0,982.3,2.3,129,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,8.0,1.0,SOFT,8.0,1,True,False,76.068,23.4,41.9,51.0,982.3,2.3,129,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,5.0,2.0,SOFT,2.0,1,True,False,77.109,23.4,41.9,51.0,982.3,2.3,129,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,5.0,2.0,SOFT,2.0,1,True,False,77.257,23.4,41.9,51.0,982.3,2.3,129,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,7.0,2.0,SOFT,2.0,1,False,False,82.548,23.4,41.9,51.0,982.3,2.3,129,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,8.0,2.0,SOFT,4.0,1,True,False,77.011,23.4,41.9,51.0,982.3,2.3,129,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,5.0,2.0,SOFT,2.0,1,True,False,76.79,23.4,41.9,51.0,982.3,2.3,129,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RUS,63,Williams,9.0,3.0,SOFT,3.0,1,False,False,109.882,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,8.0,2.0,SOFT,3.0,1,False,False,107.275,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,8.0,2.0,SOFT,3.0,1,False,False,105.209,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,8.0,2.0,SOFT,3.0,1,False,False,106.599,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KUB,88,Williams,9.0,3.0,SOFT,3.0,1,False,False,101.178,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,8.0,2.0,SOFT,3.0,1,False,False,98.66,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+STR,18,Racing Point,9.0,3.0,SOFT,3.0,1,False,False,95.183,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,7.0,2.0,SOFT,3.0,1,False,False,96.867,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,8.0,2.0,SOFT,3.0,1,False,False,97.552,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,9.0,1.0,SOFT,9.0,1,False,False,98.796,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,9.0,2.0,SOFT,5.0,1,False,False,97.194,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+PER,11,Racing Point,6.0,2.0,SOFT,3.0,1,False,False,104.168,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RIC,3,Renault,6.0,2.0,SOFT,3.0,1,False,False,103.833,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,6.0,2.0,SOFT,3.0,1,False,False,96.786,23.0,42.2,51.9,982.3,1.5,125,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,7.0,2.0,MEDIUM,1.0,1,False,False,,24.4,45.2,49.6,982.4,0.6,288,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,10.0,2.0,MEDIUM,1.0,1,False,False,,24.4,45.2,49.6,982.4,0.6,288,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,6.0,2.0,MEDIUM,1.0,1,False,False,,24.4,45.2,49.6,982.4,0.6,288,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,4.0,2.0,MEDIUM,1.0,1,False,False,,24.4,45.2,49.6,982.4,0.6,288,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,7.0,2.0,MEDIUM,1.0,1,False,False,,24.6,45.3,49.0,982.3,1.0,89,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,6.0,2.0,MEDIUM,1.0,1,False,False,,24.6,45.3,49.0,982.3,1.0,89,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,9.0,3.0,SOFT,1.0,1,False,False,,24.6,45.3,49.0,982.3,1.0,89,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,8.0,2.0,MEDIUM,2.0,1,True,False,75.669,24.6,45.3,49.0,982.3,1.0,89,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,7.0,3.0,SOFT,1.0,1,False,False,,24.6,45.3,49.0,982.3,1.0,89,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,11.0,2.0,MEDIUM,2.0,1,True,False,75.548,24.6,45.3,49.0,982.3,1.0,89,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,9.0,3.0,SOFT,1.0,1,False,False,,24.6,45.3,49.0,982.3,1.0,89,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,7.0,2.0,MEDIUM,2.0,1,True,False,76.421,24.5,45.4,49.0,982.3,2.0,140,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,5.0,2.0,MEDIUM,2.0,1,True,False,75.573,24.5,45.4,49.0,982.3,2.0,140,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,8.0,2.0,MEDIUM,2.0,1,True,False,75.885,24.5,45.4,49.0,982.3,2.0,140,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,7.0,2.0,MEDIUM,2.0,1,True,False,75.807,24.5,45.4,49.0,982.3,2.0,140,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,10.0,3.0,SOFT,2.0,1,True,False,76.687,24.5,45.4,49.0,982.3,2.0,140,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,8.0,3.0,SOFT,2.0,1,True,False,76.565,24.5,45.4,49.0,982.3,2.0,140,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,9.0,2.0,MEDIUM,3.0,1,False,False,100.364,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,10.0,3.0,SOFT,2.0,1,True,False,76.625,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,12.0,2.0,MEDIUM,3.0,1,False,False,99.971,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,9.0,3.0,SOFT,1.0,1,False,False,,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,8.0,3.0,SOFT,1.0,1,False,False,,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,9.0,3.0,SOFT,1.0,1,False,False,,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,9.0,3.0,SOFT,1.0,1,False,False,,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,6.0,2.0,MEDIUM,3.0,1,False,False,100.782,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,9.0,2.0,MEDIUM,3.0,1,False,False,98.625,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,8.0,2.0,MEDIUM,3.0,1,True,False,108.909,24.3,44.7,49.6,982.4,1.3,148,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,8.0,2.0,MEDIUM,3.0,1,False,False,101.566,24.3,45.0,50.2,982.3,2.5,86,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,11.0,3.0,SOFT,3.0,1,False,False,98.348,24.3,45.0,50.2,982.3,2.5,86,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,9.0,3.0,SOFT,3.0,1,False,False,90.868,24.3,45.0,50.2,982.3,2.5,86,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,10.0,3.0,SOFT,2.0,1,True,False,76.692,24.3,45.0,50.2,982.3,2.5,86,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,9.0,3.0,SOFT,2.0,1,True,False,76.06,24.3,45.0,50.2,982.3,2.5,86,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,10.0,3.0,SOFT,2.0,1,True,False,76.804,24.3,45.0,50.2,982.3,2.5,86,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,11.0,3.0,SOFT,3.0,1,False,False,102.349,24.3,45.0,50.2,982.3,2.5,86,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,10.0,3.0,SOFT,2.0,1,True,False,77.484,24.3,45.0,49.9,982.3,1.5,168,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,10.0,3.0,SOFT,1.0,1,False,False,,24.3,45.0,49.9,982.3,1.5,168,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,9.0,2.0,MEDIUM,4.0,1,True,False,76.432,24.3,45.0,49.9,982.3,1.5,168,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,8.0,3.0,SOFT,1.0,1,False,False,,24.3,45.0,49.9,982.3,1.5,168,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,11.0,3.0,SOFT,3.0,1,False,False,93.349,24.7,45.3,49.1,982.3,0.9,164,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,10.0,3.0,SOFT,3.0,1,False,False,97.729,24.7,45.3,49.1,982.3,0.9,164,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,11.0,3.0,SOFT,2.0,1,True,False,76.534,24.7,45.3,49.1,982.3,0.9,164,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,11.0,3.0,SOFT,3.0,1,False,False,91.208,24.7,45.3,49.1,982.3,0.9,164,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,9.0,3.0,SOFT,2.0,1,True,False,77.081,24.7,45.3,49.1,982.3,0.9,164,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,11.0,3.0,SOFT,3.0,1,False,False,97.562,24.7,45.3,49.1,982.3,0.9,164,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,10.0,2.0,MEDIUM,5.0,1,False,False,91.783,24.7,45.3,49.1,982.3,0.9,164,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,12.0,3.0,SOFT,3.0,1,False,False,96.588,24.9,45.4,50.0,982.3,1.3,269,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,10.0,3.0,SOFT,3.0,1,False,False,96.926,24.9,45.4,50.0,982.3,1.3,269,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,11.0,4.0,SOFT,1.0,1,False,False,,24.9,44.8,49.3,982.3,1.4,274,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,13.0,4.0,SOFT,1.0,1,False,False,,24.9,44.8,49.3,982.3,1.4,274,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,12.0,4.0,SOFT,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,12.0,4.0,SOFT,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,12.0,4.0,SOFT,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,11.0,3.0,MEDIUM,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,12.0,4.0,SOFT,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,10.0,3.0,MEDIUM,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,12.0,4.0,SOFT,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,9.0,3.0,MEDIUM,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,7.0,3.0,SOFT,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,10.0,3.0,SOFT,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,13.0,3.0,SOFT,1.0,1,False,False,,24.8,44.5,49.9,982.3,1.8,290,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,11.0,4.0,SOFT,1.0,1,False,False,,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,10.0,4.0,SOFT,1.0,1,False,False,,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,14.0,4.0,SOFT,2.0,1,True,False,76.319,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,12.0,4.0,SOFT,2.0,1,False,False,89.147,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,13.0,4.0,SOFT,2.0,1,True,False,76.308,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,13.0,4.0,SOFT,2.0,1,True,False,76.972,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,13.0,4.0,SOFT,2.0,1,True,False,76.724,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,12.0,3.0,MEDIUM,2.0,1,True,False,76.393,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,13.0,4.0,SOFT,2.0,1,True,False,76.518,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,11.0,3.0,MEDIUM,2.0,1,True,False,75.89,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,13.0,4.0,SOFT,2.0,1,True,False,77.257,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,10.0,3.0,MEDIUM,2.0,1,True,False,75.792,24.5,44.3,50.7,982.3,1.1,292,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,8.0,3.0,SOFT,2.0,1,True,False,77.478,24.2,44.2,52.1,982.3,1.0,298,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,11.0,3.0,SOFT,2.0,1,True,False,77.479,24.2,44.2,52.1,982.3,1.0,298,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,14.0,3.0,SOFT,2.0,1,True,False,76.799,24.2,44.2,52.1,982.3,1.0,298,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,12.0,4.0,SOFT,2.0,1,True,False,77.32,24.2,44.2,52.1,982.3,1.0,298,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,11.0,4.0,SOFT,2.0,1,True,False,76.713,24.2,44.2,52.1,982.3,1.0,298,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,15.0,4.0,SOFT,3.0,1,False,False,103.024,24.2,44.2,52.1,982.3,1.0,298,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,14.0,4.0,SOFT,3.0,1,False,False,99.529,24.2,44.2,52.1,982.3,1.0,298,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GIO,99,Alfa Romeo Racing,14.0,4.0,SOFT,3.0,1,False,False,96.953,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+ALB,23,Toro Rosso,14.0,4.0,SOFT,3.0,1,False,False,107.237,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,13.0,3.0,MEDIUM,3.0,1,False,False,105.077,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,14.0,4.0,SOFT,3.0,1,False,False,106.45,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,12.0,3.0,MEDIUM,3.0,1,False,False,101.834,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+KVY,26,Toro Rosso,14.0,4.0,SOFT,3.0,1,False,False,100.977,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,11.0,3.0,MEDIUM,3.0,1,False,False,100.553,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,9.0,3.0,SOFT,3.0,1,False,False,97.798,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,12.0,3.0,SOFT,3.0,1,False,False,96.539,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,15.0,3.0,SOFT,3.0,1,False,False,93.648,24.3,44.5,50.9,982.2,1.7,248,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+MAG,20,Haas F1 Team,13.0,4.0,SOFT,3.0,1,False,False,102.298,24.2,44.5,51.6,982.2,0.5,0,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HUL,27,Renault,12.0,4.0,SOFT,3.0,1,False,False,98.538,24.2,44.5,51.6,982.2,0.5,0,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,16.0,4.0,SOFT,1.0,1,False,False,,25.1,42.9,48.9,982.3,0.9,300,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,15.0,5.0,SOFT,4.0,1,False,False,,25.1,42.9,48.9,982.3,0.9,300,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,13.0,4.0,SOFT,1.0,1,False,False,,25.1,42.9,48.9,982.3,0.9,300,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,15.0,5.0,SOFT,4.0,1,False,False,,25.1,42.9,48.9,982.3,0.9,300,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,13.0,5.0,SOFT,3.0,1,False,False,,25.1,42.9,48.9,982.3,0.9,300,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,14.0,4.0,SOFT,1.0,1,False,False,,25.1,42.9,48.9,982.3,0.9,300,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,10.0,4.0,SOFT,1.0,1,False,False,,25.1,41.9,47.5,982.4,1.4,287,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,13.0,4.0,SOFT,1.0,1,False,False,,25.1,41.9,47.5,982.4,1.4,287,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,12.0,4.0,SOFT,1.0,1,False,False,,25.1,41.9,47.5,982.4,1.4,287,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,16.0,5.0,SOFT,5.0,1,False,False,,25.1,41.9,47.5,982.4,1.4,287,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,17.0,4.0,SOFT,2.0,1,True,False,75.146,25.1,41.9,47.5,982.4,1.4,287,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,16.0,5.0,SOFT,5.0,1,True,False,77.122,25.1,41.9,47.5,982.4,1.4,287,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,14.0,4.0,SOFT,2.0,1,True,False,75.136,25.1,41.9,47.5,982.4,1.4,287,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,16.0,5.0,SOFT,5.0,1,True,False,76.774,25.1,41.9,47.5,982.4,1.4,287,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,14.0,5.0,SOFT,4.0,1,True,False,76.386,25.1,41.9,47.5,982.4,1.4,287,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,15.0,4.0,SOFT,2.0,1,True,False,75.538,25.0,41.2,47.6,982.3,2.4,259,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,11.0,4.0,SOFT,2.0,1,True,False,74.958,25.0,41.2,47.6,982.3,2.4,259,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,14.0,4.0,SOFT,2.0,1,True,False,75.346,25.0,41.2,47.6,982.3,2.4,259,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,13.0,4.0,SOFT,2.0,1,True,False,75.437,25.0,41.2,47.6,982.3,2.4,259,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,17.0,5.0,SOFT,6.0,1,True,False,77.48,25.0,41.2,47.6,982.3,2.4,259,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,18.0,4.0,SOFT,3.0,1,False,False,92.6,25.0,41.2,47.6,982.3,2.4,259,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,17.0,5.0,SOFT,6.0,1,False,False,93.04,24.6,39.9,49.2,982.3,1.7,268,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,15.0,4.0,SOFT,3.0,1,False,False,94.47,24.6,39.9,49.2,982.3,1.7,268,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,17.0,5.0,SOFT,6.0,1,False,False,95.714,24.6,39.9,49.2,982.3,1.7,268,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,15.0,5.0,SOFT,5.0,1,False,False,95.013,24.6,39.9,49.2,982.3,1.7,268,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,16.0,4.0,SOFT,3.0,1,False,False,95.47,24.6,39.9,49.2,982.3,1.7,268,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,12.0,4.0,SOFT,3.0,1,False,False,86.623,24.6,39.9,49.2,982.3,1.7,268,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,15.0,4.0,SOFT,3.0,1,False,False,90.847,24.6,39.9,49.2,982.3,1.7,268,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,14.0,4.0,SOFT,3.0,1,False,False,90.703,24.4,39.3,48.8,982.3,2.0,258,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,18.0,5.0,SOFT,7.0,1,False,False,90.839,24.4,39.3,48.8,982.3,2.0,258,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,19.0,6.0,SOFT,1.0,1,False,False,,24.4,40.9,48.7,982.2,1.3,281,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,16.0,6.0,SOFT,1.0,1,False,False,,24.4,40.9,48.7,982.2,1.3,281,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,18.0,6.0,SOFT,1.0,1,False,False,,24.4,40.9,48.7,982.2,1.3,281,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,18.0,6.0,SOFT,1.0,1,False,False,,24.5,40.1,48.4,982.1,1.5,276,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,17.0,5.0,SOFT,1.0,1,False,False,,24.5,40.1,48.4,982.1,1.5,276,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,15.0,5.0,SOFT,1.0,1,False,False,,24.5,40.1,48.4,982.1,1.5,276,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,13.0,5.0,SOFT,1.0,1,False,False,,24.5,40.1,48.4,982.1,1.5,276,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,16.0,5.0,SOFT,1.0,1,False,False,,24.5,40.1,48.4,982.1,1.5,276,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,19.0,5.0,SOFT,1.0,1,False,False,,24.5,40.1,48.4,982.1,1.5,276,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,16.0,5.0,SOFT,1.0,1,False,False,,24.5,40.1,48.4,982.1,1.5,276,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,20.0,6.0,SOFT,2.0,1,True,False,76.013,24.5,40.1,48.4,982.1,1.5,276,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,17.0,6.0,SOFT,2.0,1,True,False,75.8,24.4,39.2,48.6,982.2,1.2,275,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,19.0,6.0,SOFT,2.0,1,True,False,76.041,24.4,39.2,48.6,982.2,1.2,275,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,19.0,6.0,SOFT,2.0,1,True,False,75.852,24.4,39.2,48.6,982.2,1.2,275,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,18.0,5.0,SOFT,2.0,1,True,False,75.45,24.4,39.2,48.6,982.2,1.2,275,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,16.0,5.0,SOFT,2.0,1,True,False,75.043,24.4,39.2,48.6,982.2,1.2,275,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,14.0,5.0,SOFT,2.0,1,True,False,74.572,24.4,39.2,48.6,982.2,1.2,275,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,17.0,5.0,SOFT,2.0,1,True,False,74.59,24.3,38.5,49.0,982.2,0.6,0,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,20.0,5.0,SOFT,2.0,1,True,False,74.769,24.3,38.5,49.0,982.2,0.6,0,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,17.0,5.0,SOFT,2.0,1,True,False,75.071,24.3,38.5,49.0,982.2,0.6,0,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GRO,8,Haas F1 Team,21.0,6.0,SOFT,3.0,1,False,False,,24.3,38.5,49.0,982.2,0.6,0,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+NOR,4,McLaren,18.0,6.0,SOFT,3.0,1,False,False,,24.3,38.5,49.0,982.2,0.6,0,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+RAI,7,Alfa Romeo Racing,20.0,6.0,SOFT,3.0,1,False,False,,24.3,38.5,49.0,982.2,0.6,0,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+SAI,55,McLaren,20.0,6.0,SOFT,3.0,1,False,False,,24.3,38.5,49.0,982.2,0.6,0,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+LEC,16,Ferrari,17.0,5.0,SOFT,3.0,1,False,False,,24.3,38.2,49.6,982.2,1.5,243,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+GAS,10,Red Bull Racing,19.0,5.0,SOFT,3.0,1,False,False,,24.3,38.2,49.6,982.2,1.5,243,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VER,33,Red Bull Racing,15.0,5.0,SOFT,3.0,1,True,False,107.461,24.3,38.2,49.6,982.2,1.5,243,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+BOT,77,Mercedes,18.0,5.0,SOFT,3.0,1,True,False,105.109,24.3,38.2,49.6,982.2,1.5,243,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+VET,5,Ferrari,18.0,5.0,SOFT,3.0,1,False,False,,24.3,38.2,49.6,982.2,1.5,243,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
+HAM,44,Mercedes,21.0,5.0,SOFT,3.0,1,True,False,101.579,24.3,38.2,49.6,982.2,1.5,243,False,Hungary,2019,12,Hungarian Grand Prix,conventional,False
